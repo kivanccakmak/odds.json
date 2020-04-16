@@ -1,0 +1,7784 @@
+{
+    "B365": [
+        {
+            "A": "Norwich City FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 19.0,
+                "D": 10.0,
+                "H": 1.14
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 1.22,
+                "D": 6.5,
+                "H": 12.0
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 3.6,
+                "D": 3.6,
+                "H": 1.95
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 2.75,
+                "D": 3.2,
+                "H": 2.62
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 2.37,
+                "D": 3.25,
+                "H": 3.0
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 4.0,
+                "D": 3.4,
+                "H": 1.9
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 10.0,
+                "D": 5.25,
+                "H": 1.3
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 3.4,
+                "D": 3.2,
+                "H": 2.2
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 1.72,
+                "D": 3.75,
+                "H": 4.5
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 3.5,
+                "D": 3.3,
+                "H": 2.1
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 10.0,
+                "D": 5.5,
+                "H": 1.3
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 3.1,
+                "D": 3.4,
+                "H": 2.3
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 2.87,
+                "D": 3.25,
+                "H": 2.55
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 4.75,
+                "D": 3.8,
+                "H": 1.72
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 3.3,
+                "D": 3.3,
+                "H": 2.25
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 1.44,
+                "D": 4.75,
+                "H": 6.5
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 8.0,
+                "D": 5.25,
+                "H": 1.36
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 2.9,
+                "D": 3.1,
+                "H": 2.55
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 5.0,
+                "D": 3.75,
+                "H": 1.7
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 2.25,
+                "D": 3.3,
+                "H": 3.3
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 2.15,
+                "D": 3.5,
+                "H": 3.25
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 1.8,
+                "D": 3.75,
+                "H": 4.33
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 3.0,
+                "D": 3.3,
+                "H": 2.4
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 9.0,
+                "D": 5.25,
+                "H": 1.33
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 2.25,
+                "D": 3.3,
+                "H": 3.3
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 3.5,
+                "D": 3.5,
+                "H": 2.05
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 6.0,
+                "D": 4.6,
+                "H": 1.5
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 1.16,
+                "D": 7.5,
+                "H": 15.0
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 14.0,
+                "D": 6.5,
+                "H": 1.2
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 4.5,
+                "D": 3.4,
+                "H": 1.85
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 2.05,
+                "D": 3.3,
+                "H": 3.8
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 9.0,
+                "D": 4.75,
+                "H": 1.36
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 3.5,
+                "D": 3.3,
+                "H": 2.15
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 4.75,
+                "D": 4.0,
+                "H": 1.7
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 26.0,
+                "D": 10.0,
+                "H": 1.08
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 2.87,
+                "D": 3.25,
+                "H": 2.5
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 3.9,
+                "D": 3.9,
+                "H": 1.85
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 1.3,
+                "D": 5.5,
+                "H": 9.5
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 3.5,
+                "D": 3.25,
+                "H": 2.2
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 2.8,
+                "D": 3.6,
+                "H": 2.37
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 17.0,
+                "D": 8.5,
+                "H": 1.14
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 3.5,
+                "D": 3.3,
+                "H": 2.15
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 4.0,
+                "D": 3.5,
+                "H": 1.95
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 3.0,
+                "D": 3.2,
+                "H": 2.45
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 8.0,
+                "D": 5.25,
+                "H": 1.36
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 2.5,
+                "D": 3.3,
+                "H": 2.9
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 1.14,
+                "D": 9.0,
+                "H": 15.0
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 2.4,
+                "D": 3.5,
+                "H": 2.9
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 2.0,
+                "D": 3.6,
+                "H": 3.6
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 2.6,
+                "D": 3.5,
+                "H": 2.62
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Southampton FC",
+            "O": {
+                "A": 3.5,
+                "D": 3.6,
+                "H": 2.05
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 2.37,
+                "D": 3.5,
+                "H": 2.87
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 3.5,
+                "D": 3.8,
+                "H": 2.0
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 6.0,
+                "D": 3.75,
+                "H": 1.61
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 21.0,
+                "D": 11.0,
+                "H": 1.1
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 3.0,
+                "D": 3.2,
+                "H": 2.5
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 2.87,
+                "D": 3.1,
+                "H": 2.62
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 2.2,
+                "D": 3.6,
+                "H": 3.1
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 8.0,
+                "D": 4.75,
+                "H": 1.4
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 2.0,
+                "D": 3.75,
+                "H": 3.5
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 1.33,
+                "D": 5.25,
+                "H": 9.0
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 3.1,
+                "D": 3.4,
+                "H": 2.3
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 2.75,
+                "D": 3.5,
+                "H": 2.5
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 8.0,
+                "D": 4.75,
+                "H": 1.4
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 3.75,
+                "D": 3.75,
+                "H": 1.9
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 8.0,
+                "D": 4.75,
+                "H": 1.4
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 4.5,
+                "D": 3.4,
+                "H": 1.85
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 1.3,
+                "D": 5.5,
+                "H": 10.0
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 7.5,
+                "D": 4.0,
+                "H": 1.5
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 2.9,
+                "D": 3.5,
+                "H": 2.37
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 1.9,
+                "D": 3.6,
+                "H": 3.9
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 2.5,
+                "D": 3.3,
+                "H": 2.87
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 7.0,
+                "D": 4.75,
+                "H": 1.44
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 2.8,
+                "D": 3.6,
+                "H": 2.37
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 3.6,
+                "D": 3.4,
+                "H": 2.05
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 3.8,
+                "D": 3.6,
+                "H": 1.95
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 7.0,
+                "D": 4.75,
+                "H": 1.44
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 21.0,
+                "D": 9.0,
+                "H": 1.12
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 1.85,
+                "D": 3.8,
+                "H": 4.0
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 1.85,
+                "D": 3.5,
+                "H": 4.5
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 3.75,
+                "D": 3.75,
+                "H": 1.95
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 3.0,
+                "D": 3.4,
+                "H": 2.35
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 4.2,
+                "D": 4.2,
+                "H": 1.72
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 10.0,
+                "D": 5.5,
+                "H": 1.3
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 6.0,
+                "D": 4.0,
+                "H": 1.57
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 7.5,
+                "D": 5.0,
+                "H": 1.4
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 4.5,
+                "D": 3.6,
+                "H": 1.8
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 1.22,
+                "D": 7.0,
+                "H": 12.0
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 1.65,
+                "D": 3.8,
+                "H": 5.25
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 1.9,
+                "D": 3.75,
+                "H": 3.9
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 2.3,
+                "D": 3.4,
+                "H": 3.1
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 26.0,
+                "D": 11.0,
+                "H": 1.08
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 2.5,
+                "D": 3.25,
+                "H": 2.9
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Watford FC",
+            "O": {
+                "A": 3.25,
+                "D": 3.6,
+                "H": 2.15
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 3.5,
+                "D": 3.5,
+                "H": 2.1
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 1.72,
+                "D": 4.0,
+                "H": 4.5
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 2.55,
+                "D": 3.1,
+                "H": 3.0
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 6.5,
+                "D": 4.75,
+                "H": 1.45
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 6.5,
+                "D": 4.33,
+                "H": 1.5
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 1.75,
+                "D": 4.0,
+                "H": 4.33
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 2.15,
+                "D": 3.6,
+                "H": 3.25
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 4.75,
+                "D": 3.75,
+                "H": 1.75
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 1.33,
+                "D": 5.0,
+                "H": 9.0
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 4.33,
+                "D": 4.2,
+                "H": 1.72
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 23.0,
+                "D": 13.0,
+                "H": 1.07
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 3.4,
+                "D": 3.2,
+                "H": 2.25
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 4.5,
+                "D": 3.8,
+                "H": 1.75
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 1.61,
+                "D": 4.33,
+                "H": 5.0
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 2.1,
+                "D": 3.4,
+                "H": 3.5
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 2.6,
+                "D": 3.4,
+                "H": 2.7
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 2.55,
+                "D": 3.5,
+                "H": 2.7
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 10.0,
+                "D": 5.0,
+                "H": 1.33
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 3.1,
+                "D": 3.5,
+                "H": 2.25
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 2.8,
+                "D": 3.25,
+                "H": 2.55
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 2.45,
+                "D": 3.3,
+                "H": 2.9
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 6.0,
+                "D": 4.0,
+                "H": 1.57
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 3.5,
+                "D": 3.75,
+                "H": 2.0
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 6.5,
+                "D": 3.75,
+                "H": 1.6
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 4.2,
+                "D": 3.5,
+                "H": 1.9
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 2.62,
+                "D": 3.6,
+                "H": 2.5
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 1.7,
+                "D": 4.33,
+                "H": 4.2
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 6.5,
+                "D": 4.75,
+                "H": 1.45
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 2.6,
+                "D": 3.3,
+                "H": 2.75
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 2.0,
+                "D": 3.5,
+                "H": 3.75
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 1.4,
+                "D": 4.75,
+                "H": 7.5
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 8.0,
+                "D": 5.1,
+                "H": 1.36
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 3.1,
+                "D": 3.4,
+                "H": 2.3
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 6.5,
+                "D": 5.0,
+                "H": 1.44
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 2.1,
+                "D": 3.4,
+                "H": 3.5
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 3.7,
+                "D": 3.4,
+                "H": 2.05
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 1.16,
+                "D": 8.0,
+                "H": 13.0
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 3.3,
+                "D": 3.25,
+                "H": 2.25
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 9.0,
+                "D": 6.0,
+                "H": 1.28
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 15.0,
+                "D": 7.0,
+                "H": 1.18
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 7.5,
+                "D": 5.5,
+                "H": 1.36
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 3.5,
+                "D": 3.4,
+                "H": 2.1
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 1.75,
+                "D": 4.33,
+                "H": 4.0
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 4.2,
+                "D": 3.5,
+                "H": 1.9
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 5.25,
+                "D": 4.0,
+                "H": 1.61
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 7.0,
+                "D": 4.5,
+                "H": 1.45
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 3.25,
+                "D": 3.4,
+                "H": 2.2
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 1.22,
+                "D": 7.0,
+                "H": 11.0
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 10.0,
+                "D": 5.75,
+                "H": 1.28
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 8.0,
+                "D": 5.5,
+                "H": 1.33
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 2.55,
+                "D": 3.4,
+                "H": 2.75
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 4.2,
+                "D": 4.0,
+                "H": 1.72
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 4.75,
+                "D": 3.7,
+                "H": 1.75
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 8.5,
+                "D": 5.0,
+                "H": 1.36
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 4.6,
+                "D": 3.4,
+                "H": 1.83
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 5.5,
+                "D": 4.33,
+                "H": 1.57
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 2.0,
+                "D": 3.75,
+                "H": 3.5
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 1.4,
+                "D": 5.25,
+                "H": 7.0
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 8.0,
+                "D": 4.75,
+                "H": 1.4
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 3.1,
+                "D": 3.3,
+                "H": 2.37
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 10.0,
+                "D": 5.5,
+                "H": 1.3
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 1.8,
+                "D": 3.8,
+                "H": 4.33
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 2.9,
+                "D": 3.2,
+                "H": 2.5
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 2.37,
+                "D": 3.5,
+                "H": 2.9
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 2.87,
+                "D": 3.1,
+                "H": 2.62
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 2.0,
+                "D": 4.0,
+                "H": 3.3
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 17.0,
+                "D": 7.5,
+                "H": 1.16
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 4.0,
+                "D": 3.4,
+                "H": 1.95
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 12.0,
+                "D": 6.0,
+                "H": 1.25
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 13.0,
+                "D": 6.5,
+                "H": 1.22
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 4.2,
+                "D": 3.75,
+                "H": 1.85
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 3.8,
+                "D": 3.8,
+                "H": 1.9
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 4.5,
+                "D": 3.7,
+                "H": 1.8
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 2.25,
+                "D": 3.4,
+                "H": 3.25
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 1.44,
+                "D": 5.25,
+                "H": 6.0
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 2.87,
+                "D": 3.25,
+                "H": 2.55
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 2.87,
+                "D": 3.8,
+                "H": 2.3
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 2.8,
+                "D": 3.6,
+                "H": 2.4
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 2.9,
+                "D": 3.4,
+                "H": 2.4
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 3.5,
+                "D": 3.25,
+                "H": 2.2
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 3.25,
+                "D": 3.1,
+                "H": 2.37
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 1.9,
+                "D": 3.8,
+                "H": 3.75
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 7.5,
+                "D": 5.25,
+                "H": 1.36
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 1.75,
+                "D": 4.0,
+                "H": 4.33
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 2.75,
+                "D": 3.75,
+                "H": 2.37
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 6.0,
+                "D": 4.33,
+                "H": 1.53
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 3.3,
+                "D": 3.75,
+                "H": 2.1
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 1.95,
+                "D": 3.9,
+                "H": 3.5
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 9.0,
+                "D": 5.25,
+                "H": 1.33
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 3.1,
+                "D": 3.4,
+                "H": 2.3
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 5.0,
+                "D": 3.75,
+                "H": 1.7
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 4.33,
+                "D": 3.6,
+                "H": 1.83
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 9.0,
+                "D": 5.25,
+                "H": 1.33
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 2.05,
+                "D": 3.75,
+                "H": 3.4
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 1.36,
+                "D": 5.0,
+                "H": 8.5
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 4.33,
+                "D": 3.9,
+                "H": 1.75
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 2.05,
+                "D": 3.4,
+                "H": 3.6
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 3.8,
+                "D": 3.6,
+                "H": 1.95
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 3.6,
+                "D": 3.8,
+                "H": 1.95
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 1.66,
+                "D": 4.0,
+                "H": 5.0
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 1.83,
+                "D": 3.9,
+                "H": 4.0
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 1.8,
+                "D": 3.75,
+                "H": 4.33
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 2.3,
+                "D": 3.75,
+                "H": 2.87
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 12.0,
+                "D": 5.75,
+                "H": 1.25
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 16.0,
+                "D": 7.5,
+                "H": 1.16
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 1.95,
+                "D": 3.6,
+                "H": 3.6
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 4.33,
+                "D": 3.8,
+                "H": 1.75
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 1.66,
+                "D": 3.8,
+                "H": 5.0
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 2.1,
+                "D": 3.5,
+                "H": 3.3
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 2.3,
+                "D": 3.4,
+                "H": 3.0
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 10.0,
+                "D": 6.5,
+                "H": 1.25
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 2.75,
+                "D": 3.4,
+                "H": 2.5
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 3.8,
+                "D": 3.75,
+                "H": 1.9
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 2.62,
+                "D": 3.6,
+                "H": 2.55
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 13.0,
+                "D": 6.5,
+                "H": 1.2
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 4.0,
+                "D": 3.4,
+                "H": 1.95
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 1.8,
+                "D": 3.9,
+                "H": 4.1
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 11.0,
+                "D": 5.5,
+                "H": 1.28
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 4.0,
+                "D": 3.8,
+                "H": 1.85
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 5.5,
+                "D": 4.0,
+                "H": 1.6
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 8.5,
+                "D": 5.25,
+                "H": 1.33
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 7.5,
+                "D": 4.5,
+                "H": 1.44
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 1.66,
+                "D": 4.33,
+                "H": 4.5
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 2.7,
+                "D": 3.3,
+                "H": 2.6
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 1.16,
+                "D": 8.5,
+                "H": 13.0
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 2.2,
+                "D": 3.5,
+                "H": 3.25
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 4.33,
+                "D": 3.6,
+                "H": 1.83
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 5.0,
+                "D": 4.0,
+                "H": 1.66
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 19.0,
+                "D": 11.0,
+                "H": 1.1
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 3.25,
+                "D": 3.5,
+                "H": 2.2
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 3.0,
+                "D": 3.4,
+                "H": 2.4
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 2.37,
+                "D": 3.5,
+                "H": 2.9
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 1.5,
+                "D": 4.5,
+                "H": 6.0
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 1.83,
+                "D": 3.75,
+                "H": 4.33
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 8.0,
+                "D": 5.25,
+                "H": 1.36
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 2.45,
+                "D": 3.5,
+                "H": 2.8
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 2.45,
+                "D": 3.4,
+                "H": 2.87
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 2.7,
+                "D": 3.25,
+                "H": 2.7
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 6.0,
+                "D": 4.1,
+                "H": 1.55
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 1.4,
+                "D": 5.0,
+                "H": 7.0
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 4.5,
+                "D": 3.9,
+                "H": 1.72
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 6.0,
+                "D": 4.33,
+                "H": 1.53
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 7.5,
+                "D": 5.0,
+                "H": 1.4
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 9.0,
+                "D": 4.75,
+                "H": 1.36
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 1.61,
+                "D": 3.8,
+                "H": 5.75
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 1.33,
+                "D": 5.5,
+                "H": 8.5
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 2.7,
+                "D": 3.6,
+                "H": 2.5
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 3.3,
+                "D": 3.6,
+                "H": 2.1
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 2.5,
+                "D": 3.1,
+                "H": 3.1
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 12.0,
+                "D": 6.0,
+                "H": 1.25
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 3.3,
+                "D": 3.4,
+                "H": 2.2
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 2.62,
+                "D": 3.3,
+                "H": 2.75
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 2.75,
+                "D": 3.3,
+                "H": 2.6
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 3.4,
+                "D": 3.25,
+                "H": 2.25
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 2.0,
+                "D": 3.6,
+                "H": 3.6
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 1.53,
+                "D": 4.6,
+                "H": 5.5
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 6.0,
+                "D": 3.8,
+                "H": 1.61
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 3.6,
+                "D": 3.4,
+                "H": 2.1
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 5.75,
+                "D": 3.6,
+                "H": 1.66
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 2.87,
+                "D": 3.3,
+                "H": 2.5
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 4.75,
+                "D": 3.8,
+                "H": 1.75
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 1.25,
+                "D": 6.25,
+                "H": 11.0
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 1.85,
+                "D": 3.8,
+                "H": 4.0
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 8.0,
+                "D": 4.75,
+                "H": 1.4
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 4.5,
+                "D": 3.5,
+                "H": 1.85
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 17.0,
+                "D": 9.5,
+                "H": 1.12
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 4.5,
+                "D": 4.0,
+                "H": 1.72
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Burnley FC",
+            "O": {
+                "A": 3.7,
+                "D": 3.3,
+                "H": 2.1
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 4.2,
+                "D": 3.4,
+                "H": 1.95
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 4.2,
+                "D": 3.4,
+                "H": 1.95
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 5.0,
+                "D": 4.33,
+                "H": 1.61
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 1.7,
+                "D": 4.2,
+                "H": 4.5
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 6.0,
+                "D": 3.9,
+                "H": 1.6
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 7.0,
+                "D": 4.2,
+                "H": 1.5
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 3.7,
+                "D": 3.6,
+                "H": 2.0
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 15.0,
+                "D": 8.0,
+                "H": 1.16
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 1.72,
+                "D": 4.1,
+                "H": 4.33
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 3.9,
+                "D": 3.25,
+                "H": 2.05
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 1.72,
+                "D": 3.8,
+                "H": 4.75
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 2.9,
+                "D": 3.1,
+                "H": 2.62
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 2.5,
+                "D": 3.6,
+                "H": 2.65
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 1.4,
+                "D": 4.75,
+                "H": 8.0
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 2.9,
+                "D": 3.25,
+                "H": 2.5
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 3.0,
+                "D": 3.2,
+                "H": 2.45
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 13.0,
+                "D": 6.5,
+                "H": 1.22
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 5.5,
+                "D": 4.4,
+                "H": 1.57
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 2.9,
+                "D": 3.2,
+                "H": 2.55
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 5.75,
+                "D": 3.75,
+                "H": 1.65
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 5.25,
+                "D": 4.1,
+                "H": 1.61
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 5.75,
+                "D": 3.9,
+                "H": 1.61
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 2.62,
+                "D": 3.3,
+                "H": 2.7
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 4.2,
+                "D": 3.9,
+                "H": 1.8
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 1.6,
+                "D": 4.33,
+                "H": 5.0
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 8.0,
+                "D": 5.25,
+                "H": 1.36
+            }
+        }
+    ],
+    "BW": [
+        {
+            "A": "Norwich City FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 18.5,
+                "D": 8.25,
+                "H": 1.14
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 1.26,
+                "D": 5.75,
+                "H": 11.5
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 3.9,
+                "D": 3.6,
+                "H": 1.95
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 2.75,
+                "D": 3.2,
+                "H": 2.65
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 2.35,
+                "D": 3.2,
+                "H": 3.2
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 4.33,
+                "D": 3.4,
+                "H": 1.9
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 10.0,
+                "D": 5.5,
+                "H": 1.3
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 3.3,
+                "D": 3.3,
+                "H": 2.25
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 1.78,
+                "D": 3.75,
+                "H": 4.5
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 3.5,
+                "D": 3.3,
+                "H": 2.15
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 10.0,
+                "D": 5.5,
+                "H": 1.3
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 3.1,
+                "D": 3.5,
+                "H": 2.25
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 2.9,
+                "D": 3.3,
+                "H": 2.5
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 5.0,
+                "D": 4.0,
+                "H": 1.67
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 3.3,
+                "D": 3.3,
+                "H": 2.25
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 1.48,
+                "D": 4.75,
+                "H": 6.25
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 7.75,
+                "D": 5.5,
+                "H": 1.35
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 2.9,
+                "D": 3.2,
+                "H": 2.55
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 5.0,
+                "D": 3.7,
+                "H": 1.72
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 2.3,
+                "D": 3.25,
+                "H": 3.3
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 2.25,
+                "D": 3.5,
+                "H": 3.1
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 1.8,
+                "D": 3.8,
+                "H": 4.33
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 3.1,
+                "D": 3.2,
+                "H": 2.4
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 8.5,
+                "D": 5.0,
+                "H": 1.36
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 2.2,
+                "D": 3.2,
+                "H": 3.5
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 3.4,
+                "D": 3.6,
+                "H": 2.1
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 6.0,
+                "D": 4.75,
+                "H": 1.48
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 1.2,
+                "D": 7.0,
+                "H": 13.5
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 13.5,
+                "D": 6.5,
+                "H": 1.22
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 4.6,
+                "D": 3.5,
+                "H": 1.83
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 2.05,
+                "D": 3.4,
+                "H": 3.7
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 9.5,
+                "D": 5.0,
+                "H": 1.34
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 3.4,
+                "D": 3.3,
+                "H": 2.2
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 4.75,
+                "D": 4.0,
+                "H": 1.7
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 31.0,
+                "D": 11.5,
+                "H": 1.07
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 2.85,
+                "D": 3.3,
+                "H": 2.5
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 4.0,
+                "D": 3.8,
+                "H": 1.87
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 1.3,
+                "D": 5.5,
+                "H": 9.75
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 3.6,
+                "D": 3.25,
+                "H": 2.15
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 2.8,
+                "D": 3.6,
+                "H": 2.4
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 18.5,
+                "D": 8.25,
+                "H": 1.14
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 3.5,
+                "D": 3.3,
+                "H": 2.15
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 4.1,
+                "D": 3.7,
+                "H": 1.87
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 3.1,
+                "D": 3.1,
+                "H": 2.45
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 8.5,
+                "D": 5.0,
+                "H": 1.36
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 2.4,
+                "D": 3.4,
+                "H": 2.95
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 1.16,
+                "D": 8.5,
+                "H": 14.5
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 2.3,
+                "D": 3.5,
+                "H": 3.0
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 1.91,
+                "D": 3.8,
+                "H": 3.8
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 2.7,
+                "D": 3.4,
+                "H": 2.6
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Southampton FC",
+            "O": {
+                "A": 3.6,
+                "D": 3.7,
+                "H": 2.0
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 2.4,
+                "D": 3.4,
+                "H": 2.95
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 3.6,
+                "D": 3.8,
+                "H": 1.95
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 5.5,
+                "D": 3.8,
+                "H": 1.65
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 17.5,
+                "D": 10.5,
+                "H": 1.11
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 3.0,
+                "D": 3.2,
+                "H": 2.45
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 2.95,
+                "D": 3.0,
+                "H": 2.65
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 2.15,
+                "D": 3.6,
+                "H": 3.25
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 7.25,
+                "D": 5.0,
+                "H": 1.4
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 2.0,
+                "D": 3.7,
+                "H": 3.6
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 1.33,
+                "D": 5.25,
+                "H": 9.5
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 3.1,
+                "D": 3.3,
+                "H": 2.35
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 2.7,
+                "D": 3.6,
+                "H": 2.5
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 7.75,
+                "D": 4.6,
+                "H": 1.42
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 3.8,
+                "D": 3.6,
+                "H": 1.95
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 7.5,
+                "D": 4.6,
+                "H": 1.42
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 4.33,
+                "D": 3.5,
+                "H": 1.87
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 1.28,
+                "D": 6.0,
+                "H": 9.75
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 6.75,
+                "D": 4.0,
+                "H": 1.53
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 3.0,
+                "D": 3.4,
+                "H": 2.35
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 1.95,
+                "D": 3.6,
+                "H": 3.8
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 2.55,
+                "D": 3.25,
+                "H": 2.85
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 7.0,
+                "D": 4.6,
+                "H": 1.45
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 2.95,
+                "D": 3.6,
+                "H": 2.3
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 3.4,
+                "D": 3.3,
+                "H": 2.2
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 3.75,
+                "D": 3.5,
+                "H": 2.0
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 6.75,
+                "D": 5.0,
+                "H": 1.42
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 19.5,
+                "D": 9.0,
+                "H": 1.13
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 1.87,
+                "D": 3.75,
+                "H": 4.0
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 1.87,
+                "D": 3.4,
+                "H": 4.5
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 3.8,
+                "D": 3.6,
+                "H": 1.95
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 3.0,
+                "D": 3.3,
+                "H": 2.4
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 4.33,
+                "D": 4.2,
+                "H": 1.72
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 10.0,
+                "D": 5.5,
+                "H": 1.3
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 6.5,
+                "D": 4.0,
+                "H": 1.55
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 7.25,
+                "D": 4.75,
+                "H": 1.42
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 4.5,
+                "D": 3.5,
+                "H": 1.83
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 1.22,
+                "D": 6.5,
+                "H": 12.5
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 1.67,
+                "D": 4.0,
+                "H": 5.0
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 1.91,
+                "D": 3.75,
+                "H": 3.8
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 2.3,
+                "D": 3.4,
+                "H": 3.25
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 23.0,
+                "D": 11.0,
+                "H": 1.09
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 2.55,
+                "D": 3.3,
+                "H": 2.85
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Watford FC",
+            "O": {
+                "A": 3.2,
+                "D": 3.5,
+                "H": 2.2
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 3.6,
+                "D": 3.5,
+                "H": 2.05
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 1.75,
+                "D": 3.9,
+                "H": 4.5
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 2.6,
+                "D": 3.1,
+                "H": 2.9
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 6.5,
+                "D": 4.75,
+                "H": 1.45
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 6.25,
+                "D": 4.5,
+                "H": 1.5
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 1.75,
+                "D": 4.0,
+                "H": 4.33
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 2.15,
+                "D": 3.6,
+                "H": 3.25
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 4.6,
+                "D": 3.7,
+                "H": 1.78
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 1.35,
+                "D": 5.0,
+                "H": 9.25
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 4.33,
+                "D": 4.2,
+                "H": 1.72
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 23.0,
+                "D": 11.0,
+                "H": 1.09
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 3.5,
+                "D": 3.2,
+                "H": 2.2
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 4.25,
+                "D": 3.8,
+                "H": 1.8
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 1.65,
+                "D": 4.2,
+                "H": 4.75
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 2.15,
+                "D": 3.3,
+                "H": 3.5
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 2.5,
+                "D": 3.4,
+                "H": 2.8
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 2.6,
+                "D": 3.5,
+                "H": 2.7
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 8.75,
+                "D": 5.25,
+                "H": 1.34
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 3.0,
+                "D": 3.5,
+                "H": 2.3
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 2.8,
+                "D": 3.1,
+                "H": 2.7
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 2.45,
+                "D": 3.4,
+                "H": 2.9
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 6.0,
+                "D": 4.0,
+                "H": 1.57
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 3.5,
+                "D": 3.8,
+                "H": 2.0
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 6.0,
+                "D": 3.8,
+                "H": 1.6
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 4.33,
+                "D": 3.6,
+                "H": 1.85
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 2.55,
+                "D": 3.6,
+                "H": 2.65
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 1.75,
+                "D": 4.0,
+                "H": 4.33
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 6.5,
+                "D": 4.75,
+                "H": 1.45
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 2.5,
+                "D": 3.3,
+                "H": 2.85
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 2.0,
+                "D": 3.6,
+                "H": 3.7
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 1.44,
+                "D": 4.5,
+                "H": 7.5
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 7.25,
+                "D": 5.0,
+                "H": 1.4
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 3.2,
+                "D": 3.3,
+                "H": 2.3
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 6.25,
+                "D": 5.0,
+                "H": 1.45
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 2.15,
+                "D": 3.25,
+                "H": 3.6
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 3.6,
+                "D": 3.4,
+                "H": 2.1
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 1.18,
+                "D": 7.25,
+                "H": 15.0
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 3.3,
+                "D": 3.2,
+                "H": 2.3
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 9.75,
+                "D": 6.0,
+                "H": 1.28
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 13.0,
+                "D": 7.0,
+                "H": 1.2
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 7.5,
+                "D": 5.0,
+                "H": 1.4
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 3.5,
+                "D": 3.5,
+                "H": 2.1
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 1.75,
+                "D": 4.25,
+                "H": 4.1
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 4.33,
+                "D": 3.4,
+                "H": 1.9
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 5.25,
+                "D": 4.25,
+                "H": 1.6
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 6.75,
+                "D": 4.4,
+                "H": 1.48
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 3.4,
+                "D": 3.3,
+                "H": 2.2
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 1.25,
+                "D": 6.25,
+                "H": 11.5
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 10.5,
+                "D": 5.75,
+                "H": 1.28
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 8.75,
+                "D": 5.25,
+                "H": 1.34
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 2.6,
+                "D": 3.5,
+                "H": 2.65
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 4.33,
+                "D": 4.0,
+                "H": 1.75
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 4.6,
+                "D": 3.8,
+                "H": 1.75
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 7.75,
+                "D": 4.75,
+                "H": 1.4
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 4.75,
+                "D": 3.4,
+                "H": 1.83
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 5.5,
+                "D": 4.25,
+                "H": 1.57
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 2.0,
+                "D": 3.75,
+                "H": 3.5
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 1.4,
+                "D": 5.0,
+                "H": 7.25
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 7.5,
+                "D": 4.75,
+                "H": 1.42
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 3.2,
+                "D": 3.3,
+                "H": 2.3
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 9.25,
+                "D": 5.75,
+                "H": 1.3
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 1.75,
+                "D": 3.9,
+                "H": 4.5
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 2.8,
+                "D": 3.2,
+                "H": 2.6
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 2.4,
+                "D": 3.5,
+                "H": 2.85
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 2.8,
+                "D": 3.1,
+                "H": 2.7
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 1.91,
+                "D": 4.0,
+                "H": 3.6
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 15.5,
+                "D": 8.0,
+                "H": 1.16
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 4.0,
+                "D": 3.6,
+                "H": 1.91
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 10.0,
+                "D": 6.25,
+                "H": 1.26
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 13.5,
+                "D": 6.5,
+                "H": 1.22
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 4.1,
+                "D": 3.7,
+                "H": 1.87
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 3.8,
+                "D": 3.8,
+                "H": 1.91
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 4.75,
+                "D": 3.75,
+                "H": 1.75
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 2.2,
+                "D": 3.5,
+                "H": 3.2
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 1.42,
+                "D": 5.5,
+                "H": 6.25
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 2.9,
+                "D": 3.25,
+                "H": 2.5
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 2.85,
+                "D": 3.75,
+                "H": 2.3
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 2.85,
+                "D": 3.6,
+                "H": 2.35
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 2.95,
+                "D": 3.4,
+                "H": 2.4
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 3.4,
+                "D": 3.3,
+                "H": 2.2
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 3.1,
+                "D": 3.1,
+                "H": 2.45
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 1.95,
+                "D": 3.7,
+                "H": 3.75
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 7.5,
+                "D": 5.5,
+                "H": 1.36
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 1.75,
+                "D": 4.0,
+                "H": 4.33
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 2.9,
+                "D": 3.7,
+                "H": 2.3
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 5.5,
+                "D": 4.4,
+                "H": 1.55
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 3.3,
+                "D": 3.8,
+                "H": 2.05
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 1.95,
+                "D": 3.9,
+                "H": 3.5
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 8.25,
+                "D": 5.25,
+                "H": 1.35
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 3.2,
+                "D": 3.5,
+                "H": 2.2
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 5.25,
+                "D": 3.8,
+                "H": 1.67
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 4.5,
+                "D": 3.5,
+                "H": 1.85
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 8.5,
+                "D": 5.25,
+                "H": 1.35
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 2.05,
+                "D": 3.7,
+                "H": 3.4
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 1.4,
+                "D": 5.0,
+                "H": 7.5
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 4.33,
+                "D": 3.8,
+                "H": 1.8
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 2.15,
+                "D": 3.4,
+                "H": 3.4
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 3.9,
+                "D": 3.6,
+                "H": 1.95
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 3.7,
+                "D": 3.7,
+                "H": 1.95
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 1.65,
+                "D": 4.1,
+                "H": 5.0
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 1.87,
+                "D": 3.8,
+                "H": 3.9
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 1.85,
+                "D": 3.6,
+                "H": 4.33
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 2.3,
+                "D": 3.75,
+                "H": 2.85
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 11.5,
+                "D": 6.0,
+                "H": 1.26
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 15.0,
+                "D": 7.5,
+                "H": 1.18
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 1.91,
+                "D": 3.75,
+                "H": 3.8
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 4.4,
+                "D": 3.9,
+                "H": 1.78
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 1.67,
+                "D": 4.0,
+                "H": 5.0
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 2.1,
+                "D": 3.6,
+                "H": 3.4
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 2.3,
+                "D": 3.25,
+                "H": 3.2
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 10.5,
+                "D": 6.25,
+                "H": 1.26
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 2.7,
+                "D": 3.5,
+                "H": 2.55
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 3.6,
+                "D": 3.8,
+                "H": 1.95
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 2.6,
+                "D": 3.6,
+                "H": 2.6
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 13.0,
+                "D": 6.5,
+                "H": 1.22
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 4.0,
+                "D": 3.4,
+                "H": 2.0
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 1.85,
+                "D": 3.8,
+                "H": 4.0
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 10.0,
+                "D": 5.5,
+                "H": 1.3
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 4.2,
+                "D": 3.6,
+                "H": 1.87
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 5.5,
+                "D": 4.0,
+                "H": 1.62
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 8.5,
+                "D": 5.0,
+                "H": 1.36
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 8.0,
+                "D": 4.25,
+                "H": 1.45
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 1.67,
+                "D": 4.33,
+                "H": 4.5
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 2.85,
+                "D": 3.4,
+                "H": 2.45
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 1.16,
+                "D": 8.5,
+                "H": 14.0
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 2.2,
+                "D": 3.6,
+                "H": 3.1
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 4.5,
+                "D": 3.7,
+                "H": 1.8
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 5.0,
+                "D": 4.33,
+                "H": 1.62
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 23.0,
+                "D": 9.75,
+                "H": 1.11
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 3.2,
+                "D": 3.5,
+                "H": 2.2
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 3.0,
+                "D": 3.4,
+                "H": 2.35
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 2.35,
+                "D": 3.5,
+                "H": 2.95
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 1.5,
+                "D": 4.6,
+                "H": 6.0
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 1.83,
+                "D": 3.7,
+                "H": 4.33
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 7.0,
+                "D": 5.25,
+                "H": 1.4
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 2.45,
+                "D": 3.5,
+                "H": 2.9
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 2.5,
+                "D": 3.4,
+                "H": 2.9
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 2.7,
+                "D": 3.3,
+                "H": 2.75
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 6.0,
+                "D": 4.0,
+                "H": 1.6
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 1.44,
+                "D": 4.75,
+                "H": 7.25
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 4.75,
+                "D": 3.9,
+                "H": 1.75
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 5.75,
+                "D": 4.5,
+                "H": 1.53
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 7.25,
+                "D": 4.75,
+                "H": 1.42
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 7.75,
+                "D": 4.75,
+                "H": 1.4
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 1.62,
+                "D": 4.0,
+                "H": 5.5
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 1.34,
+                "D": 5.5,
+                "H": 8.25
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 2.75,
+                "D": 3.5,
+                "H": 2.5
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 3.4,
+                "D": 3.6,
+                "H": 2.1
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 2.45,
+                "D": 3.1,
+                "H": 3.1
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 10.5,
+                "D": 5.75,
+                "H": 1.28
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 3.2,
+                "D": 3.4,
+                "H": 2.25
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 2.6,
+                "D": 3.3,
+                "H": 2.75
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 2.8,
+                "D": 3.4,
+                "H": 2.5
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 3.6,
+                "D": 3.1,
+                "H": 2.2
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 2.05,
+                "D": 3.4,
+                "H": 3.8
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 1.53,
+                "D": 4.5,
+                "H": 5.75
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 6.0,
+                "D": 3.7,
+                "H": 1.62
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 3.5,
+                "D": 3.3,
+                "H": 2.15
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 5.75,
+                "D": 3.6,
+                "H": 1.67
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 2.9,
+                "D": 3.3,
+                "H": 2.55
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 4.6,
+                "D": 3.7,
+                "H": 1.78
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 1.28,
+                "D": 6.0,
+                "H": 9.75
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 1.85,
+                "D": 3.8,
+                "H": 4.0
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 8.0,
+                "D": 4.75,
+                "H": 1.4
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 4.33,
+                "D": 3.5,
+                "H": 1.87
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 18.0,
+                "D": 9.0,
+                "H": 1.13
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 4.6,
+                "D": 4.0,
+                "H": 1.72
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Burnley FC",
+            "O": {
+                "A": 3.6,
+                "D": 3.25,
+                "H": 2.15
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 4.4,
+                "D": 3.3,
+                "H": 1.91
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 4.25,
+                "D": 3.4,
+                "H": 1.91
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 5.25,
+                "D": 4.1,
+                "H": 1.62
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 1.7,
+                "D": 4.2,
+                "H": 4.5
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 6.0,
+                "D": 4.0,
+                "H": 1.57
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 6.0,
+                "D": 4.33,
+                "H": 1.53
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 3.7,
+                "D": 3.6,
+                "H": 2.0
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 16.0,
+                "D": 7.5,
+                "H": 1.17
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 1.72,
+                "D": 4.1,
+                "H": 4.6
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 4.0,
+                "D": 3.2,
+                "H": 2.05
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 1.72,
+                "D": 3.9,
+                "H": 4.75
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 3.0,
+                "D": 3.1,
+                "H": 2.55
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 2.55,
+                "D": 3.6,
+                "H": 2.65
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 1.4,
+                "D": 5.0,
+                "H": 7.5
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 2.8,
+                "D": 3.4,
+                "H": 2.5
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 3.2,
+                "D": 3.25,
+                "H": 2.35
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 12.5,
+                "D": 6.0,
+                "H": 1.25
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 6.0,
+                "D": 4.33,
+                "H": 1.53
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 2.85,
+                "D": 3.2,
+                "H": 2.6
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 5.75,
+                "D": 3.7,
+                "H": 1.65
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 5.25,
+                "D": 3.9,
+                "H": 1.65
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 5.25,
+                "D": 3.9,
+                "H": 1.65
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 2.7,
+                "D": 3.25,
+                "H": 2.7
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 4.4,
+                "D": 3.6,
+                "H": 1.83
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 1.62,
+                "D": 4.25,
+                "H": 5.0
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 8.5,
+                "D": 5.0,
+                "H": 1.36
+            }
+        }
+    ],
+    "IW": [
+        {
+            "A": "Norwich City FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 18.0,
+                "D": 8.0,
+                "H": 1.15
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 1.25,
+                "D": 6.1,
+                "H": 11.0
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 3.8,
+                "D": 3.55,
+                "H": 1.97
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 2.75,
+                "D": 3.2,
+                "H": 2.65
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 2.4,
+                "D": 3.2,
+                "H": 3.1
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 4.25,
+                "D": 3.4,
+                "H": 1.93
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 9.6,
+                "D": 5.5,
+                "H": 1.3
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 3.45,
+                "D": 3.25,
+                "H": 2.2
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 1.77,
+                "D": 3.85,
+                "H": 4.4
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 3.4,
+                "D": 3.35,
+                "H": 2.15
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 9.5,
+                "D": 5.6,
+                "H": 1.3
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 3.05,
+                "D": 3.45,
+                "H": 2.3
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 2.85,
+                "D": 3.3,
+                "H": 2.5
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 4.65,
+                "D": 3.9,
+                "H": 1.7
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 3.35,
+                "D": 3.35,
+                "H": 2.2
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 1.4,
+                "D": 4.8,
+                "H": 7.5
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 8.0,
+                "D": 5.3,
+                "H": 1.35
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 2.95,
+                "D": 3.1,
+                "H": 2.55
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 4.9,
+                "D": 3.75,
+                "H": 1.73
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 2.25,
+                "D": 3.3,
+                "H": 3.25
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 2.25,
+                "D": 3.5,
+                "H": 3.1
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 1.8,
+                "D": 3.95,
+                "H": 4.05
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 3.05,
+                "D": 3.25,
+                "H": 2.4
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 8.6,
+                "D": 4.95,
+                "H": 1.36
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 2.25,
+                "D": 3.15,
+                "H": 3.4
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 3.4,
+                "D": 3.6,
+                "H": 2.1
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 5.7,
+                "D": 4.7,
+                "H": 1.5
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 1.2,
+                "D": 6.5,
+                "H": 15.0
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 13.5,
+                "D": 6.2,
+                "H": 1.22
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 4.7,
+                "D": 3.4,
+                "H": 1.85
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 2.1,
+                "D": 3.35,
+                "H": 3.65
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 8.0,
+                "D": 5.3,
+                "H": 1.35
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 3.35,
+                "D": 3.4,
+                "H": 2.2
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 4.5,
+                "D": 4.05,
+                "H": 1.73
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 29.0,
+                "D": 10.5,
+                "H": 1.08
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 2.8,
+                "D": 3.25,
+                "H": 2.6
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 3.75,
+                "D": 3.95,
+                "H": 1.87
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 1.33,
+                "D": 5.5,
+                "H": 8.4
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 3.65,
+                "D": 3.25,
+                "H": 2.1
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 2.85,
+                "D": 3.6,
+                "H": 2.35
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 17.5,
+                "D": 8.0,
+                "H": 1.15
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 3.55,
+                "D": 3.35,
+                "H": 2.1
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 4.5,
+                "D": 3.6,
+                "H": 1.8
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 3.05,
+                "D": 3.2,
+                "H": 2.45
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 6.8,
+                "D": 4.6,
+                "H": 1.45
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 2.4,
+                "D": 3.35,
+                "H": 2.95
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 1.15,
+                "D": 8.5,
+                "H": 15.0
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 2.3,
+                "D": 3.5,
+                "H": 2.95
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 1.9,
+                "D": 3.7,
+                "H": 3.9
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 2.55,
+                "D": 3.6,
+                "H": 2.6
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Southampton FC",
+            "O": {
+                "A": 3.4,
+                "D": 3.6,
+                "H": 2.1
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 2.4,
+                "D": 3.45,
+                "H": 2.85
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 3.6,
+                "D": 3.6,
+                "H": 2.0
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 5.3,
+                "D": 3.75,
+                "H": 1.67
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 20.0,
+                "D": 9.0,
+                "H": 1.12
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 3.05,
+                "D": 3.1,
+                "H": 2.5
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 2.9,
+                "D": 3.1,
+                "H": 2.6
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 2.1,
+                "D": 3.5,
+                "H": 3.4
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 7.5,
+                "D": 4.8,
+                "H": 1.4
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 2.1,
+                "D": 3.5,
+                "H": 3.4
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 1.36,
+                "D": 5.1,
+                "H": 8.1
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 3.0,
+                "D": 3.35,
+                "H": 2.35
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 2.75,
+                "D": 3.6,
+                "H": 2.4
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 6.8,
+                "D": 4.65,
+                "H": 1.45
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 3.85,
+                "D": 3.75,
+                "H": 1.9
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 6.7,
+                "D": 4.7,
+                "H": 1.45
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 4.5,
+                "D": 3.4,
+                "H": 1.87
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 1.3,
+                "D": 5.5,
+                "H": 9.6
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 6.7,
+                "D": 4.0,
+                "H": 1.53
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 2.9,
+                "D": 3.6,
+                "H": 2.35
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 1.95,
+                "D": 3.6,
+                "H": 3.8
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 2.5,
+                "D": 3.25,
+                "H": 2.9
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 6.5,
+                "D": 4.6,
+                "H": 1.47
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 2.8,
+                "D": 3.65,
+                "H": 2.35
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 3.5,
+                "D": 3.4,
+                "H": 2.1
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 3.7,
+                "D": 3.55,
+                "H": 2.0
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 6.0,
+                "D": 5.0,
+                "H": 1.46
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 18.0,
+                "D": 9.0,
+                "H": 1.13
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 1.87,
+                "D": 3.8,
+                "H": 3.95
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 1.9,
+                "D": 3.4,
+                "H": 4.35
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 3.7,
+                "D": 3.65,
+                "H": 1.97
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 3.0,
+                "D": 3.4,
+                "H": 2.35
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 4.3,
+                "D": 4.0,
+                "H": 1.75
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 9.6,
+                "D": 5.5,
+                "H": 1.3
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 6.1,
+                "D": 4.05,
+                "H": 1.57
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 7.0,
+                "D": 4.5,
+                "H": 1.45
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 4.4,
+                "D": 3.5,
+                "H": 1.85
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 1.25,
+                "D": 6.5,
+                "H": 10.0
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 1.7,
+                "D": 3.95,
+                "H": 4.8
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 1.9,
+                "D": 3.75,
+                "H": 3.9
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 2.3,
+                "D": 3.3,
+                "H": 3.15
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 26.0,
+                "D": 11.0,
+                "H": 1.09
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 2.55,
+                "D": 3.25,
+                "H": 2.85
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Watford FC",
+            "O": {
+                "A": 3.25,
+                "D": 3.55,
+                "H": 2.2
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 3.6,
+                "D": 3.45,
+                "H": 2.1
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 1.73,
+                "D": 3.95,
+                "H": 4.5
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 2.55,
+                "D": 3.0,
+                "H": 3.0
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 6.1,
+                "D": 4.6,
+                "H": 1.5
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 5.8,
+                "D": 4.4,
+                "H": 1.55
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 1.8,
+                "D": 3.85,
+                "H": 4.25
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 2.15,
+                "D": 3.5,
+                "H": 3.3
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 4.4,
+                "D": 3.8,
+                "H": 1.77
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 1.36,
+                "D": 5.3,
+                "H": 7.9
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 4.6,
+                "D": 4.05,
+                "H": 1.7
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 27.0,
+                "D": 11.0,
+                "H": 1.08
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 3.45,
+                "D": 3.15,
+                "H": 2.25
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 4.6,
+                "D": 3.7,
+                "H": 1.77
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 1.65,
+                "D": 4.2,
+                "H": 4.9
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 2.15,
+                "D": 3.4,
+                "H": 3.45
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 2.55,
+                "D": 3.5,
+                "H": 2.65
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 2.55,
+                "D": 3.55,
+                "H": 2.6
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 8.9,
+                "D": 5.3,
+                "H": 1.33
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 3.1,
+                "D": 3.55,
+                "H": 2.25
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 2.8,
+                "D": 3.2,
+                "H": 2.6
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 2.4,
+                "D": 3.35,
+                "H": 2.95
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 5.8,
+                "D": 4.15,
+                "H": 1.57
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 3.6,
+                "D": 3.75,
+                "H": 1.97
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 5.4,
+                "D": 3.65,
+                "H": 1.7
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 4.15,
+                "D": 3.6,
+                "H": 1.87
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 2.7,
+                "D": 3.5,
+                "H": 2.5
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 1.75,
+                "D": 4.05,
+                "H": 4.3
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 7.0,
+                "D": 4.5,
+                "H": 1.45
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 2.6,
+                "D": 3.25,
+                "H": 2.8
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 2.05,
+                "D": 3.5,
+                "H": 3.6
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 1.45,
+                "D": 4.4,
+                "H": 7.2
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 7.5,
+                "D": 4.8,
+                "H": 1.4
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 3.15,
+                "D": 3.25,
+                "H": 2.35
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 7.0,
+                "D": 4.5,
+                "H": 1.45
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 2.15,
+                "D": 3.25,
+                "H": 3.55
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 3.5,
+                "D": 3.45,
+                "H": 2.1
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 1.2,
+                "D": 7.1,
+                "H": 14.0
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 3.25,
+                "D": 3.2,
+                "H": 2.3
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 8.8,
+                "D": 5.8,
+                "H": 1.3
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 13.0,
+                "D": 6.5,
+                "H": 1.22
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 7.5,
+                "D": 5.1,
+                "H": 1.4
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 3.5,
+                "D": 3.45,
+                "H": 2.1
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 1.77,
+                "D": 4.15,
+                "H": 4.05
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 4.35,
+                "D": 3.35,
+                "H": 1.9
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 5.2,
+                "D": 4.0,
+                "H": 1.65
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 6.4,
+                "D": 4.35,
+                "H": 1.5
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 3.3,
+                "D": 3.35,
+                "H": 2.2
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 1.27,
+                "D": 6.0,
+                "H": 10.5
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 8.3,
+                "D": 5.5,
+                "H": 1.33
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 7.5,
+                "D": 4.8,
+                "H": 1.4
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 2.65,
+                "D": 3.3,
+                "H": 2.65
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 4.1,
+                "D": 3.7,
+                "H": 1.85
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 4.6,
+                "D": 3.7,
+                "H": 1.77
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 7.5,
+                "D": 4.8,
+                "H": 1.4
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 4.2,
+                "D": 3.3,
+                "H": 1.95
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 5.1,
+                "D": 4.25,
+                "H": 1.63
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 2.05,
+                "D": 3.7,
+                "H": 3.45
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 1.43,
+                "D": 4.9,
+                "H": 6.7
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 7.1,
+                "D": 4.8,
+                "H": 1.42
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 3.1,
+                "D": 3.3,
+                "H": 2.35
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 9.4,
+                "D": 5.6,
+                "H": 1.3
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 1.83,
+                "D": 3.85,
+                "H": 4.1
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 2.85,
+                "D": 3.2,
+                "H": 2.6
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 2.4,
+                "D": 3.4,
+                "H": 2.95
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 2.8,
+                "D": 3.1,
+                "H": 2.7
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 1.97,
+                "D": 3.95,
+                "H": 3.4
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 15.0,
+                "D": 7.5,
+                "H": 1.17
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 4.15,
+                "D": 3.45,
+                "H": 1.93
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 11.0,
+                "D": 6.1,
+                "H": 1.25
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 12.0,
+                "D": 6.6,
+                "H": 1.22
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 4.15,
+                "D": 3.7,
+                "H": 1.85
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 3.8,
+                "D": 3.8,
+                "H": 1.9
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 5.0,
+                "D": 3.8,
+                "H": 1.7
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 2.25,
+                "D": 3.4,
+                "H": 3.2
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 1.45,
+                "D": 5.2,
+                "H": 6.0
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 2.85,
+                "D": 3.2,
+                "H": 2.55
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 2.85,
+                "D": 3.65,
+                "H": 2.3
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 2.8,
+                "D": 3.55,
+                "H": 2.4
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 2.95,
+                "D": 3.35,
+                "H": 2.4
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 3.45,
+                "D": 3.25,
+                "H": 2.2
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 3.2,
+                "D": 3.1,
+                "H": 2.4
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 1.97,
+                "D": 3.7,
+                "H": 3.65
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 7.4,
+                "D": 5.3,
+                "H": 1.37
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 1.8,
+                "D": 3.75,
+                "H": 4.4
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 3.05,
+                "D": 3.4,
+                "H": 2.3
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 5.5,
+                "D": 4.35,
+                "H": 1.57
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 3.2,
+                "D": 3.75,
+                "H": 2.1
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 2.0,
+                "D": 3.8,
+                "H": 3.45
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 7.9,
+                "D": 5.2,
+                "H": 1.37
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 3.1,
+                "D": 3.35,
+                "H": 2.3
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 5.0,
+                "D": 3.7,
+                "H": 1.7
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 4.45,
+                "D": 3.5,
+                "H": 1.85
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 8.9,
+                "D": 5.0,
+                "H": 1.35
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 2.05,
+                "D": 3.7,
+                "H": 3.35
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 1.41,
+                "D": 4.9,
+                "H": 7.3
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 4.45,
+                "D": 3.75,
+                "H": 1.77
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 2.15,
+                "D": 3.35,
+                "H": 3.5
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 3.9,
+                "D": 3.5,
+                "H": 1.97
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 3.6,
+                "D": 3.7,
+                "H": 2.0
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 1.67,
+                "D": 4.05,
+                "H": 4.7
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 1.85,
+                "D": 3.85,
+                "H": 3.95
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 1.85,
+                "D": 3.65,
+                "H": 4.25
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 2.35,
+                "D": 3.7,
+                "H": 2.85
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 11.0,
+                "D": 6.1,
+                "H": 1.25
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 15.0,
+                "D": 7.5,
+                "H": 1.17
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 2.0,
+                "D": 3.6,
+                "H": 3.6
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 4.35,
+                "D": 3.7,
+                "H": 1.8
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 1.67,
+                "D": 3.8,
+                "H": 5.3
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 2.15,
+                "D": 3.55,
+                "H": 3.25
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 2.3,
+                "D": 3.35,
+                "H": 3.1
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 9.5,
+                "D": 6.1,
+                "H": 1.28
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 2.75,
+                "D": 3.4,
+                "H": 2.5
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 3.65,
+                "D": 3.8,
+                "H": 1.95
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 2.6,
+                "D": 3.6,
+                "H": 2.55
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 13.0,
+                "D": 6.5,
+                "H": 1.22
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 3.85,
+                "D": 3.4,
+                "H": 2.0
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 1.83,
+                "D": 3.8,
+                "H": 4.15
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 10.5,
+                "D": 5.6,
+                "H": 1.28
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 4.05,
+                "D": 3.6,
+                "H": 1.9
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 5.0,
+                "D": 4.05,
+                "H": 1.65
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 7.8,
+                "D": 5.1,
+                "H": 1.37
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 7.5,
+                "D": 4.3,
+                "H": 1.46
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 1.7,
+                "D": 4.1,
+                "H": 4.5
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 2.7,
+                "D": 3.35,
+                "H": 2.6
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 1.17,
+                "D": 8.0,
+                "H": 13.5
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 2.2,
+                "D": 3.5,
+                "H": 3.15
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 4.4,
+                "D": 3.6,
+                "H": 1.83
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 5.0,
+                "D": 4.0,
+                "H": 1.65
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 23.0,
+                "D": 10.0,
+                "H": 1.1
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 3.15,
+                "D": 3.55,
+                "H": 2.2
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 3.0,
+                "D": 3.3,
+                "H": 2.4
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 2.4,
+                "D": 3.4,
+                "H": 2.9
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 1.53,
+                "D": 4.4,
+                "H": 5.9
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 1.87,
+                "D": 3.65,
+                "H": 4.1
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 8.2,
+                "D": 5.0,
+                "H": 1.37
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 2.5,
+                "D": 3.4,
+                "H": 2.8
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 2.45,
+                "D": 3.3,
+                "H": 2.9
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 2.7,
+                "D": 3.15,
+                "H": 2.7
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 5.6,
+                "D": 4.0,
+                "H": 1.6
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 1.45,
+                "D": 4.6,
+                "H": 6.8
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 4.4,
+                "D": 3.9,
+                "H": 1.75
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 5.8,
+                "D": 4.4,
+                "H": 1.53
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 6.8,
+                "D": 4.8,
+                "H": 1.43
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 7.6,
+                "D": 4.55,
+                "H": 1.42
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 1.65,
+                "D": 3.95,
+                "H": 5.4
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 1.35,
+                "D": 5.4,
+                "H": 8.4
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 2.7,
+                "D": 3.55,
+                "H": 2.5
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 3.35,
+                "D": 3.55,
+                "H": 2.1
+            }
+        },
+        {
+            "A": "Sheffield United FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 2.55,
+                "D": 3.0,
+                "H": 3.1
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 9.8,
+                "D": 5.7,
+                "H": 1.3
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 3.3,
+                "D": 3.35,
+                "H": 2.2
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 2.6,
+                "D": 3.3,
+                "H": 2.75
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 2.8,
+                "D": 3.35,
+                "H": 2.55
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 3.45,
+                "D": 3.2,
+                "H": 2.2
+            }
+        },
+        {
+            "A": "Arsenal FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 2.0,
+                "D": 3.5,
+                "H": 3.7
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 1.57,
+                "D": 4.4,
+                "H": 5.3
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 5.7,
+                "D": 3.75,
+                "H": 1.65
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 3.5,
+                "D": 3.4,
+                "H": 2.15
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 5.5,
+                "D": 3.5,
+                "H": 1.7
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 2.85,
+                "D": 3.25,
+                "H": 2.5
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 4.65,
+                "D": 3.65,
+                "H": 1.77
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 1.3,
+                "D": 5.5,
+                "H": 9.6
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Aston Villa FC",
+            "O": {
+                "A": 1.87,
+                "D": 3.8,
+                "H": 3.95
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 7.0,
+                "D": 4.5,
+                "H": 1.45
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 4.3,
+                "D": 3.6,
+                "H": 1.85
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Manchester City FC",
+            "O": {
+                "A": 17.0,
+                "D": 9.1,
+                "H": 1.13
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 4.65,
+                "D": 3.85,
+                "H": 1.73
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Burnley FC",
+            "O": {
+                "A": 3.65,
+                "D": 3.25,
+                "H": 2.15
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 4.35,
+                "D": 3.25,
+                "H": 1.97
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 4.2,
+                "D": 3.35,
+                "H": 1.95
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 4.9,
+                "D": 4.15,
+                "H": 1.65
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 1.73,
+                "D": 4.1,
+                "H": 4.35
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 5.6,
+                "D": 3.95,
+                "H": 1.6
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 6.2,
+                "D": 4.15,
+                "H": 1.53
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 3.55,
+                "D": 3.6,
+                "H": 2.05
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 14.5,
+                "D": 7.5,
+                "H": 1.18
+            }
+        },
+        {
+            "A": "Leicester City FC",
+            "H": "Norwich City FC",
+            "O": {
+                "A": 1.75,
+                "D": 3.9,
+                "H": 4.4
+            }
+        },
+        {
+            "A": "Crystal Palace FC",
+            "H": "Brighton & Hove Albion FC",
+            "O": {
+                "A": 3.9,
+                "D": 3.25,
+                "H": 2.05
+            }
+        },
+        {
+            "A": "Chelsea FC",
+            "H": "AFC Bournemouth",
+            "O": {
+                "A": 1.77,
+                "D": 3.8,
+                "H": 4.55
+            }
+        },
+        {
+            "A": "Burnley FC",
+            "H": "Newcastle United FC",
+            "O": {
+                "A": 2.9,
+                "D": 3.1,
+                "H": 2.6
+            }
+        },
+        {
+            "A": "Southampton FC",
+            "H": "West Ham United FC",
+            "O": {
+                "A": 2.55,
+                "D": 3.5,
+                "H": 2.7
+            }
+        },
+        {
+            "A": "Liverpool FC",
+            "H": "Watford FC",
+            "O": {
+                "A": 1.43,
+                "D": 4.75,
+                "H": 6.9
+            }
+        },
+        {
+            "A": "Manchester United FC",
+            "H": "Everton FC",
+            "O": {
+                "A": 2.85,
+                "D": 3.3,
+                "H": 2.55
+            }
+        },
+        {
+            "A": "Wolverhampton Wanderers FC",
+            "H": "Tottenham Hotspur FC",
+            "O": {
+                "A": 3.1,
+                "D": 3.15,
+                "H": 2.45
+            }
+        },
+        {
+            "A": "AFC Bournemouth",
+            "H": "Liverpool FC",
+            "O": {
+                "A": 10.5,
+                "D": 6.0,
+                "H": 1.27
+            }
+        },
+        {
+            "A": "West Ham United FC",
+            "H": "Arsenal FC",
+            "O": {
+                "A": 5.4,
+                "D": 4.3,
+                "H": 1.57
+            }
+        },
+        {
+            "A": "Watford FC",
+            "H": "Crystal Palace FC",
+            "O": {
+                "A": 2.95,
+                "D": 3.15,
+                "H": 2.55
+            }
+        },
+        {
+            "A": "Norwich City FC",
+            "H": "Sheffield United FC",
+            "O": {
+                "A": 5.4,
+                "D": 3.75,
+                "H": 1.67
+            }
+        },
+        {
+            "A": "Newcastle United FC",
+            "H": "Southampton FC",
+            "O": {
+                "A": 5.0,
+                "D": 3.9,
+                "H": 1.67
+            }
+        },
+        {
+            "A": "Brighton & Hove Albion FC",
+            "H": "Wolverhampton Wanderers FC",
+            "O": {
+                "A": 5.4,
+                "D": 3.9,
+                "H": 1.65
+            }
+        },
+        {
+            "A": "Tottenham Hotspur FC",
+            "H": "Burnley FC",
+            "O": {
+                "A": 2.65,
+                "D": 3.25,
+                "H": 2.7
+            }
+        },
+        {
+            "A": "Everton FC",
+            "H": "Chelsea FC",
+            "O": {
+                "A": 4.05,
+                "D": 3.75,
+                "H": 1.87
+            }
+        },
+        {
+            "A": "Manchester City FC",
+            "H": "Manchester United FC",
+            "O": {
+                "A": 1.65,
+                "D": 4.2,
+                "H": 4.95
+            }
+        },
+        {
+            "A": "Aston Villa FC",
+            "H": "Leicester City FC",
+            "O": {
+                "A": 7.5,
+                "D": 5.0,
+                "H": 1.4
+            }
+        }
+    ]
+}
