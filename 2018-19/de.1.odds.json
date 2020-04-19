@@ -2,7 +2,7 @@
     "B365": [
         {
             "A": "TSG 1899 Hoffenheim",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 12.0,
                 "D": 7.5,
@@ -11,7 +11,7 @@
         },
         {
             "A": "FC Augsburg",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 3.0,
                 "D": 3.25,
@@ -38,7 +38,7 @@
         },
         {
             "A": "Bayer 04 Leverkusen",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 2.45,
                 "D": 3.5,
@@ -91,7 +91,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "FC Augsburg",
             "O": {
                 "A": 2.7,
@@ -136,7 +136,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "VfB Stuttgart",
             "O": {
                 "A": 1.28,
@@ -145,7 +145,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "RB Leipzig",
             "O": {
                 "A": 8.0,
@@ -173,7 +173,7 @@
         },
         {
             "A": "Bayer 04 Leverkusen",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 13.0,
                 "D": 7.0,
@@ -182,7 +182,7 @@
         },
         {
             "A": "TSG 1899 Hoffenheim",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 1.9,
                 "D": 3.6,
@@ -200,7 +200,7 @@
         },
         {
             "A": "FC Schalke 04",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 3.0,
                 "D": 3.4,
@@ -244,7 +244,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "VfB Stuttgart",
             "O": {
                 "A": 5.25,
@@ -262,7 +262,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "Hertha BSC",
             "O": {
                 "A": 3.1,
@@ -289,7 +289,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "FC Schalke 04",
             "O": {
                 "A": 1.4,
@@ -326,7 +326,7 @@
         },
         {
             "A": "FC Augsburg",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 23.0,
                 "D": 10.0,
@@ -371,7 +371,7 @@
         },
         {
             "A": "Bayer 04 Leverkusen",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 1.95,
                 "D": 3.75,
@@ -389,7 +389,7 @@
         },
         {
             "A": "Eintracht Frankfurt",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 4.75,
                 "D": 3.8,
@@ -406,7 +406,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "Hertha BSC",
             "O": {
                 "A": 1.28,
@@ -433,7 +433,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "1. FC Nurnberg",
             "O": {
                 "A": 3.4,
@@ -460,7 +460,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "VfL Wolfsburg",
             "O": {
                 "A": 3.1,
@@ -496,8 +496,8 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
-            "H": "Bayern Munchen",
+            "A": "Bor. Mönchengladbach",
+            "H": "Bayern München",
             "O": {
                 "A": 13.0,
                 "D": 7.0,
@@ -515,7 +515,7 @@
         },
         {
             "A": "FC Schalke 04",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 2.1,
                 "D": 3.4,
@@ -568,7 +568,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "Eintracht Frankfurt",
             "O": {
                 "A": 5.75,
@@ -622,7 +622,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "VfL Wolfsburg",
             "O": {
                 "A": 1.36,
@@ -641,7 +641,7 @@
         },
         {
             "A": "1. FSV Mainz 05",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 5.0,
                 "D": 4.33,
@@ -649,7 +649,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "SC Freiburg",
             "O": {
                 "A": 2.0,
@@ -668,7 +668,7 @@
         },
         {
             "A": "VfL Wolfsburg",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 2.37,
                 "D": 3.4,
@@ -694,7 +694,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "1. FSV Mainz 05",
             "O": {
                 "A": 1.25,
@@ -749,7 +749,7 @@
         },
         {
             "A": "SC Freiburg",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 21.0,
                 "D": 10.0,
@@ -802,8 +802,8 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
-            "H": "Bor. Monchengladbach",
+            "A": "Fortuna Düsseldorf",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 8.0,
                 "D": 4.75,
@@ -820,7 +820,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "Borussia Dortmund",
             "O": {
                 "A": 2.1,
@@ -830,7 +830,7 @@
         },
         {
             "A": "Hertha BSC",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 2.1,
                 "D": 3.4,
@@ -865,7 +865,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "Werder Bremen",
             "O": {
                 "A": 2.75,
@@ -910,8 +910,8 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
-            "H": "Bayern Munchen",
+            "A": "Fortuna Düsseldorf",
+            "H": "Bayern München",
             "O": {
                 "A": 26.0,
                 "D": 11.0,
@@ -965,7 +965,7 @@
         },
         {
             "A": "Hannover 96",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 7.0,
                 "D": 4.5,
@@ -974,7 +974,7 @@
         },
         {
             "A": "1. FSV Mainz 05",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 2.6,
                 "D": 3.3,
@@ -1018,7 +1018,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "Werder Bremen",
             "O": {
                 "A": 1.4,
@@ -1036,7 +1036,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "RB Leipzig",
             "O": {
                 "A": 3.75,
@@ -1054,7 +1054,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "Werder Bremen",
             "O": {
                 "A": 4.5,
@@ -1064,7 +1064,7 @@
         },
         {
             "A": "1. FC Nurnberg",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 34.0,
                 "D": 11.0,
@@ -1127,7 +1127,7 @@
         },
         {
             "A": "VfB Stuttgart",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 7.0,
                 "D": 4.33,
@@ -1163,7 +1163,7 @@
         },
         {
             "A": "SC Freiburg",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 2.6,
                 "D": 3.3,
@@ -1171,7 +1171,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "Hannover 96",
             "O": {
                 "A": 1.22,
@@ -1180,7 +1180,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "TSG 1899 Hoffenheim",
             "O": {
                 "A": 3.6,
@@ -1217,7 +1217,7 @@
         },
         {
             "A": "Borussia Dortmund",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 1.44,
                 "D": 4.5,
@@ -1235,7 +1235,7 @@
         },
         {
             "A": "1. FC Nurnberg",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 7.0,
                 "D": 5.5,
@@ -1253,7 +1253,7 @@
         },
         {
             "A": "RB Leipzig",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 8.0,
                 "D": 5.25,
@@ -1297,7 +1297,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "Borussia Dortmund",
             "O": {
                 "A": 5.75,
@@ -1306,7 +1306,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "Eintracht Frankfurt",
             "O": {
                 "A": 1.5,
@@ -1315,7 +1315,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "Hannover 96",
             "O": {
                 "A": 3.3,
@@ -1378,7 +1378,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "TSG 1899 Hoffenheim",
             "O": {
                 "A": 1.44,
@@ -1387,7 +1387,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "FC Augsburg",
             "O": {
                 "A": 4.0,
@@ -1414,7 +1414,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "Bayer 04 Leverkusen",
             "O": {
                 "A": 3.6,
@@ -1496,7 +1496,7 @@
         },
         {
             "A": "FC Augsburg",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 5.0,
                 "D": 4.0,
@@ -1523,7 +1523,7 @@
         },
         {
             "A": "VfB Stuttgart",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 21.0,
                 "D": 13.0,
@@ -1532,7 +1532,7 @@
         },
         {
             "A": "RB Leipzig",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 1.9,
                 "D": 3.6,
@@ -1567,7 +1567,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "TSG 1899 Hoffenheim",
             "O": {
                 "A": 6.5,
@@ -1576,7 +1576,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "Bayer 04 Leverkusen",
             "O": {
                 "A": 1.55,
@@ -1594,7 +1594,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "FC Schalke 04",
             "O": {
                 "A": 3.0,
@@ -1631,7 +1631,7 @@
         },
         {
             "A": "FC Schalke 04",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 13.0,
                 "D": 7.0,
@@ -1667,7 +1667,7 @@
         },
         {
             "A": "Hertha BSC",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 5.5,
                 "D": 4.2,
@@ -1685,7 +1685,7 @@
         },
         {
             "A": "VfB Stuttgart",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 3.5,
                 "D": 3.5,
@@ -1702,7 +1702,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "FC Augsburg",
             "O": {
                 "A": 1.2,
@@ -1756,7 +1756,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "Eintracht Frankfurt",
             "O": {
                 "A": 3.0,
@@ -1765,7 +1765,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "Bayer 04 Leverkusen",
             "O": {
                 "A": 6.5,
@@ -1793,7 +1793,7 @@
         },
         {
             "A": "Hertha BSC",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 17.0,
                 "D": 7.0,
@@ -1802,7 +1802,7 @@
         },
         {
             "A": "1. FC Nurnberg",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 5.0,
                 "D": 3.75,
@@ -1829,7 +1829,7 @@
         },
         {
             "A": "VfL Wolfsburg",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 4.75,
                 "D": 3.8,
@@ -1900,8 +1900,8 @@
             }
         },
         {
-            "A": "Bayern Munchen",
-            "H": "Bor. Monchengladbach",
+            "A": "Bayern München",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 1.57,
                 "D": 4.5,
@@ -1918,7 +1918,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "FC Schalke 04",
             "O": {
                 "A": 4.2,
@@ -1955,7 +1955,7 @@
         },
         {
             "A": "VfL Wolfsburg",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 10.0,
                 "D": 6.5,
@@ -1981,7 +1981,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "1. FSV Mainz 05",
             "O": {
                 "A": 2.2,
@@ -2018,7 +2018,7 @@
         },
         {
             "A": "Eintracht Frankfurt",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 2.55,
                 "D": 3.4,
@@ -2027,7 +2027,7 @@
         },
         {
             "A": "SC Freiburg",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 6.25,
                 "D": 3.9,
@@ -2071,7 +2071,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "VfL Wolfsburg",
             "O": {
                 "A": 4.75,
@@ -2081,7 +2081,7 @@
         },
         {
             "A": "1. FSV Mainz 05",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 17.0,
                 "D": 9.0,
@@ -2125,8 +2125,8 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
-            "H": "Fortuna Dusseldorf",
+            "A": "Bor. Mönchengladbach",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 2.3,
                 "D": 3.5,
@@ -2134,7 +2134,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "SC Freiburg",
             "O": {
                 "A": 1.22,
@@ -2198,7 +2198,7 @@
         },
         {
             "A": "Borussia Dortmund",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 5.25,
                 "D": 4.75,
@@ -2206,7 +2206,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "Hertha BSC",
             "O": {
                 "A": 4.0,
@@ -2261,7 +2261,7 @@
         },
         {
             "A": "Werder Bremen",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 3.4,
                 "D": 3.6,
@@ -2287,7 +2287,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "Hannover 96",
             "O": {
                 "A": 1.6,
@@ -2332,8 +2332,8 @@
             }
         },
         {
-            "A": "Bayern Munchen",
-            "H": "Fortuna Dusseldorf",
+            "A": "Bayern München",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 1.18,
                 "D": 7.5,
@@ -2360,7 +2360,7 @@
         },
         {
             "A": "Werder Bremen",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 19.0,
                 "D": 8.0,
@@ -2377,7 +2377,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "1. FSV Mainz 05",
             "O": {
                 "A": 3.4,
@@ -2387,7 +2387,7 @@
         },
         {
             "A": "RB Leipzig",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 2.25,
                 "D": 3.75,
@@ -2459,7 +2459,7 @@
         },
         {
             "A": "Werder Bremen",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 2.2,
                 "D": 3.4,
@@ -2485,7 +2485,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "VfB Stuttgart",
             "O": {
                 "A": 2.05,
@@ -2503,7 +2503,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "1. FC Nurnberg",
             "O": {
                 "A": 1.14,
@@ -2522,7 +2522,7 @@
         },
         {
             "A": "Hannover 96",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 34.0,
                 "D": 21.0,
@@ -2540,7 +2540,7 @@
         },
         {
             "A": "TSG 1899 Hoffenheim",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 2.3,
                 "D": 4.0,
@@ -2566,7 +2566,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "SC Freiburg",
             "O": {
                 "A": 3.2,
@@ -2602,7 +2602,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "Borussia Dortmund",
             "O": {
                 "A": 8.5,
@@ -2638,7 +2638,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "1. FC Nurnberg",
             "O": {
                 "A": 1.85,
@@ -2647,7 +2647,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "RB Leipzig",
             "O": {
                 "A": 1.66,
@@ -2675,7 +2675,7 @@
         },
         {
             "A": "Eintracht Frankfurt",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 10.0,
                 "D": 6.5,
@@ -2684,7 +2684,7 @@
         },
         {
             "A": "Hannover 96",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 6.0,
                 "D": 4.2,
@@ -2720,7 +2720,7 @@
         },
         {
             "A": "Borussia Dortmund",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 2.2,
                 "D": 4.0,
@@ -2758,7 +2758,7 @@
     "BW": [
         {
             "A": "TSG 1899 Hoffenheim",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 11.5,
                 "D": 7.5,
@@ -2767,7 +2767,7 @@
         },
         {
             "A": "FC Augsburg",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 3.0,
                 "D": 3.3,
@@ -2794,7 +2794,7 @@
         },
         {
             "A": "Bayer 04 Leverkusen",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 2.4,
                 "D": 3.5,
@@ -2847,7 +2847,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "FC Augsburg",
             "O": {
                 "A": 2.65,
@@ -2892,7 +2892,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "VfB Stuttgart",
             "O": {
                 "A": 1.3,
@@ -2901,7 +2901,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "RB Leipzig",
             "O": {
                 "A": 7.5,
@@ -2929,7 +2929,7 @@
         },
         {
             "A": "Bayer 04 Leverkusen",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 12.5,
                 "D": 6.75,
@@ -2938,7 +2938,7 @@
         },
         {
             "A": "TSG 1899 Hoffenheim",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 1.91,
                 "D": 3.7,
@@ -2956,7 +2956,7 @@
         },
         {
             "A": "FC Schalke 04",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 3.0,
                 "D": 3.3,
@@ -3000,7 +3000,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "VfB Stuttgart",
             "O": {
                 "A": 5.0,
@@ -3018,7 +3018,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "Hertha BSC",
             "O": {
                 "A": 2.9,
@@ -3045,7 +3045,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "FC Schalke 04",
             "O": {
                 "A": 1.36,
@@ -3082,7 +3082,7 @@
         },
         {
             "A": "FC Augsburg",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 21.0,
                 "D": 9.5,
@@ -3127,7 +3127,7 @@
         },
         {
             "A": "Bayer 04 Leverkusen",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 1.91,
                 "D": 3.7,
@@ -3145,7 +3145,7 @@
         },
         {
             "A": "Eintracht Frankfurt",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 4.5,
                 "D": 3.75,
@@ -3162,7 +3162,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "Hertha BSC",
             "O": {
                 "A": 1.3,
@@ -3189,7 +3189,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "1. FC Nurnberg",
             "O": {
                 "A": 3.7,
@@ -3216,7 +3216,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "VfL Wolfsburg",
             "O": {
                 "A": 3.0,
@@ -3252,8 +3252,8 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
-            "H": "Bayern Munchen",
+            "A": "Bor. Mönchengladbach",
+            "H": "Bayern München",
             "O": {
                 "A": 11.5,
                 "D": 7.0,
@@ -3271,7 +3271,7 @@
         },
         {
             "A": "FC Schalke 04",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 2.05,
                 "D": 3.5,
@@ -3324,7 +3324,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "Eintracht Frankfurt",
             "O": {
                 "A": 5.25,
@@ -3378,7 +3378,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "VfL Wolfsburg",
             "O": {
                 "A": 1.36,
@@ -3397,7 +3397,7 @@
         },
         {
             "A": "1. FSV Mainz 05",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 5.25,
                 "D": 4.2,
@@ -3405,7 +3405,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "SC Freiburg",
             "O": {
                 "A": 2.1,
@@ -3424,7 +3424,7 @@
         },
         {
             "A": "VfL Wolfsburg",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 2.4,
                 "D": 3.4,
@@ -3450,7 +3450,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "1. FSV Mainz 05",
             "O": {
                 "A": 1.26,
@@ -3505,7 +3505,7 @@
         },
         {
             "A": "SC Freiburg",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 18.5,
                 "D": 11.0,
@@ -3558,8 +3558,8 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
-            "H": "Bor. Monchengladbach",
+            "A": "Fortuna Düsseldorf",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 8.0,
                 "D": 4.75,
@@ -3576,7 +3576,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "Borussia Dortmund",
             "O": {
                 "A": 2.15,
@@ -3586,7 +3586,7 @@
         },
         {
             "A": "Hertha BSC",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 2.1,
                 "D": 3.5,
@@ -3621,7 +3621,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "Werder Bremen",
             "O": {
                 "A": 2.8,
@@ -3666,8 +3666,8 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
-            "H": "Bayern Munchen",
+            "A": "Fortuna Düsseldorf",
+            "H": "Bayern München",
             "O": {
                 "A": 23.0,
                 "D": 11.5,
@@ -3721,7 +3721,7 @@
         },
         {
             "A": "Hannover 96",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 7.0,
                 "D": 4.4,
@@ -3730,7 +3730,7 @@
         },
         {
             "A": "1. FSV Mainz 05",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 2.7,
                 "D": 3.3,
@@ -3774,7 +3774,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "Werder Bremen",
             "O": {
                 "A": 1.4,
@@ -3792,7 +3792,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "RB Leipzig",
             "O": {
                 "A": 3.75,
@@ -3810,7 +3810,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "Werder Bremen",
             "O": {
                 "A": 4.75,
@@ -3820,7 +3820,7 @@
         },
         {
             "A": "1. FC Nurnberg",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 29.0,
                 "D": 10.5,
@@ -3883,7 +3883,7 @@
         },
         {
             "A": "VfB Stuttgart",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 6.5,
                 "D": 4.33,
@@ -3919,7 +3919,7 @@
         },
         {
             "A": "SC Freiburg",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 2.65,
                 "D": 3.5,
@@ -3927,7 +3927,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "Hannover 96",
             "O": {
                 "A": 1.22,
@@ -3936,7 +3936,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "TSG 1899 Hoffenheim",
             "O": {
                 "A": 3.5,
@@ -3973,7 +3973,7 @@
         },
         {
             "A": "Borussia Dortmund",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 1.45,
                 "D": 4.6,
@@ -3991,7 +3991,7 @@
         },
         {
             "A": "1. FC Nurnberg",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 7.0,
                 "D": 5.75,
@@ -4009,7 +4009,7 @@
         },
         {
             "A": "RB Leipzig",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 8.0,
                 "D": 5.25,
@@ -4053,7 +4053,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "Borussia Dortmund",
             "O": {
                 "A": 5.25,
@@ -4062,7 +4062,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "Eintracht Frankfurt",
             "O": {
                 "A": 1.5,
@@ -4071,7 +4071,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "Hannover 96",
             "O": {
                 "A": 3.3,
@@ -4134,7 +4134,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "TSG 1899 Hoffenheim",
             "O": {
                 "A": 1.48,
@@ -4143,7 +4143,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "FC Augsburg",
             "O": {
                 "A": 4.33,
@@ -4170,7 +4170,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "Bayer 04 Leverkusen",
             "O": {
                 "A": 3.5,
@@ -4252,7 +4252,7 @@
         },
         {
             "A": "FC Augsburg",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 5.25,
                 "D": 4.1,
@@ -4279,7 +4279,7 @@
         },
         {
             "A": "VfB Stuttgart",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 23.0,
                 "D": 11.5,
@@ -4288,7 +4288,7 @@
         },
         {
             "A": "RB Leipzig",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 1.9,
                 "D": 3.6,
@@ -4323,7 +4323,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "TSG 1899 Hoffenheim",
             "O": {
                 "A": 6.75,
@@ -4332,7 +4332,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "Bayer 04 Leverkusen",
             "O": {
                 "A": 1.57,
@@ -4350,7 +4350,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "FC Schalke 04",
             "O": {
                 "A": 3.0,
@@ -4387,7 +4387,7 @@
         },
         {
             "A": "FC Schalke 04",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 12.5,
                 "D": 6.75,
@@ -4423,7 +4423,7 @@
         },
         {
             "A": "Hertha BSC",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 5.25,
                 "D": 4.2,
@@ -4441,7 +4441,7 @@
         },
         {
             "A": "VfB Stuttgart",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 3.5,
                 "D": 3.5,
@@ -4458,7 +4458,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "FC Augsburg",
             "O": {
                 "A": 1.2,
@@ -4512,7 +4512,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "Eintracht Frankfurt",
             "O": {
                 "A": 3.0,
@@ -4521,7 +4521,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "Bayer 04 Leverkusen",
             "O": {
                 "A": 7.0,
@@ -4549,7 +4549,7 @@
         },
         {
             "A": "Hertha BSC",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 15.0,
                 "D": 7.0,
@@ -4558,7 +4558,7 @@
         },
         {
             "A": "1. FC Nurnberg",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 5.0,
                 "D": 3.75,
@@ -4585,7 +4585,7 @@
         },
         {
             "A": "VfL Wolfsburg",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 4.5,
                 "D": 3.7,
@@ -4656,8 +4656,8 @@
             }
         },
         {
-            "A": "Bayern Munchen",
-            "H": "Bor. Monchengladbach",
+            "A": "Bayern München",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 1.6,
                 "D": 4.25,
@@ -4674,7 +4674,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "FC Schalke 04",
             "O": {
                 "A": 4.33,
@@ -4711,7 +4711,7 @@
         },
         {
             "A": "VfL Wolfsburg",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 12.5,
                 "D": 6.5,
@@ -4737,7 +4737,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "1. FSV Mainz 05",
             "O": {
                 "A": 2.3,
@@ -4774,7 +4774,7 @@
         },
         {
             "A": "Eintracht Frankfurt",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 2.5,
                 "D": 3.6,
@@ -4783,7 +4783,7 @@
         },
         {
             "A": "SC Freiburg",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 5.5,
                 "D": 4.1,
@@ -4827,7 +4827,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "VfL Wolfsburg",
             "O": {
                 "A": 4.75,
@@ -4837,7 +4837,7 @@
         },
         {
             "A": "1. FSV Mainz 05",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 19.0,
                 "D": 9.0,
@@ -4881,8 +4881,8 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
-            "H": "Fortuna Dusseldorf",
+            "A": "Bor. Mönchengladbach",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 2.35,
                 "D": 3.5,
@@ -4890,7 +4890,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "SC Freiburg",
             "O": {
                 "A": 1.26,
@@ -4954,7 +4954,7 @@
         },
         {
             "A": "Borussia Dortmund",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 5.0,
                 "D": 5.0,
@@ -4962,7 +4962,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "Hertha BSC",
             "O": {
                 "A": 4.1,
@@ -5017,7 +5017,7 @@
         },
         {
             "A": "Werder Bremen",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 3.4,
                 "D": 3.6,
@@ -5043,7 +5043,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "Hannover 96",
             "O": {
                 "A": 1.6,
@@ -5088,8 +5088,8 @@
             }
         },
         {
-            "A": "Bayern Munchen",
-            "H": "Fortuna Dusseldorf",
+            "A": "Bayern München",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 1.2,
                 "D": 7.25,
@@ -5116,7 +5116,7 @@
         },
         {
             "A": "Werder Bremen",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 13.5,
                 "D": 7.5,
@@ -5133,7 +5133,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "1. FSV Mainz 05",
             "O": {
                 "A": 3.2,
@@ -5143,7 +5143,7 @@
         },
         {
             "A": "RB Leipzig",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 2.35,
                 "D": 3.4,
@@ -5215,7 +5215,7 @@
         },
         {
             "A": "Werder Bremen",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 2.3,
                 "D": 3.6,
@@ -5241,7 +5241,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "VfB Stuttgart",
             "O": {
                 "A": 2.0,
@@ -5259,7 +5259,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "1. FC Nurnberg",
             "O": {
                 "A": 1.14,
@@ -5278,7 +5278,7 @@
         },
         {
             "A": "Hannover 96",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 41.0,
                 "D": 17.5,
@@ -5296,7 +5296,7 @@
         },
         {
             "A": "TSG 1899 Hoffenheim",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 2.3,
                 "D": 4.0,
@@ -5322,7 +5322,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "SC Freiburg",
             "O": {
                 "A": 3.3,
@@ -5358,7 +5358,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "Borussia Dortmund",
             "O": {
                 "A": 8.0,
@@ -5394,7 +5394,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "1. FC Nurnberg",
             "O": {
                 "A": 1.85,
@@ -5403,7 +5403,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "RB Leipzig",
             "O": {
                 "A": 1.7,
@@ -5431,7 +5431,7 @@
         },
         {
             "A": "Eintracht Frankfurt",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 11.0,
                 "D": 6.25,
@@ -5440,7 +5440,7 @@
         },
         {
             "A": "Hannover 96",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 5.25,
                 "D": 4.5,
@@ -5476,7 +5476,7 @@
         },
         {
             "A": "Borussia Dortmund",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 2.15,
                 "D": 4.1,
@@ -5514,7 +5514,7 @@
     "IW": [
         {
             "A": "TSG 1899 Hoffenheim",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 9.0,
                 "D": 5.8,
@@ -5523,7 +5523,7 @@
         },
         {
             "A": "FC Augsburg",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 2.95,
                 "D": 3.3,
@@ -5550,7 +5550,7 @@
         },
         {
             "A": "Bayer 04 Leverkusen",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 2.5,
                 "D": 3.4,
@@ -5603,7 +5603,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "FC Augsburg",
             "O": {
                 "A": 2.65,
@@ -5648,7 +5648,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "VfB Stuttgart",
             "O": {
                 "A": 1.3,
@@ -5657,7 +5657,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "RB Leipzig",
             "O": {
                 "A": 7.1,
@@ -5685,7 +5685,7 @@
         },
         {
             "A": "Bayer 04 Leverkusen",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 10.0,
                 "D": 6.0,
@@ -5694,7 +5694,7 @@
         },
         {
             "A": "TSG 1899 Hoffenheim",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 2.0,
                 "D": 3.4,
@@ -5712,7 +5712,7 @@
         },
         {
             "A": "FC Schalke 04",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 2.95,
                 "D": 3.35,
@@ -5756,7 +5756,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "VfB Stuttgart",
             "O": {
                 "A": 4.5,
@@ -5774,7 +5774,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "Hertha BSC",
             "O": {
                 "A": 2.75,
@@ -5801,7 +5801,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "FC Schalke 04",
             "O": {
                 "A": 1.45,
@@ -5838,7 +5838,7 @@
         },
         {
             "A": "FC Augsburg",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 20.0,
                 "D": 9.0,
@@ -5883,7 +5883,7 @@
         },
         {
             "A": "Bayer 04 Leverkusen",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 2.0,
                 "D": 3.5,
@@ -5901,7 +5901,7 @@
         },
         {
             "A": "Eintracht Frankfurt",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 4.4,
                 "D": 3.7,
@@ -5918,7 +5918,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "Hertha BSC",
             "O": {
                 "A": 1.4,
@@ -5945,7 +5945,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "1. FC Nurnberg",
             "O": {
                 "A": 3.4,
@@ -5972,7 +5972,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "VfL Wolfsburg",
             "O": {
                 "A": 2.9,
@@ -6008,8 +6008,8 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
-            "H": "Bayern Munchen",
+            "A": "Bor. Mönchengladbach",
+            "H": "Bayern München",
             "O": {
                 "A": 10.0,
                 "D": 6.5,
@@ -6027,7 +6027,7 @@
         },
         {
             "A": "FC Schalke 04",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 2.0,
                 "D": 3.5,
@@ -6080,7 +6080,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "Eintracht Frankfurt",
             "O": {
                 "A": 4.7,
@@ -6134,7 +6134,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "VfL Wolfsburg",
             "O": {
                 "A": 1.45,
@@ -6153,7 +6153,7 @@
         },
         {
             "A": "1. FSV Mainz 05",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 5.1,
                 "D": 4.0,
@@ -6161,7 +6161,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "SC Freiburg",
             "O": {
                 "A": 2.2,
@@ -6180,7 +6180,7 @@
         },
         {
             "A": "VfL Wolfsburg",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 2.3,
                 "D": 3.4,
@@ -6206,7 +6206,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "1. FSV Mainz 05",
             "O": {
                 "A": 1.3,
@@ -6261,7 +6261,7 @@
         },
         {
             "A": "SC Freiburg",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 20.0,
                 "D": 9.0,
@@ -6314,8 +6314,8 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
-            "H": "Bor. Monchengladbach",
+            "A": "Fortuna Düsseldorf",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 7.5,
                 "D": 4.8,
@@ -6332,7 +6332,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "Borussia Dortmund",
             "O": {
                 "A": 2.4,
@@ -6342,7 +6342,7 @@
         },
         {
             "A": "Hertha BSC",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 2.1,
                 "D": 3.5,
@@ -6377,7 +6377,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "Werder Bremen",
             "O": {
                 "A": 2.7,
@@ -6422,8 +6422,8 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
-            "H": "Bayern Munchen",
+            "A": "Fortuna Düsseldorf",
+            "H": "Bayern München",
             "O": {
                 "A": 28.0,
                 "D": 9.1,
@@ -6477,7 +6477,7 @@
         },
         {
             "A": "Hannover 96",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 6.5,
                 "D": 4.3,
@@ -6486,7 +6486,7 @@
         },
         {
             "A": "1. FSV Mainz 05",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 2.7,
                 "D": 3.2,
@@ -6530,7 +6530,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "Werder Bremen",
             "O": {
                 "A": 1.45,
@@ -6548,7 +6548,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "RB Leipzig",
             "O": {
                 "A": 3.6,
@@ -6566,7 +6566,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "Werder Bremen",
             "O": {
                 "A": 4.6,
@@ -6576,7 +6576,7 @@
         },
         {
             "A": "1. FC Nurnberg",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 25.0,
                 "D": 9.5,
@@ -6639,7 +6639,7 @@
         },
         {
             "A": "VfB Stuttgart",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 7.0,
                 "D": 4.5,
@@ -6675,7 +6675,7 @@
         },
         {
             "A": "SC Freiburg",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 2.65,
                 "D": 3.4,
@@ -6683,7 +6683,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "Hannover 96",
             "O": {
                 "A": 1.27,
@@ -6692,7 +6692,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "TSG 1899 Hoffenheim",
             "O": {
                 "A": 3.2,
@@ -6729,7 +6729,7 @@
         },
         {
             "A": "Borussia Dortmund",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 1.45,
                 "D": 4.5,
@@ -6747,7 +6747,7 @@
         },
         {
             "A": "1. FC Nurnberg",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 8.0,
                 "D": 5.0,
@@ -6765,7 +6765,7 @@
         },
         {
             "A": "RB Leipzig",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 7.0,
                 "D": 4.5,
@@ -6809,7 +6809,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "Borussia Dortmund",
             "O": {
                 "A": 5.2,
@@ -6818,7 +6818,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "Eintracht Frankfurt",
             "O": {
                 "A": 1.5,
@@ -6827,7 +6827,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "Hannover 96",
             "O": {
                 "A": 3.05,
@@ -6890,7 +6890,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "TSG 1899 Hoffenheim",
             "O": {
                 "A": 1.6,
@@ -6899,7 +6899,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "FC Augsburg",
             "O": {
                 "A": 3.8,
@@ -6926,7 +6926,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "Bayer 04 Leverkusen",
             "O": {
                 "A": 3.35,
@@ -7008,7 +7008,7 @@
         },
         {
             "A": "FC Augsburg",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 5.5,
                 "D": 4.0,
@@ -7035,7 +7035,7 @@
         },
         {
             "A": "VfB Stuttgart",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 28.0,
                 "D": 9.1,
@@ -7044,7 +7044,7 @@
         },
         {
             "A": "RB Leipzig",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 1.9,
                 "D": 3.6,
@@ -7079,7 +7079,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "TSG 1899 Hoffenheim",
             "O": {
                 "A": 5.9,
@@ -7088,7 +7088,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "Bayer 04 Leverkusen",
             "O": {
                 "A": 1.55,
@@ -7106,7 +7106,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "FC Schalke 04",
             "O": {
                 "A": 2.95,
@@ -7143,7 +7143,7 @@
         },
         {
             "A": "FC Schalke 04",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 11.0,
                 "D": 7.0,
@@ -7179,7 +7179,7 @@
         },
         {
             "A": "Hertha BSC",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 5.5,
                 "D": 4.0,
@@ -7197,7 +7197,7 @@
         },
         {
             "A": "VfB Stuttgart",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 3.5,
                 "D": 3.4,
@@ -7214,7 +7214,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "FC Augsburg",
             "O": {
                 "A": 1.3,
@@ -7268,7 +7268,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "Eintracht Frankfurt",
             "O": {
                 "A": 2.9,
@@ -7277,7 +7277,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "Bayer 04 Leverkusen",
             "O": {
                 "A": 7.0,
@@ -7305,7 +7305,7 @@
         },
         {
             "A": "Hertha BSC",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 13.0,
                 "D": 7.0,
@@ -7314,7 +7314,7 @@
         },
         {
             "A": "1. FC Nurnberg",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 4.5,
                 "D": 3.6,
@@ -7341,7 +7341,7 @@
         },
         {
             "A": "VfL Wolfsburg",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 4.5,
                 "D": 3.7,
@@ -7412,8 +7412,8 @@
             }
         },
         {
-            "A": "Bayern Munchen",
-            "H": "Bor. Monchengladbach",
+            "A": "Bayern München",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 1.6,
                 "D": 4.2,
@@ -7430,7 +7430,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "FC Schalke 04",
             "O": {
                 "A": 3.9,
@@ -7467,7 +7467,7 @@
         },
         {
             "A": "VfL Wolfsburg",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 11.0,
                 "D": 6.1,
@@ -7493,7 +7493,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "1. FSV Mainz 05",
             "O": {
                 "A": 2.25,
@@ -7530,7 +7530,7 @@
         },
         {
             "A": "Eintracht Frankfurt",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 2.5,
                 "D": 3.55,
@@ -7539,7 +7539,7 @@
         },
         {
             "A": "SC Freiburg",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 5.5,
                 "D": 4.0,
@@ -7583,7 +7583,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "VfL Wolfsburg",
             "O": {
                 "A": 4.25,
@@ -7593,7 +7593,7 @@
         },
         {
             "A": "1. FSV Mainz 05",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 17.0,
                 "D": 8.0,
@@ -7637,8 +7637,8 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
-            "H": "Fortuna Dusseldorf",
+            "A": "Bor. Mönchengladbach",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 2.3,
                 "D": 3.45,
@@ -7646,7 +7646,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "SC Freiburg",
             "O": {
                 "A": 1.25,
@@ -7710,7 +7710,7 @@
         },
         {
             "A": "Borussia Dortmund",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 4.5,
                 "D": 4.5,
@@ -7718,7 +7718,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "Hertha BSC",
             "O": {
                 "A": 3.9,
@@ -7773,7 +7773,7 @@
         },
         {
             "A": "Werder Bremen",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 3.0,
                 "D": 3.6,
@@ -7799,7 +7799,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "Hannover 96",
             "O": {
                 "A": 1.63,
@@ -7844,8 +7844,8 @@
             }
         },
         {
-            "A": "Bayern Munchen",
-            "H": "Fortuna Dusseldorf",
+            "A": "Bayern München",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 1.22,
                 "D": 6.5,
@@ -7872,7 +7872,7 @@
         },
         {
             "A": "Werder Bremen",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 12.5,
                 "D": 6.5,
@@ -7889,7 +7889,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "1. FSV Mainz 05",
             "O": {
                 "A": 3.4,
@@ -7899,7 +7899,7 @@
         },
         {
             "A": "RB Leipzig",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 2.3,
                 "D": 3.5,
@@ -7971,7 +7971,7 @@
         },
         {
             "A": "Werder Bremen",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 2.2,
                 "D": 3.5,
@@ -7997,7 +7997,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "VfB Stuttgart",
             "O": {
                 "A": 2.0,
@@ -8015,7 +8015,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "1. FC Nurnberg",
             "O": {
                 "A": 1.15,
@@ -8034,7 +8034,7 @@
         },
         {
             "A": "Hannover 96",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 37.0,
                 "D": 15.0,
@@ -8052,7 +8052,7 @@
         },
         {
             "A": "TSG 1899 Hoffenheim",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 2.35,
                 "D": 3.9,
@@ -8078,7 +8078,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "SC Freiburg",
             "O": {
                 "A": 3.2,
@@ -8114,7 +8114,7 @@
             }
         },
         {
-            "A": "Fortuna Dusseldorf",
+            "A": "Fortuna Düsseldorf",
             "H": "Borussia Dortmund",
             "O": {
                 "A": 8.3,
@@ -8150,7 +8150,7 @@
             }
         },
         {
-            "A": "Bor. Monchengladbach",
+            "A": "Bor. Mönchengladbach",
             "H": "1. FC Nurnberg",
             "O": {
                 "A": 1.9,
@@ -8159,7 +8159,7 @@
             }
         },
         {
-            "A": "Bayern Munchen",
+            "A": "Bayern München",
             "H": "RB Leipzig",
             "O": {
                 "A": 1.75,
@@ -8187,7 +8187,7 @@
         },
         {
             "A": "Eintracht Frankfurt",
-            "H": "Bayern Munchen",
+            "H": "Bayern München",
             "O": {
                 "A": 9.6,
                 "D": 5.5,
@@ -8196,7 +8196,7 @@
         },
         {
             "A": "Hannover 96",
-            "H": "Fortuna Dusseldorf",
+            "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 4.9,
                 "D": 4.6,
@@ -8232,7 +8232,7 @@
         },
         {
             "A": "Borussia Dortmund",
-            "H": "Bor. Monchengladbach",
+            "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 2.2,
                 "D": 4.05,
