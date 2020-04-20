@@ -1,0 +1,10268 @@
+{
+  "B365": [
+    {
+      "A": "Levante UD",
+      "H": "Real Betis",
+      "O": {
+        "A": 5,
+        "H": 1.66,
+        "D": 4
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Girona FC",
+      "O": {
+        "A": 5,
+        "H": 1.75,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 21,
+        "H": 1.11,
+        "D": 10
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 4.5,
+        "H": 1.85,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 3.8,
+        "H": 2.04,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "SD Eibar",
+      "O": {
+        "A": 5.5,
+        "H": 1.66,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Real Madrid",
+      "O": {
+        "A": 13,
+        "H": 1.2,
+        "D": 7
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 2.14,
+        "H": 3.25,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 5.5,
+        "H": 1.75,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Valencia CF",
+      "O": {
+        "A": 2.5,
+        "H": 3,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Getafe CF",
+      "O": {
+        "A": 4.33,
+        "H": 1.95,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "CD Leganés",
+      "O": {
+        "A": 2.1,
+        "H": 3.5,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 2.6,
+        "H": 2.8,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 21,
+        "H": 1.16,
+        "D": 7
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 1.16,
+        "H": 17,
+        "D": 7.5
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 2.37,
+        "H": 3.25,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Girona FC",
+      "O": {
+        "A": 1.36,
+        "H": 8,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 4.33,
+        "H": 1.72,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 6.5,
+        "H": 1.61,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Levante UD",
+      "O": {
+        "A": 3,
+        "H": 2.4,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "SD Eibar",
+      "O": {
+        "A": 2.62,
+        "H": 2.75,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Getafe CF",
+      "O": {
+        "A": 4.75,
+        "H": 1.9,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 6,
+        "H": 1.57,
+        "D": 4
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 1.75,
+        "H": 5.5,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Real Madrid",
+      "O": {
+        "A": 21,
+        "H": 1.12,
+        "D": 9
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 2.54,
+        "H": 2.9,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 29,
+        "H": 1.08,
+        "D": 11
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Real Betis",
+      "O": {
+        "A": 2.45,
+        "H": 2.8,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Levante UD",
+      "O": {
+        "A": 2,
+        "H": 3.75,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "SD Huesca",
+      "O": {
+        "A": 3.4,
+        "H": 2.14,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 1.53,
+        "H": 6,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 12,
+        "H": 1.36,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 1.4,
+        "H": 7,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Valencia CF",
+      "O": {
+        "A": 4.75,
+        "H": 1.75,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 5.25,
+        "H": 1.72,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "CD Leganés",
+      "O": {
+        "A": 2.54,
+        "H": 3,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 7,
+        "H": 1.55,
+        "D": 4
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 3.6,
+        "H": 2.2,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Girona FC",
+      "O": {
+        "A": 3,
+        "H": 2.4,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.1,
+        "H": 3.6,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 5.25,
+        "H": 1.75,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "SD Eibar",
+      "O": {
+        "A": 4,
+        "H": 2.04,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Getafe CF",
+      "O": {
+        "A": 1.8,
+        "H": 5,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Real Madrid",
+      "O": {
+        "A": 15,
+        "H": 1.18,
+        "D": 7
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 3.6,
+        "H": 2.04,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 21,
+        "H": 1.08,
+        "D": 11
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Real Betis",
+      "O": {
+        "A": 3.6,
+        "H": 2.14,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Levante UD",
+      "O": {
+        "A": 2.04,
+        "H": 3.5,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 3.3,
+        "H": 2.25,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 15,
+        "H": 1.22,
+        "D": 6
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 4.5,
+        "H": 1.9,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 5.5,
+        "H": 1.61,
+        "D": 4
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 3.3,
+        "H": 2.25,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "CD Leganés",
+      "O": {
+        "A": 1.25,
+        "H": 12,
+        "D": 6
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 1.72,
+        "H": 4.33,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Valencia CF",
+      "O": {
+        "A": 4.75,
+        "H": 1.66,
+        "D": 4
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 2.75,
+        "H": 2.8,
+        "D": 3
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Girona FC",
+      "O": {
+        "A": 2.87,
+        "H": 2.5,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 3.6,
+        "H": 2.04,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 2.6,
+        "H": 2.8,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 17,
+        "H": 1.16,
+        "D": 7.5
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "SD Eibar",
+      "O": {
+        "A": 2.2,
+        "H": 3.3,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Real Madrid",
+      "O": {
+        "A": 3.75,
+        "H": 2,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 3.2,
+        "H": 2.2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Real Betis",
+      "O": {
+        "A": 5.5,
+        "H": 1.64,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.9,
+        "H": 2.5,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Levante UD",
+      "O": {
+        "A": 3.3,
+        "H": 2.14,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 6.5,
+        "H": 1.53,
+        "D": 4
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 3.8,
+        "H": 2,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 3.8,
+        "H": 2.04,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 1.36,
+        "H": 9,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Getafe CF",
+      "O": {
+        "A": 5.25,
+        "H": 1.72,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Girona FC",
+      "O": {
+        "A": 3.8,
+        "H": 2.1,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "CD Leganés",
+      "O": {
+        "A": 4,
+        "H": 2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 9,
+        "H": 1.44,
+        "D": 4
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 3.4,
+        "H": 2.25,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 6,
+        "H": 1.53,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Valencia CF",
+      "O": {
+        "A": 1.64,
+        "H": 4.75,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 4.2,
+        "H": 1.9,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 5,
+        "H": 1.66,
+        "D": 4
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 7.5,
+        "H": 1.33,
+        "D": 6
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Real Madrid",
+      "O": {
+        "A": 19,
+        "H": 1.14,
+        "D": 8.5
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Valencia CF",
+      "O": {
+        "A": 7.5,
+        "H": 1.5,
+        "D": 4
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 2.14,
+        "H": 3.8,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Real Betis",
+      "O": {
+        "A": 6,
+        "H": 1.61,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "SD Eibar",
+      "O": {
+        "A": 2.75,
+        "H": 2.7,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.14,
+        "H": 3.5,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 2.5,
+        "H": 2.9,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 5,
+        "H": 1.72,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 2.25,
+        "H": 3.3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 2.25,
+        "H": 3.4,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 2.87,
+        "H": 2.5,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 7.5,
+        "H": 1.53,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 3.6,
+        "H": 2.14,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Girona FC",
+      "O": {
+        "A": 4.5,
+        "H": 1.85,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Levante UD",
+      "O": {
+        "A": 3.75,
+        "H": 2.1,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 2.5,
+        "H": 3,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 3.6,
+        "H": 1.95,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Getafe CF",
+      "O": {
+        "A": 3.25,
+        "H": 2.4,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 13,
+        "H": 1.22,
+        "D": 6.5
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "CD Leganés",
+      "O": {
+        "A": 1.72,
+        "H": 5.75,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Real Madrid",
+      "O": {
+        "A": 15,
+        "H": 1.16,
+        "D": 8
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Valencia CF",
+      "O": {
+        "A": 7.5,
+        "H": 1.5,
+        "D": 4
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 1.28,
+        "H": 9.5,
+        "D": 6
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Real Betis",
+      "O": {
+        "A": 4.5,
+        "H": 1.8,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "SD Eibar",
+      "O": {
+        "A": 3.9,
+        "H": 2.04,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.1,
+        "H": 3.6,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 2.45,
+        "H": 2.75,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 6,
+        "H": 1.55,
+        "D": 4
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 4,
+        "H": 2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Levante UD",
+      "O": {
+        "A": 2.62,
+        "H": 2.62,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 9,
+        "H": 1.44,
+        "D": 4
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Getafe CF",
+      "O": {
+        "A": 2.75,
+        "H": 2.75,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Girona FC",
+      "O": {
+        "A": 3.75,
+        "H": 2.04,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 3.25,
+        "H": 2.3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 4.33,
+        "H": 1.8,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 13,
+        "H": 1.18,
+        "D": 7
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 1.55,
+        "H": 5,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 4.5,
+        "H": 1.75,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 2.25,
+        "H": 3.1,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "CD Leganés",
+      "O": {
+        "A": 3.6,
+        "H": 2.2,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 2.37,
+        "H": 3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "SD Eibar",
+      "O": {
+        "A": 1.53,
+        "H": 6,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "SD Huesca",
+      "O": {
+        "A": 3.25,
+        "H": 2.25,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Valencia CF",
+      "O": {
+        "A": 7.5,
+        "H": 1.44,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 3.9,
+        "H": 2.04,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 5.75,
+        "H": 1.66,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 8,
+        "H": 1.4,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 3.4,
+        "H": 2.14,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 4.2,
+        "H": 1.85,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 2.3,
+        "H": 3.1,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 5,
+        "H": 1.64,
+        "D": 4
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Getafe CF",
+      "O": {
+        "A": 3.4,
+        "H": 2.4,
+        "D": 2.87
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Real Madrid",
+      "O": {
+        "A": 7,
+        "H": 1.44,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 3.3,
+        "H": 2.37,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 2,
+        "H": 3.6,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 11,
+        "H": 1.25,
+        "D": 6.5
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Real Betis",
+      "O": {
+        "A": 3.4,
+        "H": 2.2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Girona FC",
+      "O": {
+        "A": 1.75,
+        "H": 5.5,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Levante UD",
+      "O": {
+        "A": 2.54,
+        "H": 2.75,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "CD Leganés",
+      "O": {
+        "A": 3,
+        "H": 2.62,
+        "D": 2.9
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 10,
+        "H": 1.36,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 1.5,
+        "H": 6.5,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Valencia CF",
+      "O": {
+        "A": 3.2,
+        "H": 2.2,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 4.75,
+        "H": 1.72,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Real Betis",
+      "O": {
+        "A": 6,
+        "H": 1.53,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "SD Eibar",
+      "O": {
+        "A": 4.5,
+        "H": 1.75,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "SD Huesca",
+      "O": {
+        "A": 1.3,
+        "H": 10,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 6.5,
+        "H": 1.61,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 4,
+        "H": 1.95,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 4.33,
+        "H": 1.85,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "SD Eibar",
+      "O": {
+        "A": 2.7,
+        "H": 2.7,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Getafe CF",
+      "O": {
+        "A": 3.5,
+        "H": 2.25,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Real Madrid",
+      "O": {
+        "A": 15,
+        "H": 1.14,
+        "D": 9
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 1.72,
+        "H": 5.75,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 3,
+        "H": 2.4,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.14,
+        "H": 3.5,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Levante UD",
+      "O": {
+        "A": 1.25,
+        "H": 9,
+        "D": 6.5
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 7,
+        "H": 1.44,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 2.5,
+        "H": 3,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Girona FC",
+      "O": {
+        "A": 2.9,
+        "H": 2.62,
+        "D": 3
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 5,
+        "H": 1.75,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 5,
+        "H": 1.75,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 10,
+        "H": 1.4,
+        "D": 4
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 21,
+        "H": 1.12,
+        "D": 9
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Real Betis",
+      "O": {
+        "A": 4.5,
+        "H": 1.8,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "CD Leganés",
+      "O": {
+        "A": 2.25,
+        "H": 3.4,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Valencia CF",
+      "O": {
+        "A": 8,
+        "H": 1.4,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 3.4,
+        "H": 2.1,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 1.85,
+        "H": 3.8,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 4.2,
+        "H": 2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Levante UD",
+      "O": {
+        "A": 3.3,
+        "H": 2.15,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 2.4,
+        "H": 3.1,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.2,
+        "H": 3.2,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 3.6,
+        "H": 2.1,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "SD Eibar",
+      "O": {
+        "A": 3.5,
+        "H": 2.1,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Getafe CF",
+      "O": {
+        "A": 1.36,
+        "H": 8,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Real Madrid",
+      "O": {
+        "A": 7.5,
+        "H": 1.33,
+        "D": 6
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 2.7,
+        "H": 2.8,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 3,
+        "H": 2.4,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 2.8,
+        "H": 2.5,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Girona FC",
+      "O": {
+        "A": 4,
+        "H": 2.1,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "CD Leganés",
+      "O": {
+        "A": 4.33,
+        "H": 1.95,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Valencia CF",
+      "O": {
+        "A": 7,
+        "H": 1.53,
+        "D": 4
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 3.8,
+        "H": 2.15,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 2.7,
+        "H": 2.75,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 12,
+        "H": 1.25,
+        "D": 6
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 21,
+        "H": 1.12,
+        "D": 9
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Real Betis",
+      "O": {
+        "A": 2.1,
+        "H": 3.25,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 4,
+        "H": 2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Getafe CF",
+      "O": {
+        "A": 4.5,
+        "H": 2,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 2.4,
+        "H": 3.1,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "SD Huesca",
+      "O": {
+        "A": 1.66,
+        "H": 5.75,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Real Madrid",
+      "O": {
+        "A": 4.5,
+        "H": 1.7,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 21,
+        "H": 1.12,
+        "D": 9
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Real Betis",
+      "O": {
+        "A": 6,
+        "H": 1.61,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Levante UD",
+      "O": {
+        "A": 3.5,
+        "H": 2.1,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 2.5,
+        "H": 2.87,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 3.4,
+        "H": 2.2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "SD Eibar",
+      "O": {
+        "A": 4,
+        "H": 2.1,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 8,
+        "H": 1.53,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "CD Leganés",
+      "O": {
+        "A": 3,
+        "H": 2.62,
+        "D": 3
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 6,
+        "H": 1.53,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Valencia CF",
+      "O": {
+        "A": 4.5,
+        "H": 1.83,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 3.5,
+        "H": 2.1,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 1.8,
+        "H": 4.2,
+        "D": 4
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Girona FC",
+      "O": {
+        "A": 1.33,
+        "H": 10,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 6,
+        "H": 1.61,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 3.1,
+        "H": 2.4,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 3.5,
+        "H": 2.15,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "SD Huesca",
+      "O": {
+        "A": 3.4,
+        "H": 2.25,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 11,
+        "H": 1.28,
+        "D": 5.75
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 2,
+        "H": 3.75,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Levante UD",
+      "O": {
+        "A": 3.1,
+        "H": 2.37,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 3.2,
+        "H": 2.35,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Real Betis",
+      "O": {
+        "A": 2.05,
+        "H": 4,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "SD Eibar",
+      "O": {
+        "A": 5,
+        "H": 1.66,
+        "D": 4
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Real Madrid",
+      "O": {
+        "A": 15,
+        "H": 1.2,
+        "D": 6.5
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 4.5,
+        "H": 1.8,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 3.1,
+        "H": 2.37,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 2.4,
+        "H": 2.9,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 3.1,
+        "H": 2.37,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 4.5,
+        "H": 1.8,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Getafe CF",
+      "O": {
+        "A": 4.33,
+        "H": 1.9,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Girona FC",
+      "O": {
+        "A": 4,
+        "H": 2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 1.7,
+        "H": 4.75,
+        "D": 4
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "CD Leganés",
+      "O": {
+        "A": 3.6,
+        "H": 2.25,
+        "D": 3
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 5,
+        "H": 1.66,
+        "D": 4
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Valencia CF",
+      "O": {
+        "A": 4.5,
+        "H": 1.83,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 3.8,
+        "H": 2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "SD Eibar",
+      "O": {
+        "A": 4,
+        "H": 2.05,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 15,
+        "H": 1.14,
+        "D": 9
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 4.5,
+        "H": 1.8,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 4.2,
+        "H": 2.05,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 1.65,
+        "H": 6,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Real Betis",
+      "O": {
+        "A": 5.25,
+        "H": 1.72,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Real Madrid",
+      "O": {
+        "A": 15,
+        "H": 1.16,
+        "D": 8
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Valencia CF",
+      "O": {
+        "A": 4.8,
+        "H": 1.72,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 2.8,
+        "H": 2.5,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.5,
+        "H": 3.1,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 5,
+        "H": 1.72,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 3.2,
+        "H": 2.3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 3.8,
+        "H": 2.1,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Getafe CF",
+      "O": {
+        "A": 5.5,
+        "H": 1.7,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 1.95,
+        "H": 3.5,
+        "D": 4
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 7,
+        "H": 1.57,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "CD Leganés",
+      "O": {
+        "A": 2.7,
+        "H": 2.8,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Levante UD",
+      "O": {
+        "A": 1.53,
+        "H": 5.25,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 2.75,
+        "H": 2.7,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Girona FC",
+      "O": {
+        "A": 3,
+        "H": 2.37,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 3.2,
+        "H": 2.25,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 4.75,
+        "H": 1.8,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "SD Huesca",
+      "O": {
+        "A": 1.95,
+        "H": 3.8,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Real Madrid",
+      "O": {
+        "A": 2.45,
+        "H": 2.75,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 5.5,
+        "H": 1.66,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Real Betis",
+      "O": {
+        "A": 3.4,
+        "H": 2.3,
+        "D": 3
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "SD Eibar",
+      "O": {
+        "A": 4.75,
+        "H": 1.72,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 2.05,
+        "H": 4,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Valencia CF",
+      "O": {
+        "A": 4,
+        "H": 2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "CD Leganés",
+      "O": {
+        "A": 4.2,
+        "H": 1.95,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 6,
+        "H": 1.66,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 2.55,
+        "H": 2.9,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 10,
+        "H": 1.45,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 15,
+        "H": 1.16,
+        "D": 8
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Getafe CF",
+      "O": {
+        "A": 6.5,
+        "H": 1.61,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 2.9,
+        "H": 2.5,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Girona FC",
+      "O": {
+        "A": 2.35,
+        "H": 3.3,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Levante UD",
+      "O": {
+        "A": 2.5,
+        "H": 2.9,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 4.75,
+        "H": 1.66,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 1.61,
+        "H": 5,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 4.5,
+        "H": 1.8,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 2.2,
+        "H": 3.9,
+        "D": 3
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "SD Huesca",
+      "O": {
+        "A": 3,
+        "H": 2.45,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "CD Leganés",
+      "O": {
+        "A": 3.7,
+        "H": 2.15,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Real Madrid",
+      "O": {
+        "A": 13,
+        "H": 1.18,
+        "D": 7.5
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Real Betis",
+      "O": {
+        "A": 1.4,
+        "H": 7,
+        "D": 5
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "SD Eibar",
+      "O": {
+        "A": 5.5,
+        "H": 1.66,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 2.9,
+        "H": 2.4,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Valencia CF",
+      "O": {
+        "A": 4,
+        "H": 2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 5.5,
+        "H": 1.6,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Girona FC",
+      "O": {
+        "A": 2.7,
+        "H": 2.87,
+        "D": 2.9
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 1.75,
+        "H": 5.5,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 15,
+        "H": 1.14,
+        "D": 9
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 2.75,
+        "H": 2.5,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Getafe CF",
+      "O": {
+        "A": 4.5,
+        "H": 1.95,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Levante UD",
+      "O": {
+        "A": 2.45,
+        "H": 2.8,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Real Madrid",
+      "O": {
+        "A": 19,
+        "H": 1.11,
+        "D": 10
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 3.6,
+        "H": 2.05,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 3,
+        "H": 2.6,
+        "D": 3
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 2.45,
+        "H": 2.75,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 10,
+        "H": 1.36,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 3.2,
+        "H": 2.4,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 1.61,
+        "H": 5.25,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 5.5,
+        "H": 1.61,
+        "D": 4
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "SD Eibar",
+      "O": {
+        "A": 5.5,
+        "H": 1.61,
+        "D": 4
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.62,
+        "H": 2.62,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Valencia CF",
+      "O": {
+        "A": 2.15,
+        "H": 3.3,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "CD Leganés",
+      "O": {
+        "A": 4.5,
+        "H": 1.9,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 6.5,
+        "H": 1.5,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 3.3,
+        "H": 2.25,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 5,
+        "H": 1.75,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Girona FC",
+      "O": {
+        "A": 3,
+        "H": 2.5,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Real Madrid",
+      "O": {
+        "A": 9.5,
+        "H": 1.3,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 1.9,
+        "H": 4.2,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 3.1,
+        "H": 2.5,
+        "D": 3
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Real Betis",
+      "O": {
+        "A": 3.3,
+        "H": 2.2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 3,
+        "H": 2.4,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Getafe CF",
+      "O": {
+        "A": 3.5,
+        "H": 2.3,
+        "D": 3
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Levante UD",
+      "O": {
+        "A": 3.8,
+        "H": 1.95,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 2.05,
+        "H": 3.5,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 9,
+        "H": 1.36,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 4.75,
+        "H": 1.8,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "SD Huesca",
+      "O": {
+        "A": 1.65,
+        "H": 4.75,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 5,
+        "H": 1.66,
+        "D": 4
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 5.5,
+        "H": 1.6,
+        "D": 4
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Girona FC",
+      "O": {
+        "A": 2.8,
+        "H": 2.5,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 3.25,
+        "H": 2.2,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Valencia CF",
+      "O": {
+        "A": 5.5,
+        "H": 1.5,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 2.55,
+        "H": 3.2,
+        "D": 2.9
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "CD Leganés",
+      "O": {
+        "A": 1.6,
+        "H": 5.25,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 3.75,
+        "H": 2.1,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 13,
+        "H": 1.22,
+        "D": 6.5
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 3.5,
+        "H": 2,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "SD Eibar",
+      "O": {
+        "A": 2.4,
+        "H": 3.2,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 3.4,
+        "H": 2.05,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Real Betis",
+      "O": {
+        "A": 2.4,
+        "H": 3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Getafe CF",
+      "O": {
+        "A": 2.3,
+        "H": 3.1,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Levante UD",
+      "O": {
+        "A": 3,
+        "H": 2.3,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Real Madrid",
+      "O": {
+        "A": 7,
+        "H": 1.45,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 5,
+        "H": 1.72,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 1.4,
+        "H": 7,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "SD Huesca",
+      "O": {
+        "A": 3,
+        "H": 2.25,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 3.25,
+        "H": 2.3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 5,
+        "H": 1.8,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 3.3,
+        "H": 2.3,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "CD Leganés",
+      "O": {
+        "A": 3,
+        "H": 2.6,
+        "D": 3
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Levante UD",
+      "O": {
+        "A": 2.9,
+        "H": 2.5,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Getafe CF",
+      "O": {
+        "A": 1.9,
+        "H": 4,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 9,
+        "H": 1.33,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 2.9,
+        "H": 2.5,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 7.5,
+        "H": 1.45,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 11,
+        "H": 1.33,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 11,
+        "H": 1.2,
+        "D": 6.5
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "CD Leganés",
+      "O": {
+        "A": 3,
+        "H": 2.37,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Girona FC",
+      "O": {
+        "A": 1.75,
+        "H": 4.75,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 2.75,
+        "H": 2.6,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Valencia CF",
+      "O": {
+        "A": 6.5,
+        "H": 1.45,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 1.4,
+        "H": 7.5,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 6.5,
+        "H": 1.55,
+        "D": 4
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Real Betis",
+      "O": {
+        "A": 3.1,
+        "H": 2.3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 8.5,
+        "H": 1.36,
+        "D": 5
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 2.9,
+        "H": 2.5,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 3.25,
+        "H": 2.15,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 2.05,
+        "H": 3.8,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Levante UD",
+      "O": {
+        "A": 3.6,
+        "H": 1.95,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "SD Eibar",
+      "O": {
+        "A": 3.5,
+        "H": 2.05,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Getafe CF",
+      "O": {
+        "A": 4.75,
+        "H": 1.8,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.1,
+        "H": 3.5,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Real Madrid",
+      "O": {
+        "A": 4.75,
+        "H": 1.7,
+        "D": 4
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 2.6,
+        "H": 2.9,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 3.8,
+        "H": 2,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 3.4,
+        "H": 2.1,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 6,
+        "H": 1.53,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Real Betis",
+      "O": {
+        "A": 5.75,
+        "H": 1.55,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Girona FC",
+      "O": {
+        "A": 3.2,
+        "H": 2.15,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "CD Leganés",
+      "O": {
+        "A": 2.87,
+        "H": 2.4,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 2.3,
+        "H": 3,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Valencia CF",
+      "O": {
+        "A": 7.5,
+        "H": 1.4,
+        "D": 5
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 1.8,
+        "H": 4.2,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 5,
+        "H": 1.6,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 3.1,
+        "H": 2.25,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 7,
+        "H": 1.45,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 3,
+        "H": 2.3,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Getafe CF",
+      "O": {
+        "A": 5.25,
+        "H": 1.61,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.62,
+        "H": 2.5,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Levante UD",
+      "O": {
+        "A": 1.95,
+        "H": 3.75,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 4.33,
+        "H": 1.85,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 1.36,
+        "H": 8,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "SD Eibar",
+      "O": {
+        "A": 1.9,
+        "H": 3.6,
+        "D": 4
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Real Madrid",
+      "O": {
+        "A": 4.75,
+        "H": 1.57,
+        "D": 4.75
+      }
+    }
+  ],
+  "BW": [
+    {
+      "A": "Levante UD",
+      "H": "Real Betis",
+      "O": {
+        "A": 5.25,
+        "H": 1.7,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Girona FC",
+      "O": {
+        "A": 5.25,
+        "H": 1.75,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 20,
+        "H": 1.11,
+        "D": 10
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 4.25,
+        "H": 1.91,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 3.9,
+        "H": 2.05,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "SD Eibar",
+      "O": {
+        "A": 5.25,
+        "H": 1.7,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Real Madrid",
+      "O": {
+        "A": 16,
+        "H": 1.18,
+        "D": 7.25
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 2.1,
+        "H": 3.5,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 5,
+        "H": 1.78,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Valencia CF",
+      "O": {
+        "A": 2.55,
+        "H": 2.85,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Getafe CF",
+      "O": {
+        "A": 4.2,
+        "H": 1.95,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "CD Leganés",
+      "O": {
+        "A": 2.2,
+        "H": 3.5,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 2.6,
+        "H": 2.65,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 18,
+        "H": 1.17,
+        "D": 7.25
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 1.19,
+        "H": 15,
+        "D": 7
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 2.45,
+        "H": 2.95,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Girona FC",
+      "O": {
+        "A": 1.36,
+        "H": 9.25,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 4.75,
+        "H": 1.72,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 6.5,
+        "H": 1.6,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Levante UD",
+      "O": {
+        "A": 2.95,
+        "H": 2.5,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "SD Eibar",
+      "O": {
+        "A": 2.65,
+        "H": 2.75,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Getafe CF",
+      "O": {
+        "A": 5,
+        "H": 1.85,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 6,
+        "H": 1.55,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 1.75,
+        "H": 5,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Real Madrid",
+      "O": {
+        "A": 23,
+        "H": 1.12,
+        "D": 8.75
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 2.65,
+        "H": 2.85,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 36,
+        "H": 1.06,
+        "D": 12
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Real Betis",
+      "O": {
+        "A": 2.45,
+        "H": 2.8,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Levante UD",
+      "O": {
+        "A": 2.1,
+        "H": 3.7,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "SD Huesca",
+      "O": {
+        "A": 3.4,
+        "H": 2.1,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 1.57,
+        "H": 5.5,
+        "D": 4.4
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 10,
+        "H": 1.36,
+        "D": 4.6
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 1.4,
+        "H": 7,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Valencia CF",
+      "O": {
+        "A": 4.5,
+        "H": 1.75,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 5,
+        "H": 1.78,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "CD Leganés",
+      "O": {
+        "A": 2.5,
+        "H": 3.1,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 6.5,
+        "H": 1.53,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 3.8,
+        "H": 2.15,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Girona FC",
+      "O": {
+        "A": 3.1,
+        "H": 2.35,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.1,
+        "H": 3.6,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 5.5,
+        "H": 1.67,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "SD Eibar",
+      "O": {
+        "A": 3.8,
+        "H": 2.1,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Getafe CF",
+      "O": {
+        "A": 1.85,
+        "H": 5,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Real Madrid",
+      "O": {
+        "A": 13.5,
+        "H": 1.19,
+        "D": 7.5
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 3.6,
+        "H": 2.15,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 26,
+        "H": 1.08,
+        "D": 11.5
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Real Betis",
+      "O": {
+        "A": 3.3,
+        "H": 2.2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Levante UD",
+      "O": {
+        "A": 2.15,
+        "H": 3.4,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 3,
+        "H": 2.35,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 15,
+        "H": 1.22,
+        "D": 6.25
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 4.4,
+        "H": 1.91,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 5.5,
+        "H": 1.62,
+        "D": 4
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 3.4,
+        "H": 2.2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "CD Leganés",
+      "O": {
+        "A": 1.26,
+        "H": 10.5,
+        "D": 6.25
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 1.72,
+        "H": 4.33,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Valencia CF",
+      "O": {
+        "A": 4.75,
+        "H": 1.7,
+        "D": 4
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 2.75,
+        "H": 2.8,
+        "D": 3
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Girona FC",
+      "O": {
+        "A": 2.75,
+        "H": 2.55,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 3.6,
+        "H": 2.05,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 2.75,
+        "H": 2.7,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 16.5,
+        "H": 1.16,
+        "D": 8
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "SD Eibar",
+      "O": {
+        "A": 2.2,
+        "H": 3.2,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Real Madrid",
+      "O": {
+        "A": 3.6,
+        "H": 2.1,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 3.2,
+        "H": 2.25,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Real Betis",
+      "O": {
+        "A": 5.25,
+        "H": 1.67,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.9,
+        "H": 2.55,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Levante UD",
+      "O": {
+        "A": 3.4,
+        "H": 2.2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 6.75,
+        "H": 1.55,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 4,
+        "H": 2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 3.75,
+        "H": 2.05,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 1.4,
+        "H": 7.75,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Getafe CF",
+      "O": {
+        "A": 5.25,
+        "H": 1.72,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Girona FC",
+      "O": {
+        "A": 3.6,
+        "H": 2.15,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "CD Leganés",
+      "O": {
+        "A": 3.75,
+        "H": 2.1,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 8.25,
+        "H": 1.48,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 3.4,
+        "H": 2.25,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 5.5,
+        "H": 1.55,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Valencia CF",
+      "O": {
+        "A": 1.7,
+        "H": 4.6,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 4.25,
+        "H": 1.9,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 4.75,
+        "H": 1.75,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 7.25,
+        "H": 1.34,
+        "D": 6
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Real Madrid",
+      "O": {
+        "A": 16,
+        "H": 1.15,
+        "D": 8.75
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Valencia CF",
+      "O": {
+        "A": 6.5,
+        "H": 1.55,
+        "D": 4
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 2.2,
+        "H": 3.6,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Real Betis",
+      "O": {
+        "A": 5.5,
+        "H": 1.65,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "SD Eibar",
+      "O": {
+        "A": 2.75,
+        "H": 2.75,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.15,
+        "H": 3.6,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 2.5,
+        "H": 2.9,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 5,
+        "H": 1.67,
+        "D": 4
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 2.25,
+        "H": 3.3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 2.4,
+        "H": 3.1,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 2.85,
+        "H": 2.55,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 7,
+        "H": 1.55,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 3.6,
+        "H": 2.1,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Girona FC",
+      "O": {
+        "A": 4.4,
+        "H": 1.83,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Levante UD",
+      "O": {
+        "A": 3.4,
+        "H": 2.15,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 2.4,
+        "H": 3.1,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 3.6,
+        "H": 1.95,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Getafe CF",
+      "O": {
+        "A": 3.2,
+        "H": 2.4,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 12.5,
+        "H": 1.26,
+        "D": 5.75
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "CD Leganés",
+      "O": {
+        "A": 1.72,
+        "H": 6,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Real Madrid",
+      "O": {
+        "A": 15.5,
+        "H": 1.18,
+        "D": 7.25
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Valencia CF",
+      "O": {
+        "A": 7,
+        "H": 1.5,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 1.28,
+        "H": 10,
+        "D": 6
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Real Betis",
+      "O": {
+        "A": 4.2,
+        "H": 1.83,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "SD Eibar",
+      "O": {
+        "A": 3.7,
+        "H": 2.1,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.15,
+        "H": 3.6,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 2.4,
+        "H": 2.85,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 5.75,
+        "H": 1.57,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 4.2,
+        "H": 1.95,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Levante UD",
+      "O": {
+        "A": 2.65,
+        "H": 2.65,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 9,
+        "H": 1.45,
+        "D": 4
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Getafe CF",
+      "O": {
+        "A": 2.7,
+        "H": 2.8,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Girona FC",
+      "O": {
+        "A": 3.7,
+        "H": 2.15,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 3.25,
+        "H": 2.3,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 4.6,
+        "H": 1.83,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 14,
+        "H": 1.19,
+        "D": 7.25
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 1.62,
+        "H": 5,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 4.75,
+        "H": 1.75,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 2.3,
+        "H": 3.1,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "CD Leganés",
+      "O": {
+        "A": 3.6,
+        "H": 2.2,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 2.35,
+        "H": 3.1,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "SD Eibar",
+      "O": {
+        "A": 1.53,
+        "H": 6,
+        "D": 4.4
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "SD Huesca",
+      "O": {
+        "A": 3.1,
+        "H": 2.3,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Valencia CF",
+      "O": {
+        "A": 6.5,
+        "H": 1.45,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 3.8,
+        "H": 2.1,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 6,
+        "H": 1.62,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 7.75,
+        "H": 1.36,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 3.3,
+        "H": 2.15,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 4.33,
+        "H": 1.85,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 2.4,
+        "H": 3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 5.25,
+        "H": 1.65,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Getafe CF",
+      "O": {
+        "A": 3.3,
+        "H": 2.4,
+        "D": 3
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Real Madrid",
+      "O": {
+        "A": 6.5,
+        "H": 1.45,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 3.3,
+        "H": 2.35,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 2.05,
+        "H": 3.6,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 11.5,
+        "H": 1.22,
+        "D": 6.75
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Real Betis",
+      "O": {
+        "A": 3.4,
+        "H": 2.25,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Girona FC",
+      "O": {
+        "A": 1.75,
+        "H": 5.5,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Levante UD",
+      "O": {
+        "A": 2.5,
+        "H": 2.8,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "CD Leganés",
+      "O": {
+        "A": 3,
+        "H": 2.6,
+        "D": 3
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 9.5,
+        "H": 1.4,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 1.53,
+        "H": 6,
+        "D": 4.4
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Valencia CF",
+      "O": {
+        "A": 3.2,
+        "H": 2.25,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 4.33,
+        "H": 1.8,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Real Betis",
+      "O": {
+        "A": 6,
+        "H": 1.53,
+        "D": 4.4
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "SD Eibar",
+      "O": {
+        "A": 4.5,
+        "H": 1.78,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "SD Huesca",
+      "O": {
+        "A": 1.33,
+        "H": 9.25,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 6.5,
+        "H": 1.62,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 4,
+        "H": 2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 4.6,
+        "H": 1.83,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "SD Eibar",
+      "O": {
+        "A": 2.7,
+        "H": 2.7,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Getafe CF",
+      "O": {
+        "A": 3.4,
+        "H": 2.3,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Real Madrid",
+      "O": {
+        "A": 13,
+        "H": 1.16,
+        "D": 9.25
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 1.75,
+        "H": 5.75,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 3.2,
+        "H": 2.3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.3,
+        "H": 3.3,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Levante UD",
+      "O": {
+        "A": 1.22,
+        "H": 11,
+        "D": 7
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 6.75,
+        "H": 1.45,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 2.6,
+        "H": 2.75,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Girona FC",
+      "O": {
+        "A": 2.9,
+        "H": 2.75,
+        "D": 2.9
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 5.25,
+        "H": 1.78,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 5,
+        "H": 1.75,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 9,
+        "H": 1.42,
+        "D": 4.25
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 21,
+        "H": 1.11,
+        "D": 9.75
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Real Betis",
+      "O": {
+        "A": 4.6,
+        "H": 1.78,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "CD Leganés",
+      "O": {
+        "A": 2.3,
+        "H": 3.25,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Valencia CF",
+      "O": {
+        "A": 9,
+        "H": 1.4,
+        "D": 4.4
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 3.25,
+        "H": 2.1,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 1.83,
+        "H": 3.9,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 4.2,
+        "H": 2,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Levante UD",
+      "O": {
+        "A": 3.3,
+        "H": 2.15,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 2.4,
+        "H": 3.1,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.2,
+        "H": 3.3,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 3.7,
+        "H": 2.05,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "SD Eibar",
+      "O": {
+        "A": 3.5,
+        "H": 2.1,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Getafe CF",
+      "O": {
+        "A": 1.4,
+        "H": 7.5,
+        "D": 5
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Real Madrid",
+      "O": {
+        "A": 8.75,
+        "H": 1.33,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 2.65,
+        "H": 2.8,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 3,
+        "H": 2.4,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 2.85,
+        "H": 2.5,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Girona FC",
+      "O": {
+        "A": 3.75,
+        "H": 2.15,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "CD Leganés",
+      "O": {
+        "A": 4.4,
+        "H": 1.95,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Valencia CF",
+      "O": {
+        "A": 6.75,
+        "H": 1.55,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 3.8,
+        "H": 2.15,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 2.65,
+        "H": 2.75,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 11,
+        "H": 1.28,
+        "D": 5.75
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 18,
+        "H": 1.12,
+        "D": 9.5
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Real Betis",
+      "O": {
+        "A": 2.1,
+        "H": 3.25,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 4.2,
+        "H": 1.95,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Getafe CF",
+      "O": {
+        "A": 4.75,
+        "H": 1.95,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 2.45,
+        "H": 3.1,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "SD Huesca",
+      "O": {
+        "A": 1.67,
+        "H": 5.75,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Real Madrid",
+      "O": {
+        "A": 4.5,
+        "H": 1.72,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 19.5,
+        "H": 1.13,
+        "D": 9
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Real Betis",
+      "O": {
+        "A": 5.75,
+        "H": 1.62,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Levante UD",
+      "O": {
+        "A": 3.6,
+        "H": 2.05,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 2.5,
+        "H": 2.85,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 3.5,
+        "H": 2.15,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "SD Eibar",
+      "O": {
+        "A": 3.8,
+        "H": 2.05,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 7.25,
+        "H": 1.55,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "CD Leganés",
+      "O": {
+        "A": 3,
+        "H": 2.6,
+        "D": 3
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 5.75,
+        "H": 1.55,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Valencia CF",
+      "O": {
+        "A": 4.5,
+        "H": 1.87,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 3.5,
+        "H": 2.15,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 1.8,
+        "H": 4.1,
+        "D": 4
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Girona FC",
+      "O": {
+        "A": 1.33,
+        "H": 9.5,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 5.75,
+        "H": 1.62,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 3.1,
+        "H": 2.4,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 3.6,
+        "H": 2.15,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "SD Huesca",
+      "O": {
+        "A": 3.4,
+        "H": 2.25,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 9.25,
+        "H": 1.3,
+        "D": 5.75
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 2,
+        "H": 3.7,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Levante UD",
+      "O": {
+        "A": 3.1,
+        "H": 2.4,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 3.4,
+        "H": 2.25,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Real Betis",
+      "O": {
+        "A": 2.05,
+        "H": 3.8,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "SD Eibar",
+      "O": {
+        "A": 5,
+        "H": 1.72,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Real Madrid",
+      "O": {
+        "A": 12.5,
+        "H": 1.22,
+        "D": 6.5
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 4.4,
+        "H": 1.8,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 3.4,
+        "H": 2.3,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 2.45,
+        "H": 3,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 3,
+        "H": 2.4,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 4.5,
+        "H": 1.8,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Getafe CF",
+      "O": {
+        "A": 4.6,
+        "H": 1.87,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Girona FC",
+      "O": {
+        "A": 4.1,
+        "H": 1.95,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 1.72,
+        "H": 4.75,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "CD Leganés",
+      "O": {
+        "A": 3.3,
+        "H": 2.35,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 4.75,
+        "H": 1.67,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Valencia CF",
+      "O": {
+        "A": 4.5,
+        "H": 1.83,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 3.8,
+        "H": 2.05,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "SD Eibar",
+      "O": {
+        "A": 4.1,
+        "H": 2.05,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 16,
+        "H": 1.16,
+        "D": 8
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 4.2,
+        "H": 1.85,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 4.1,
+        "H": 2.05,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 1.67,
+        "H": 5.75,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Real Betis",
+      "O": {
+        "A": 5,
+        "H": 1.8,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Real Madrid",
+      "O": {
+        "A": 15,
+        "H": 1.19,
+        "D": 7
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Valencia CF",
+      "O": {
+        "A": 4.75,
+        "H": 1.8,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 2.8,
+        "H": 2.45,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.45,
+        "H": 3.1,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 5,
+        "H": 1.75,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 3.2,
+        "H": 2.3,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 3.8,
+        "H": 2.1,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Getafe CF",
+      "O": {
+        "A": 5.25,
+        "H": 1.72,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 1.91,
+        "H": 3.6,
+        "D": 4
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 6.25,
+        "H": 1.57,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "CD Leganés",
+      "O": {
+        "A": 2.8,
+        "H": 2.8,
+        "D": 2.95
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Levante UD",
+      "O": {
+        "A": 1.55,
+        "H": 5.25,
+        "D": 4.6
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 2.7,
+        "H": 2.75,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Girona FC",
+      "O": {
+        "A": 3,
+        "H": 2.45,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 3.3,
+        "H": 2.25,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 5,
+        "H": 1.78,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "SD Huesca",
+      "O": {
+        "A": 1.95,
+        "H": 3.9,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Real Madrid",
+      "O": {
+        "A": 2.4,
+        "H": 2.7,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 5.5,
+        "H": 1.67,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Real Betis",
+      "O": {
+        "A": 3.4,
+        "H": 2.35,
+        "D": 3
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "SD Eibar",
+      "O": {
+        "A": 4.5,
+        "H": 1.78,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 2.1,
+        "H": 3.75,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Valencia CF",
+      "O": {
+        "A": 4.1,
+        "H": 2,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "CD Leganés",
+      "O": {
+        "A": 4.25,
+        "H": 1.91,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 5.75,
+        "H": 1.67,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 2.7,
+        "H": 2.9,
+        "D": 3
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 8.25,
+        "H": 1.45,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 15,
+        "H": 1.17,
+        "D": 8
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Getafe CF",
+      "O": {
+        "A": 6.25,
+        "H": 1.62,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 2.95,
+        "H": 2.45,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Girona FC",
+      "O": {
+        "A": 2.4,
+        "H": 3.1,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Levante UD",
+      "O": {
+        "A": 2.5,
+        "H": 2.8,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 4.75,
+        "H": 1.65,
+        "D": 4.25
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 1.6,
+        "H": 5.25,
+        "D": 4.25
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 4.4,
+        "H": 1.85,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 2.25,
+        "H": 3.7,
+        "D": 3
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.9,
+        "H": 2.5,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "CD Leganés",
+      "O": {
+        "A": 4.1,
+        "H": 2.05,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Real Madrid",
+      "O": {
+        "A": 15,
+        "H": 1.18,
+        "D": 7.25
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Real Betis",
+      "O": {
+        "A": 1.4,
+        "H": 6.75,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "SD Eibar",
+      "O": {
+        "A": 5.75,
+        "H": 1.62,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 2.65,
+        "H": 2.55,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Valencia CF",
+      "O": {
+        "A": 4.5,
+        "H": 1.95,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 5.25,
+        "H": 1.6,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Girona FC",
+      "O": {
+        "A": 2.75,
+        "H": 2.85,
+        "D": 2.95
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 1.75,
+        "H": 5.5,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 14,
+        "H": 1.19,
+        "D": 7.25
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 2.75,
+        "H": 2.55,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Getafe CF",
+      "O": {
+        "A": 4.6,
+        "H": 1.95,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Levante UD",
+      "O": {
+        "A": 2.45,
+        "H": 2.75,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Real Madrid",
+      "O": {
+        "A": 18.5,
+        "H": 1.13,
+        "D": 9.25
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 3.5,
+        "H": 2.05,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 2.85,
+        "H": 2.6,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 2.45,
+        "H": 2.85,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 10,
+        "H": 1.36,
+        "D": 4.6
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 3.2,
+        "H": 2.4,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 1.62,
+        "H": 5.25,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 5.75,
+        "H": 1.6,
+        "D": 4
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "SD Eibar",
+      "O": {
+        "A": 5.5,
+        "H": 1.65,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.65,
+        "H": 2.65,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Valencia CF",
+      "O": {
+        "A": 2.1,
+        "H": 3.3,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "CD Leganés",
+      "O": {
+        "A": 4.5,
+        "H": 1.91,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 6.25,
+        "H": 1.53,
+        "D": 4.25
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 3.3,
+        "H": 2.2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 4.75,
+        "H": 1.78,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Girona FC",
+      "O": {
+        "A": 3,
+        "H": 2.55,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Real Madrid",
+      "O": {
+        "A": 9.75,
+        "H": 1.28,
+        "D": 6
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 1.91,
+        "H": 4,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 3.25,
+        "H": 2.5,
+        "D": 2.9
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Real Betis",
+      "O": {
+        "A": 3.3,
+        "H": 2.2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 3,
+        "H": 2.45,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Getafe CF",
+      "O": {
+        "A": 3.6,
+        "H": 2.35,
+        "D": 2.9
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Levante UD",
+      "O": {
+        "A": 3.8,
+        "H": 1.95,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 2.15,
+        "H": 3.3,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 9.25,
+        "H": 1.36,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 5,
+        "H": 1.78,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "SD Huesca",
+      "O": {
+        "A": 1.7,
+        "H": 4.75,
+        "D": 4
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 4.75,
+        "H": 1.67,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 5.25,
+        "H": 1.65,
+        "D": 4
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Girona FC",
+      "O": {
+        "A": 2.75,
+        "H": 2.55,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 3.2,
+        "H": 2.3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Valencia CF",
+      "O": {
+        "A": 6.25,
+        "H": 1.5,
+        "D": 4.4
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 2.55,
+        "H": 3.1,
+        "D": 2.95
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "CD Leganés",
+      "O": {
+        "A": 1.62,
+        "H": 5,
+        "D": 4.25
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 3.9,
+        "H": 2.1,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 11.5,
+        "H": 1.22,
+        "D": 6.75
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 3.6,
+        "H": 2,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "SD Eibar",
+      "O": {
+        "A": 2.4,
+        "H": 3.2,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 3.4,
+        "H": 2.05,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Real Betis",
+      "O": {
+        "A": 2.5,
+        "H": 2.85,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Getafe CF",
+      "O": {
+        "A": 2.35,
+        "H": 3.1,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Levante UD",
+      "O": {
+        "A": 3.1,
+        "H": 2.2,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Real Madrid",
+      "O": {
+        "A": 7.5,
+        "H": 1.45,
+        "D": 4.4
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 5,
+        "H": 1.72,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 1.42,
+        "H": 7,
+        "D": 5
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "SD Huesca",
+      "O": {
+        "A": 3,
+        "H": 2.35,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 3.2,
+        "H": 2.3,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 4.6,
+        "H": 1.85,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 3.3,
+        "H": 2.2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "CD Leganés",
+      "O": {
+        "A": 2.95,
+        "H": 2.65,
+        "D": 3
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Levante UD",
+      "O": {
+        "A": 2.7,
+        "H": 2.55,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Getafe CF",
+      "O": {
+        "A": 1.85,
+        "H": 4.1,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 8,
+        "H": 1.34,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 2.9,
+        "H": 2.4,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 6.5,
+        "H": 1.5,
+        "D": 4
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 9.25,
+        "H": 1.35,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 10.5,
+        "H": 1.22,
+        "D": 6.25
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "CD Leganés",
+      "O": {
+        "A": 3,
+        "H": 2.35,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Girona FC",
+      "O": {
+        "A": 1.85,
+        "H": 4.1,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 2.95,
+        "H": 2.55,
+        "D": 2.95
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Valencia CF",
+      "O": {
+        "A": 6.5,
+        "H": 1.44,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 1.42,
+        "H": 6.25,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 5.75,
+        "H": 1.55,
+        "D": 4
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Real Betis",
+      "O": {
+        "A": 3,
+        "H": 2.3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 8.75,
+        "H": 1.36,
+        "D": 5
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 2.9,
+        "H": 2.6,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 3.4,
+        "H": 2.1,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 2.1,
+        "H": 3.7,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Levante UD",
+      "O": {
+        "A": 3.5,
+        "H": 1.95,
+        "D": 4
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "SD Eibar",
+      "O": {
+        "A": 3.5,
+        "H": 2.05,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Getafe CF",
+      "O": {
+        "A": 5,
+        "H": 1.78,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.1,
+        "H": 3.4,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Real Madrid",
+      "O": {
+        "A": 5,
+        "H": 1.67,
+        "D": 4
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 2.7,
+        "H": 2.8,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 3.75,
+        "H": 2.05,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 3.3,
+        "H": 2.15,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 6.25,
+        "H": 1.5,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Real Betis",
+      "O": {
+        "A": 5.5,
+        "H": 1.57,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Girona FC",
+      "O": {
+        "A": 3.2,
+        "H": 2.25,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "CD Leganés",
+      "O": {
+        "A": 2.95,
+        "H": 2.45,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 2.3,
+        "H": 2.9,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Valencia CF",
+      "O": {
+        "A": 7,
+        "H": 1.4,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 1.8,
+        "H": 4.2,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 5,
+        "H": 1.6,
+        "D": 4.4
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 3,
+        "H": 2.3,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 6.5,
+        "H": 1.45,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 3,
+        "H": 2.25,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Getafe CF",
+      "O": {
+        "A": 5.25,
+        "H": 1.62,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.65,
+        "H": 2.5,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Levante UD",
+      "O": {
+        "A": 2,
+        "H": 3.5,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 4.6,
+        "H": 1.87,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 1.4,
+        "H": 8,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "SD Eibar",
+      "O": {
+        "A": 1.87,
+        "H": 3.7,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Real Madrid",
+      "O": {
+        "A": 5,
+        "H": 1.57,
+        "D": 4.75
+      }
+    }
+  ],
+  "IW": [
+    {
+      "A": "Levante UD",
+      "H": "Real Betis",
+      "O": {
+        "A": 4.9,
+        "H": 1.75,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Girona FC",
+      "O": {
+        "A": 4.5,
+        "H": 1.8,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 20,
+        "H": 1.12,
+        "D": 9
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 4.1,
+        "H": 1.9,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 3.8,
+        "H": 2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "SD Eibar",
+      "O": {
+        "A": 5,
+        "H": 1.7,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Real Madrid",
+      "O": {
+        "A": 15,
+        "H": 1.2,
+        "D": 6.5
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 2.1,
+        "H": 3.5,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 4.4,
+        "H": 1.85,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Valencia CF",
+      "O": {
+        "A": 2.55,
+        "H": 2.85,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Getafe CF",
+      "O": {
+        "A": 4.2,
+        "H": 2,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "CD Leganés",
+      "O": {
+        "A": 2.15,
+        "H": 3.6,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 2.6,
+        "H": 2.8,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 18.5,
+        "H": 1.17,
+        "D": 7.2
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 1.2,
+        "H": 13,
+        "D": 7
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 2.35,
+        "H": 3.1,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Girona FC",
+      "O": {
+        "A": 1.4,
+        "H": 7,
+        "D": 5.2
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 4.45,
+        "H": 1.75,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 5.7,
+        "H": 1.63,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Levante UD",
+      "O": {
+        "A": 2.95,
+        "H": 2.45,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "SD Eibar",
+      "O": {
+        "A": 2.5,
+        "H": 2.95,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Getafe CF",
+      "O": {
+        "A": 4.7,
+        "H": 1.9,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 5.4,
+        "H": 1.65,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 1.75,
+        "H": 4.8,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Real Madrid",
+      "O": {
+        "A": 20,
+        "H": 1.12,
+        "D": 9
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 2.8,
+        "H": 2.7,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 26,
+        "H": 1.07,
+        "D": 13
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Real Betis",
+      "O": {
+        "A": 2.5,
+        "H": 2.8,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Levante UD",
+      "O": {
+        "A": 2.2,
+        "H": 3.4,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "SD Huesca",
+      "O": {
+        "A": 3.2,
+        "H": 2.2,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 1.57,
+        "H": 5.2,
+        "D": 4.45
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 10,
+        "H": 1.35,
+        "D": 4.7
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 1.45,
+        "H": 6.5,
+        "D": 4.7
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Valencia CF",
+      "O": {
+        "A": 5,
+        "H": 1.7,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 4.5,
+        "H": 1.8,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "CD Leganés",
+      "O": {
+        "A": 2.5,
+        "H": 3,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 5.9,
+        "H": 1.57,
+        "D": 4.05
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 3.7,
+        "H": 2.2,
+        "D": 3.05
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Girona FC",
+      "O": {
+        "A": 2.95,
+        "H": 2.35,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.2,
+        "H": 3.3,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 5,
+        "H": 1.73,
+        "D": 3.65
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "SD Eibar",
+      "O": {
+        "A": 4,
+        "H": 2.05,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Getafe CF",
+      "O": {
+        "A": 1.85,
+        "H": 5,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Real Madrid",
+      "O": {
+        "A": 13,
+        "H": 1.2,
+        "D": 7
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 3.3,
+        "H": 2.2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 28,
+        "H": 1.1,
+        "D": 9.1
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Real Betis",
+      "O": {
+        "A": 3.35,
+        "H": 2.2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Levante UD",
+      "O": {
+        "A": 2.1,
+        "H": 3.3,
+        "D": 3.65
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 2.85,
+        "H": 2.45,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 13.5,
+        "H": 1.22,
+        "D": 6.2
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 4.4,
+        "H": 1.95,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 5,
+        "H": 1.65,
+        "D": 4
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 3.45,
+        "H": 2.15,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "CD Leganés",
+      "O": {
+        "A": 1.25,
+        "H": 11,
+        "D": 6.1
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 1.75,
+        "H": 4.05,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Valencia CF",
+      "O": {
+        "A": 4,
+        "H": 1.85,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 2.85,
+        "H": 2.8,
+        "D": 2.9
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Girona FC",
+      "O": {
+        "A": 2.8,
+        "H": 2.5,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 3.6,
+        "H": 2.05,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 2.65,
+        "H": 2.75,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 15,
+        "H": 1.17,
+        "D": 7.5
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "SD Eibar",
+      "O": {
+        "A": 2.25,
+        "H": 3.2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Real Madrid",
+      "O": {
+        "A": 3.5,
+        "H": 2.1,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 3.1,
+        "H": 2.3,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Real Betis",
+      "O": {
+        "A": 5.3,
+        "H": 1.67,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "SD Huesca",
+      "O": {
+        "A": 3,
+        "H": 2.45,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Levante UD",
+      "O": {
+        "A": 3.35,
+        "H": 2.15,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 6.2,
+        "H": 1.55,
+        "D": 4.05
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 4,
+        "H": 2,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 3.5,
+        "H": 2.2,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 1.45,
+        "H": 7,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Getafe CF",
+      "O": {
+        "A": 4.8,
+        "H": 1.75,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Girona FC",
+      "O": {
+        "A": 3.7,
+        "H": 2.1,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "CD Leganés",
+      "O": {
+        "A": 3.6,
+        "H": 2.1,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 7.6,
+        "H": 1.5,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 3.3,
+        "H": 2.3,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 5.9,
+        "H": 1.55,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Valencia CF",
+      "O": {
+        "A": 1.65,
+        "H": 4.6,
+        "D": 4.3
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 4.2,
+        "H": 1.93,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 4.4,
+        "H": 1.85,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 7,
+        "H": 1.35,
+        "D": 5.8
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Real Madrid",
+      "O": {
+        "A": 14.5,
+        "H": 1.17,
+        "D": 8.3
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Valencia CF",
+      "O": {
+        "A": 5.1,
+        "H": 1.65,
+        "D": 4
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 2.15,
+        "H": 3.8,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Real Betis",
+      "O": {
+        "A": 4.9,
+        "H": 1.7,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "SD Eibar",
+      "O": {
+        "A": 2.75,
+        "H": 2.7,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.1,
+        "H": 3.6,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 2.55,
+        "H": 2.95,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 4.9,
+        "H": 1.7,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 2.25,
+        "H": 3.25,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 2.6,
+        "H": 2.75,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 2.95,
+        "H": 2.4,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 7.6,
+        "H": 1.5,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 3.5,
+        "H": 2.1,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Girona FC",
+      "O": {
+        "A": 4.5,
+        "H": 1.8,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Levante UD",
+      "O": {
+        "A": 3.4,
+        "H": 2.2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 2.65,
+        "H": 2.65,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 3.3,
+        "H": 2.1,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Getafe CF",
+      "O": {
+        "A": 3.25,
+        "H": 2.4,
+        "D": 3.05
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 12.5,
+        "H": 1.22,
+        "D": 6.5
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "CD Leganés",
+      "O": {
+        "A": 1.77,
+        "H": 5.5,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Real Madrid",
+      "O": {
+        "A": 13,
+        "H": 1.2,
+        "D": 7.1
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Valencia CF",
+      "O": {
+        "A": 5.4,
+        "H": 1.65,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 1.3,
+        "H": 9.6,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Real Betis",
+      "O": {
+        "A": 3.8,
+        "H": 2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "SD Eibar",
+      "O": {
+        "A": 3.15,
+        "H": 2.3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.2,
+        "H": 3.6,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 2.4,
+        "H": 2.85,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 5,
+        "H": 1.7,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 4.05,
+        "H": 1.97,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Levante UD",
+      "O": {
+        "A": 2.65,
+        "H": 2.65,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 7.5,
+        "H": 1.45,
+        "D": 4.3
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Getafe CF",
+      "O": {
+        "A": 2.7,
+        "H": 2.7,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Girona FC",
+      "O": {
+        "A": 3.65,
+        "H": 2.15,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 3.25,
+        "H": 2.3,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 5,
+        "H": 1.7,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 13,
+        "H": 1.2,
+        "D": 7
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 1.65,
+        "H": 4.8,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 4.5,
+        "H": 1.8,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 2.35,
+        "H": 3.05,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "CD Leganés",
+      "O": {
+        "A": 3.3,
+        "H": 2.3,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 2.3,
+        "H": 3.3,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "SD Eibar",
+      "O": {
+        "A": 1.53,
+        "H": 5.5,
+        "D": 4.65
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "SD Huesca",
+      "O": {
+        "A": 3.35,
+        "H": 2.2,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Valencia CF",
+      "O": {
+        "A": 6.6,
+        "H": 1.5,
+        "D": 4.25
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 3.9,
+        "H": 2.05,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 5.1,
+        "H": 1.7,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 7.4,
+        "H": 1.4,
+        "D": 5
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 3.4,
+        "H": 2.2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 4,
+        "H": 1.9,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 2.5,
+        "H": 2.95,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 5.4,
+        "H": 1.65,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Getafe CF",
+      "O": {
+        "A": 3.2,
+        "H": 2.45,
+        "D": 3
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Real Madrid",
+      "O": {
+        "A": 5.6,
+        "H": 1.5,
+        "D": 4.8
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 3.3,
+        "H": 2.4,
+        "D": 3
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 2.1,
+        "H": 3.4,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 10,
+        "H": 1.25,
+        "D": 6.5
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Real Betis",
+      "O": {
+        "A": 3.5,
+        "H": 2.1,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Girona FC",
+      "O": {
+        "A": 1.8,
+        "H": 5.1,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Levante UD",
+      "O": {
+        "A": 2.65,
+        "H": 2.65,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "CD Leganés",
+      "O": {
+        "A": 3.05,
+        "H": 2.7,
+        "D": 2.85
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 8.5,
+        "H": 1.43,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 1.55,
+        "H": 5.7,
+        "D": 4.3
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Valencia CF",
+      "O": {
+        "A": 3.05,
+        "H": 2.3,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 4.3,
+        "H": 1.85,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Real Betis",
+      "O": {
+        "A": 5.5,
+        "H": 1.57,
+        "D": 4.35
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "SD Eibar",
+      "O": {
+        "A": 4.55,
+        "H": 1.75,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "SD Huesca",
+      "O": {
+        "A": 1.3,
+        "H": 9.6,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 6,
+        "H": 1.6,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 4.05,
+        "H": 1.95,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 4.6,
+        "H": 1.85,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "SD Eibar",
+      "O": {
+        "A": 2.75,
+        "H": 2.65,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Getafe CF",
+      "O": {
+        "A": 3.5,
+        "H": 2.2,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Real Madrid",
+      "O": {
+        "A": 15,
+        "H": 1.15,
+        "D": 8.5
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 1.8,
+        "H": 5.1,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 3.1,
+        "H": 2.3,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.2,
+        "H": 3.3,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Levante UD",
+      "O": {
+        "A": 1.3,
+        "H": 9.6,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 6.2,
+        "H": 1.55,
+        "D": 4
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 2.6,
+        "H": 2.85,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Girona FC",
+      "O": {
+        "A": 2.95,
+        "H": 2.65,
+        "D": 2.95
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 4.4,
+        "H": 1.85,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 5.2,
+        "H": 1.73,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 11,
+        "H": 1.37,
+        "D": 4.3
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 20,
+        "H": 1.12,
+        "D": 9
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Real Betis",
+      "O": {
+        "A": 4.8,
+        "H": 1.75,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "CD Leganés",
+      "O": {
+        "A": 2.3,
+        "H": 3.3,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Valencia CF",
+      "O": {
+        "A": 7.9,
+        "H": 1.42,
+        "D": 4.55
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 3.2,
+        "H": 2.25,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 1.87,
+        "H": 3.8,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 4,
+        "H": 2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Levante UD",
+      "O": {
+        "A": 3.25,
+        "H": 2.15,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 2.45,
+        "H": 3.15,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.25,
+        "H": 3.2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 3.65,
+        "H": 2.1,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "SD Eibar",
+      "O": {
+        "A": 3.4,
+        "H": 2.15,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Getafe CF",
+      "O": {
+        "A": 1.4,
+        "H": 7.2,
+        "D": 5
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Real Madrid",
+      "O": {
+        "A": 7,
+        "H": 1.35,
+        "D": 6
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 2.8,
+        "H": 2.7,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 2.95,
+        "H": 2.45,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 2.85,
+        "H": 2.5,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Girona FC",
+      "O": {
+        "A": 3.4,
+        "H": 2.3,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "CD Leganés",
+      "O": {
+        "A": 4,
+        "H": 2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Valencia CF",
+      "O": {
+        "A": 5.2,
+        "H": 1.65,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 3.5,
+        "H": 2.2,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 2.55,
+        "H": 2.85,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 9.6,
+        "H": 1.3,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 17,
+        "H": 1.15,
+        "D": 8
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Real Betis",
+      "O": {
+        "A": 2.1,
+        "H": 3.45,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 4.2,
+        "H": 2,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Getafe CF",
+      "O": {
+        "A": 4.5,
+        "H": 1.9,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 2.7,
+        "H": 2.7,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "SD Huesca",
+      "O": {
+        "A": 1.6,
+        "H": 6.7,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Real Madrid",
+      "O": {
+        "A": 4.5,
+        "H": 1.7,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 22,
+        "H": 1.12,
+        "D": 8.5
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Real Betis",
+      "O": {
+        "A": 4.8,
+        "H": 1.75,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Levante UD",
+      "O": {
+        "A": 3.5,
+        "H": 2.1,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 2.5,
+        "H": 2.85,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 3.4,
+        "H": 2.2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "SD Eibar",
+      "O": {
+        "A": 3.65,
+        "H": 2.1,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 7.2,
+        "H": 1.55,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "CD Leganés",
+      "O": {
+        "A": 2.9,
+        "H": 2.7,
+        "D": 2.9
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 6.2,
+        "H": 1.5,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Valencia CF",
+      "O": {
+        "A": 4.2,
+        "H": 1.87,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 3.65,
+        "H": 2.05,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 1.8,
+        "H": 4.4,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Girona FC",
+      "O": {
+        "A": 1.33,
+        "H": 8.8,
+        "D": 5.3
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 6.1,
+        "H": 1.57,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 3.1,
+        "H": 2.4,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 3.8,
+        "H": 2.05,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "SD Huesca",
+      "O": {
+        "A": 3.45,
+        "H": 2.3,
+        "D": 3.05
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 9,
+        "H": 1.3,
+        "D": 5.8
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 2,
+        "H": 3.6,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Levante UD",
+      "O": {
+        "A": 3,
+        "H": 2.4,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 3.15,
+        "H": 2.4,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Real Betis",
+      "O": {
+        "A": 2.05,
+        "H": 4,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "SD Eibar",
+      "O": {
+        "A": 4.5,
+        "H": 1.8,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Real Madrid",
+      "O": {
+        "A": 11,
+        "H": 1.25,
+        "D": 6.1
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 4.35,
+        "H": 1.8,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 3.3,
+        "H": 2.35,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 2.4,
+        "H": 3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 3.05,
+        "H": 2.4,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 4.5,
+        "H": 1.8,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Getafe CF",
+      "O": {
+        "A": 4.3,
+        "H": 1.95,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Girona FC",
+      "O": {
+        "A": 4.1,
+        "H": 1.97,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 1.75,
+        "H": 4.5,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "CD Leganés",
+      "O": {
+        "A": 3.4,
+        "H": 2.3,
+        "D": 3.05
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 4.85,
+        "H": 1.67,
+        "D": 4.05
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Valencia CF",
+      "O": {
+        "A": 4.55,
+        "H": 1.8,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 3.6,
+        "H": 2.05,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "SD Eibar",
+      "O": {
+        "A": 4.05,
+        "H": 2.05,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 17,
+        "H": 1.15,
+        "D": 8
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 4.2,
+        "H": 1.8,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 4,
+        "H": 2.05,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 1.8,
+        "H": 4.9,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Real Betis",
+      "O": {
+        "A": 4.7,
+        "H": 1.8,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Real Madrid",
+      "O": {
+        "A": 13,
+        "H": 1.2,
+        "D": 7
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Valencia CF",
+      "O": {
+        "A": 4.8,
+        "H": 1.75,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 2.75,
+        "H": 2.6,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.55,
+        "H": 2.85,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 4.75,
+        "H": 1.77,
+        "D": 3.65
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 3.2,
+        "H": 2.3,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 3.8,
+        "H": 2.1,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Getafe CF",
+      "O": {
+        "A": 5.2,
+        "H": 1.75,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 1.93,
+        "H": 3.6,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 6.4,
+        "H": 1.57,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "CD Leganés",
+      "O": {
+        "A": 2.7,
+        "H": 2.8,
+        "D": 3.05
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Levante UD",
+      "O": {
+        "A": 1.55,
+        "H": 5.2,
+        "D": 4.65
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 2.8,
+        "H": 2.65,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Girona FC",
+      "O": {
+        "A": 3,
+        "H": 2.45,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 3.2,
+        "H": 2.3,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 4.85,
+        "H": 1.8,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "SD Huesca",
+      "O": {
+        "A": 1.95,
+        "H": 3.85,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Real Madrid",
+      "O": {
+        "A": 2.4,
+        "H": 2.7,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 5.2,
+        "H": 1.67,
+        "D": 3.85
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Real Betis",
+      "O": {
+        "A": 3.35,
+        "H": 2.35,
+        "D": 3.05
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "SD Eibar",
+      "O": {
+        "A": 4.65,
+        "H": 1.75,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 2.1,
+        "H": 3.7,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Valencia CF",
+      "O": {
+        "A": 4.2,
+        "H": 1.97,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "CD Leganés",
+      "O": {
+        "A": 4.2,
+        "H": 1.9,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 5.8,
+        "H": 1.65,
+        "D": 3.65
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 2.6,
+        "H": 2.95,
+        "D": 3.05
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 8.1,
+        "H": 1.47,
+        "D": 4
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 16.5,
+        "H": 1.15,
+        "D": 8
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Getafe CF",
+      "O": {
+        "A": 5.8,
+        "H": 1.63,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 2.95,
+        "H": 2.45,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Girona FC",
+      "O": {
+        "A": 2.35,
+        "H": 3.15,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Levante UD",
+      "O": {
+        "A": 2.5,
+        "H": 2.75,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 4.95,
+        "H": 1.67,
+        "D": 4.05
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 1.65,
+        "H": 4.85,
+        "D": 4.15
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 4.3,
+        "H": 1.85,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 2.25,
+        "H": 3.7,
+        "D": 2.95
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "SD Huesca",
+      "O": {
+        "A": 3.05,
+        "H": 2.5,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "CD Leganés",
+      "O": {
+        "A": 3.8,
+        "H": 2.1,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Real Madrid",
+      "O": {
+        "A": 11,
+        "H": 1.25,
+        "D": 6.1
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Real Betis",
+      "O": {
+        "A": 1.4,
+        "H": 7.4,
+        "D": 4.9
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "SD Eibar",
+      "O": {
+        "A": 5.5,
+        "H": 1.65,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 2.75,
+        "H": 2.5,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Valencia CF",
+      "O": {
+        "A": 4.3,
+        "H": 1.97,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 5.1,
+        "H": 1.63,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Girona FC",
+      "O": {
+        "A": 2.75,
+        "H": 2.9,
+        "D": 2.95
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 1.8,
+        "H": 5.1,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 13,
+        "H": 1.2,
+        "D": 7
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 2.75,
+        "H": 2.6,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Getafe CF",
+      "O": {
+        "A": 4.9,
+        "H": 1.85,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Levante UD",
+      "O": {
+        "A": 2.5,
+        "H": 2.7,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Real Madrid",
+      "O": {
+        "A": 20,
+        "H": 1.12,
+        "D": 9
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 3.45,
+        "H": 2.1,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 2.95,
+        "H": 2.6,
+        "D": 3.05
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 2.5,
+        "H": 2.75,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 10,
+        "H": 1.37,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 3.15,
+        "H": 2.45,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 1.65,
+        "H": 5,
+        "D": 4
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 5.7,
+        "H": 1.6,
+        "D": 3.95
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "SD Eibar",
+      "O": {
+        "A": 5.2,
+        "H": 1.63,
+        "D": 4
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.7,
+        "H": 2.6,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Valencia CF",
+      "O": {
+        "A": 2.1,
+        "H": 3.25,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "CD Leganés",
+      "O": {
+        "A": 4.55,
+        "H": 1.93,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 5.9,
+        "H": 1.55,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 3.4,
+        "H": 2.2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 3.9,
+        "H": 1.9,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Girona FC",
+      "O": {
+        "A": 2.95,
+        "H": 2.5,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Real Madrid",
+      "O": {
+        "A": 10,
+        "H": 1.27,
+        "D": 6
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 1.93,
+        "H": 3.9,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 3.25,
+        "H": 2.5,
+        "D": 2.95
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Real Betis",
+      "O": {
+        "A": 3.15,
+        "H": 2.25,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 2.95,
+        "H": 2.35,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Getafe CF",
+      "O": {
+        "A": 3.55,
+        "H": 2.35,
+        "D": 2.9
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Levante UD",
+      "O": {
+        "A": 3.6,
+        "H": 1.97,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 2.15,
+        "H": 3.35,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 8.3,
+        "H": 1.4,
+        "D": 4.55
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 4.7,
+        "H": 1.83,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "SD Huesca",
+      "O": {
+        "A": 1.6,
+        "H": 5.2,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 4.5,
+        "H": 1.7,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 5.3,
+        "H": 1.63,
+        "D": 4
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Girona FC",
+      "O": {
+        "A": 2.8,
+        "H": 2.5,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 3.15,
+        "H": 2.3,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Valencia CF",
+      "O": {
+        "A": 5.9,
+        "H": 1.5,
+        "D": 4.6
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 2.5,
+        "H": 3.2,
+        "D": 2.95
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "CD Leganés",
+      "O": {
+        "A": 1.65,
+        "H": 5,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 3.8,
+        "H": 2.15,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 11,
+        "H": 1.25,
+        "D": 6.1
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 3.65,
+        "H": 1.97,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "SD Eibar",
+      "O": {
+        "A": 2.5,
+        "H": 3.1,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 3.4,
+        "H": 2.05,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Real Betis",
+      "O": {
+        "A": 2.45,
+        "H": 2.85,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Getafe CF",
+      "O": {
+        "A": 2.35,
+        "H": 3.15,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Levante UD",
+      "O": {
+        "A": 2.95,
+        "H": 2.3,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Real Madrid",
+      "O": {
+        "A": 5.8,
+        "H": 1.55,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 4.8,
+        "H": 1.75,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 1.45,
+        "H": 6.2,
+        "D": 5
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.95,
+        "H": 2.3,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 3.25,
+        "H": 2.3,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 4.55,
+        "H": 1.85,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 3.1,
+        "H": 2.25,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "CD Leganés",
+      "O": {
+        "A": 2.95,
+        "H": 2.65,
+        "D": 2.95
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Levante UD",
+      "O": {
+        "A": 2.7,
+        "H": 2.45,
+        "D": 3.65
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Getafe CF",
+      "O": {
+        "A": 1.87,
+        "H": 4.05,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 8.1,
+        "H": 1.33,
+        "D": 5.6
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 2.85,
+        "H": 2.45,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 6.9,
+        "H": 1.53,
+        "D": 4.05
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 10,
+        "H": 1.36,
+        "D": 4.65
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 9.8,
+        "H": 1.27,
+        "D": 6.2
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "CD Leganés",
+      "O": {
+        "A": 3.1,
+        "H": 2.45,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Girona FC",
+      "O": {
+        "A": 1.85,
+        "H": 4.1,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 2.9,
+        "H": 2.6,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Valencia CF",
+      "O": {
+        "A": 6.5,
+        "H": 1.46,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 1.45,
+        "H": 6.4,
+        "D": 4.95
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 5.4,
+        "H": 1.57,
+        "D": 4.4
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "Real Betis",
+      "O": {
+        "A": 3.05,
+        "H": 2.3,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 7.9,
+        "H": 1.4,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 2.9,
+        "H": 2.55,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 3.3,
+        "H": 2.15,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 2.1,
+        "H": 3.7,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "Levante UD",
+      "O": {
+        "A": 3.5,
+        "H": 1.97,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "SD Eibar",
+      "O": {
+        "A": 3.6,
+        "H": 2,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Getafe CF",
+      "O": {
+        "A": 4.85,
+        "H": 1.8,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.1,
+        "H": 3.4,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Real Madrid",
+      "O": {
+        "A": 4.7,
+        "H": 1.7,
+        "D": 4.05
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 2.65,
+        "H": 2.85,
+        "D": 3
+      }
+    },
+    {
+      "A": "RC Celta Vigo",
+      "H": "Athletic Club Bilbao",
+      "O": {
+        "A": 3.85,
+        "H": 2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Sevilla FC",
+      "H": "Atlético Madrid",
+      "O": {
+        "A": 3.5,
+        "H": 2.1,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Getafe CF",
+      "H": "FC Barcelona",
+      "O": {
+        "A": 5.8,
+        "H": 1.53,
+        "D": 4.35
+      }
+    },
+    {
+      "A": "SD Huesca",
+      "H": "Real Betis",
+      "O": {
+        "A": 5.2,
+        "H": 1.57,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Levante UD",
+      "H": "Girona FC",
+      "O": {
+        "A": 3.1,
+        "H": 2.2,
+        "D": 3.65
+      }
+    },
+    {
+      "A": "RCD Espanyol",
+      "H": "CD Leganés",
+      "O": {
+        "A": 2.9,
+        "H": 2.45,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Real Madrid",
+      "H": "Real Sociedad",
+      "O": {
+        "A": 2.25,
+        "H": 2.95,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Deportivo Alavés",
+      "H": "Valencia CF",
+      "O": {
+        "A": 7.5,
+        "H": 1.4,
+        "D": 5.1
+      }
+    },
+    {
+      "A": "Real Valladolid CF",
+      "H": "Rayo Vallecano",
+      "O": {
+        "A": 1.85,
+        "H": 4.05,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "SD Eibar",
+      "H": "Villarreal CF",
+      "O": {
+        "A": 5.1,
+        "H": 1.6,
+        "D": 4.25
+      }
+    },
+    {
+      "A": "Girona FC",
+      "H": "Deportivo Alavés",
+      "O": {
+        "A": 3,
+        "H": 2.3,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Rayo Vallecano",
+      "H": "RC Celta Vigo",
+      "O": {
+        "A": 6,
+        "H": 1.48,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Real Sociedad",
+      "H": "RCD Espanyol",
+      "O": {
+        "A": 3,
+        "H": 2.25,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "Villarreal CF",
+      "H": "Getafe CF",
+      "O": {
+        "A": 5.1,
+        "H": 1.63,
+        "D": 4.05
+      }
+    },
+    {
+      "A": "CD Leganés",
+      "H": "SD Huesca",
+      "O": {
+        "A": 2.7,
+        "H": 2.5,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "Atlético Madrid",
+      "H": "Levante UD",
+      "O": {
+        "A": 1.97,
+        "H": 3.55,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Athletic Club Bilbao",
+      "H": "Sevilla FC",
+      "O": {
+        "A": 4.6,
+        "H": 1.87,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Valencia CF",
+      "H": "Real Valladolid CF",
+      "O": {
+        "A": 1.4,
+        "H": 7.5,
+        "D": 4.85
+      }
+    },
+    {
+      "A": "FC Barcelona",
+      "H": "SD Eibar",
+      "O": {
+        "A": 1.87,
+        "H": 3.75,
+        "D": 4
+      }
+    },
+    {
+      "A": "Real Betis",
+      "H": "Real Madrid",
+      "O": {
+        "A": 4.95,
+        "H": 1.6,
+        "D": 4.55
+      }
+    }
+  ]
+}

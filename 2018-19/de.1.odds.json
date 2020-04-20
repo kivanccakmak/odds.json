@@ -28,7 +28,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "Hertha BSC",
             "O": {
                 "A": 3.75,
@@ -128,7 +128,7 @@
         },
         {
             "A": "1. FSV Mainz 05",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 3.1,
                 "D": 3.3,
@@ -235,7 +235,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "Werder Bremen",
             "O": {
                 "A": 5.0,
@@ -281,7 +281,7 @@
         },
         {
             "A": "Hannover 96",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 2.9,
                 "D": 3.25,
@@ -361,7 +361,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "Borussia Dortmund",
             "O": {
                 "A": 10.0,
@@ -434,7 +434,7 @@
         },
         {
             "A": "Fortuna Düsseldorf",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 3.4,
                 "D": 3.4,
@@ -559,7 +559,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "RB Leipzig",
             "O": {
                 "A": 7.0,
@@ -596,7 +596,7 @@
         },
         {
             "A": "TSG 1899 Hoffenheim",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 1.9,
                 "D": 3.8,
@@ -704,7 +704,7 @@
         },
         {
             "A": "Eintracht Frankfurt",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 2.14,
                 "D": 3.5,
@@ -739,7 +739,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "FC Augsburg",
             "O": {
                 "A": 6.0,
@@ -857,7 +857,7 @@
         },
         {
             "A": "VfB Stuttgart",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 3.1,
                 "D": 3.25,
@@ -937,7 +937,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "FC Schalke 04",
             "O": {
                 "A": 7.0,
@@ -1046,7 +1046,7 @@
         },
         {
             "A": "Bayer 04 Leverkusen",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 1.8,
                 "D": 4.0,
@@ -1063,7 +1063,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "Bayern München",
             "O": {
                 "A": 34.0,
@@ -1136,7 +1136,7 @@
         },
         {
             "A": "VfL Wolfsburg",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 2.04,
                 "D": 3.5,
@@ -1234,7 +1234,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 7.0,
@@ -1334,7 +1334,7 @@
         },
         {
             "A": "SC Freiburg",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 2.7,
                 "D": 3.3,
@@ -1442,7 +1442,7 @@
         },
         {
             "A": "Hertha BSC",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 2.1,
                 "D": 3.4,
@@ -1486,7 +1486,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "1. FSV Mainz 05",
             "O": {
                 "A": 5.25,
@@ -1586,7 +1586,7 @@
         },
         {
             "A": "Werder Bremen",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 2.0,
                 "D": 3.6,
@@ -1657,7 +1657,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "Hannover 96",
             "O": {
                 "A": 3.25,
@@ -1775,7 +1775,7 @@
         },
         {
             "A": "Borussia Dortmund",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 1.4,
                 "D": 5.0,
@@ -1801,7 +1801,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 5.0,
@@ -1910,7 +1910,7 @@
         },
         {
             "A": "RB Leipzig",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 1.5,
                 "D": 4.33,
@@ -2008,7 +2008,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "TSG 1899 Hoffenheim",
             "O": {
                 "A": 12.0,
@@ -2089,7 +2089,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "Eintracht Frankfurt",
             "O": {
                 "A": 7.5,
@@ -2144,7 +2144,7 @@
         },
         {
             "A": "FC Augsburg",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 2.5,
                 "D": 3.3,
@@ -2233,7 +2233,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "VfB Stuttgart",
             "O": {
                 "A": 4.5,
@@ -2270,7 +2270,7 @@
         },
         {
             "A": "FC Schalke 04",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 2.25,
                 "D": 3.25,
@@ -2368,7 +2368,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "Bayer 04 Leverkusen",
             "O": {
                 "A": 9.5,
@@ -2504,7 +2504,7 @@
         },
         {
             "A": "Bayern München",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 1.14,
                 "D": 8.0,
@@ -2557,7 +2557,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "VfL Wolfsburg",
             "O": {
                 "A": 5.5,
@@ -2639,7 +2639,7 @@
         },
         {
             "A": "Bor. Mönchengladbach",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 1.85,
                 "D": 4.0,
@@ -2692,7 +2692,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "SC Freiburg",
             "O": {
                 "A": 4.33,
@@ -2784,7 +2784,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "Hertha BSC",
             "O": {
                 "A": 3.7,
@@ -2884,7 +2884,7 @@
         },
         {
             "A": "1. FSV Mainz 05",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 3.1,
                 "D": 3.3,
@@ -2991,7 +2991,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "Werder Bremen",
             "O": {
                 "A": 5.0,
@@ -3037,7 +3037,7 @@
         },
         {
             "A": "Hannover 96",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 2.85,
                 "D": 3.4,
@@ -3117,7 +3117,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "Borussia Dortmund",
             "O": {
                 "A": 11.0,
@@ -3190,7 +3190,7 @@
         },
         {
             "A": "Fortuna Düsseldorf",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 3.7,
                 "D": 3.4,
@@ -3315,7 +3315,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "RB Leipzig",
             "O": {
                 "A": 6.5,
@@ -3352,7 +3352,7 @@
         },
         {
             "A": "TSG 1899 Hoffenheim",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 1.91,
                 "D": 3.8,
@@ -3460,7 +3460,7 @@
         },
         {
             "A": "Eintracht Frankfurt",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 2.15,
                 "D": 3.5,
@@ -3495,7 +3495,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "FC Augsburg",
             "O": {
                 "A": 5.75,
@@ -3613,7 +3613,7 @@
         },
         {
             "A": "VfB Stuttgart",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 2.9,
                 "D": 3.4,
@@ -3693,7 +3693,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "FC Schalke 04",
             "O": {
                 "A": 7.25,
@@ -3802,7 +3802,7 @@
         },
         {
             "A": "Bayer 04 Leverkusen",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 1.78,
                 "D": 3.9,
@@ -3819,7 +3819,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "Bayern München",
             "O": {
                 "A": 29.0,
@@ -3892,7 +3892,7 @@
         },
         {
             "A": "VfL Wolfsburg",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 2.1,
                 "D": 3.4,
@@ -3990,7 +3990,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 7.0,
@@ -4090,7 +4090,7 @@
         },
         {
             "A": "SC Freiburg",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 2.7,
                 "D": 3.4,
@@ -4198,7 +4198,7 @@
         },
         {
             "A": "Hertha BSC",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 2.25,
                 "D": 3.4,
@@ -4242,7 +4242,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "1. FSV Mainz 05",
             "O": {
                 "A": 5.0,
@@ -4342,7 +4342,7 @@
         },
         {
             "A": "Werder Bremen",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 1.95,
                 "D": 3.8,
@@ -4413,7 +4413,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "Hannover 96",
             "O": {
                 "A": 3.3,
@@ -4531,7 +4531,7 @@
         },
         {
             "A": "Borussia Dortmund",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 1.42,
                 "D": 5.0,
@@ -4557,7 +4557,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 5.0,
@@ -4666,7 +4666,7 @@
         },
         {
             "A": "RB Leipzig",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 1.5,
                 "D": 4.2,
@@ -4764,7 +4764,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "TSG 1899 Hoffenheim",
             "O": {
                 "A": 9.5,
@@ -4845,7 +4845,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "Eintracht Frankfurt",
             "O": {
                 "A": 7.5,
@@ -4900,7 +4900,7 @@
         },
         {
             "A": "FC Augsburg",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 2.6,
                 "D": 3.3,
@@ -4989,7 +4989,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "VfB Stuttgart",
             "O": {
                 "A": 4.5,
@@ -5026,7 +5026,7 @@
         },
         {
             "A": "FC Schalke 04",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 2.25,
                 "D": 3.3,
@@ -5124,7 +5124,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "Bayer 04 Leverkusen",
             "O": {
                 "A": 9.0,
@@ -5260,7 +5260,7 @@
         },
         {
             "A": "Bayern München",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 1.14,
                 "D": 8.75,
@@ -5313,7 +5313,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "VfL Wolfsburg",
             "O": {
                 "A": 5.5,
@@ -5395,7 +5395,7 @@
         },
         {
             "A": "Bor. Mönchengladbach",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 1.85,
                 "D": 4.0,
@@ -5448,7 +5448,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "SC Freiburg",
             "O": {
                 "A": 4.2,
@@ -5540,7 +5540,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "Hertha BSC",
             "O": {
                 "A": 3.5,
@@ -5640,7 +5640,7 @@
         },
         {
             "A": "1. FSV Mainz 05",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 2.95,
                 "D": 3.3,
@@ -5747,7 +5747,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "Werder Bremen",
             "O": {
                 "A": 5.0,
@@ -5793,7 +5793,7 @@
         },
         {
             "A": "Hannover 96",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 2.85,
                 "D": 3.3,
@@ -5873,7 +5873,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "Borussia Dortmund",
             "O": {
                 "A": 9.0,
@@ -5946,7 +5946,7 @@
         },
         {
             "A": "Fortuna Düsseldorf",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 3.4,
                 "D": 3.4,
@@ -6071,7 +6071,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "RB Leipzig",
             "O": {
                 "A": 6.5,
@@ -6108,7 +6108,7 @@
         },
         {
             "A": "TSG 1899 Hoffenheim",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 2.0,
                 "D": 3.5,
@@ -6216,7 +6216,7 @@
         },
         {
             "A": "Eintracht Frankfurt",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 2.1,
                 "D": 3.4,
@@ -6251,7 +6251,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "FC Augsburg",
             "O": {
                 "A": 5.0,
@@ -6369,7 +6369,7 @@
         },
         {
             "A": "VfB Stuttgart",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 2.85,
                 "D": 3.4,
@@ -6449,7 +6449,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "FC Schalke 04",
             "O": {
                 "A": 6.6,
@@ -6558,7 +6558,7 @@
         },
         {
             "A": "Bayer 04 Leverkusen",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 1.85,
                 "D": 3.7,
@@ -6575,7 +6575,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "Bayern München",
             "O": {
                 "A": 25.0,
@@ -6648,7 +6648,7 @@
         },
         {
             "A": "VfL Wolfsburg",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 2.15,
                 "D": 3.4,
@@ -6746,7 +6746,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "Bor. Mönchengladbach",
             "O": {
                 "A": 8.0,
@@ -6846,7 +6846,7 @@
         },
         {
             "A": "SC Freiburg",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 2.7,
                 "D": 3.3,
@@ -6954,7 +6954,7 @@
         },
         {
             "A": "Hertha BSC",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 2.3,
                 "D": 3.3,
@@ -6998,7 +6998,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "1. FSV Mainz 05",
             "O": {
                 "A": 5.4,
@@ -7098,7 +7098,7 @@
         },
         {
             "A": "Werder Bremen",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 2.0,
                 "D": 3.6,
@@ -7169,7 +7169,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "Hannover 96",
             "O": {
                 "A": 3.2,
@@ -7287,7 +7287,7 @@
         },
         {
             "A": "Borussia Dortmund",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 1.45,
                 "D": 4.8,
@@ -7313,7 +7313,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "Fortuna Düsseldorf",
             "O": {
                 "A": 4.5,
@@ -7422,7 +7422,7 @@
         },
         {
             "A": "RB Leipzig",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 1.55,
                 "D": 4.3,
@@ -7520,7 +7520,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "TSG 1899 Hoffenheim",
             "O": {
                 "A": 9.3,
@@ -7601,7 +7601,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "Eintracht Frankfurt",
             "O": {
                 "A": 7.5,
@@ -7656,7 +7656,7 @@
         },
         {
             "A": "FC Augsburg",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 2.5,
                 "D": 3.3,
@@ -7745,7 +7745,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "VfB Stuttgart",
             "O": {
                 "A": 4.25,
@@ -7782,7 +7782,7 @@
         },
         {
             "A": "FC Schalke 04",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 2.3,
                 "D": 3.2,
@@ -7880,7 +7880,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "Bayer 04 Leverkusen",
             "O": {
                 "A": 8.5,
@@ -8016,7 +8016,7 @@
         },
         {
             "A": "Bayern München",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 1.15,
                 "D": 8.1,
@@ -8069,7 +8069,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "VfL Wolfsburg",
             "O": {
                 "A": 5.5,
@@ -8151,7 +8151,7 @@
         },
         {
             "A": "Bor. Mönchengladbach",
-            "H": "1. FC Nurnberg",
+            "H": "1. FC Nürnberg",
             "O": {
                 "A": 1.9,
                 "D": 3.95,
@@ -8204,7 +8204,7 @@
             }
         },
         {
-            "A": "1. FC Nurnberg",
+            "A": "1. FC Nürnberg",
             "H": "SC Freiburg",
             "O": {
                 "A": 4.15,
