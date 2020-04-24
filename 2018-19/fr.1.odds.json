@@ -1,0 +1,10268 @@
+{
+  "B365": [
+    {
+      "A": "Toulouse FC",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 8,
+        "H": 1.4,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Angers SCO",
+      "O": {
+        "A": 3.3,
+        "H": 2.3,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Lille OSC",
+      "O": {
+        "A": 3.1,
+        "H": 2.5,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 5.5,
+        "H": 1.72,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "FC Nantes",
+      "O": {
+        "A": 2.3,
+        "H": 3.2,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "OGC Nice",
+      "O": {
+        "A": 4.5,
+        "H": 1.85,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 4.75,
+        "H": 1.8,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 5,
+        "H": 1.7,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 13,
+        "H": 1.2,
+        "D": 7
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 23,
+        "H": 1.08,
+        "D": 12
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 1.7,
+        "H": 4.75,
+        "D": 4
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Amiens SC",
+      "O": {
+        "A": 2.5,
+        "H": 3.2,
+        "D": 3
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.75,
+        "H": 2.75,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 2.8,
+        "H": 2.6,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 1.2,
+        "H": 13,
+        "D": 7
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 6.5,
+        "H": 1.5,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 4.5,
+        "H": 1.9,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 1.72,
+        "H": 4.75,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 2.8,
+        "H": 2.6,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 2.9,
+        "H": 2.6,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 11,
+        "H": 1.28,
+        "D": 5.75
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Amiens SC",
+      "O": {
+        "A": 2.8,
+        "H": 2.6,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 3.2,
+        "H": 2.4,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "FC Nantes",
+      "O": {
+        "A": 4.33,
+        "H": 1.95,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "OGC Nice",
+      "O": {
+        "A": 4.33,
+        "H": 1.9,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 26,
+        "H": 1.07,
+        "D": 13
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3.3,
+        "H": 2.3,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 2.37,
+        "H": 3.1,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Lille OSC",
+      "O": {
+        "A": 3.9,
+        "H": 2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 6.5,
+        "H": 1.5,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 9.5,
+        "H": 1.33,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Angers SCO",
+      "O": {
+        "A": 3,
+        "H": 2.45,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 4.33,
+        "H": 1.9,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 3.75,
+        "H": 2.04,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 1.22,
+        "H": 11,
+        "D": 7
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 2.9,
+        "H": 2.6,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 3.4,
+        "H": 2.3,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 2.54,
+        "H": 2.8,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 3.75,
+        "H": 2.1,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 6,
+        "H": 1.61,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "OGC Nice",
+      "O": {
+        "A": 2.8,
+        "H": 2.5,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 11,
+        "H": 1.25,
+        "D": 6
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Amiens SC",
+      "O": {
+        "A": 2.3,
+        "H": 3.4,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "SM Caen",
+      "O": {
+        "A": 1.64,
+        "H": 5.5,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 3.4,
+        "H": 2.14,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 4.2,
+        "H": 1.95,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 2.4,
+        "H": 3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 4.5,
+        "H": 1.83,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 10,
+        "H": 1.28,
+        "D": 5.75
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "FC Nantes",
+      "O": {
+        "A": 4.33,
+        "H": 1.9,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 4.33,
+        "H": 1.75,
+        "D": 4
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Angers SCO",
+      "O": {
+        "A": 3.6,
+        "H": 2.14,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Lille OSC",
+      "O": {
+        "A": 4.5,
+        "H": 1.85,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 3.75,
+        "H": 2.2,
+        "D": 3
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 3.8,
+        "H": 2.04,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 6.5,
+        "H": 1.64,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 5.25,
+        "H": 1.8,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 3.5,
+        "H": 2.25,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 3.8,
+        "H": 1.95,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 1.4,
+        "H": 7.5,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 4.75,
+        "H": 1.75,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "FC Nantes",
+      "O": {
+        "A": 3.1,
+        "H": 2.4,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3,
+        "H": 2.6,
+        "D": 3
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Amiens SC",
+      "O": {
+        "A": 2.4,
+        "H": 3.25,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 3,
+        "H": 2.45,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.6,
+        "H": 3,
+        "D": 3
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 1.57,
+        "H": 5.75,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 7.5,
+        "H": 1.44,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 3.8,
+        "H": 1.95,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 21,
+        "H": 1.12,
+        "D": 9
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 4,
+        "H": 1.95,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Angers SCO",
+      "O": {
+        "A": 3.7,
+        "H": 2.14,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "SM Caen",
+      "O": {
+        "A": 3.6,
+        "H": 2.14,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 9.5,
+        "H": 1.3,
+        "D": 5.75
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "OGC Nice",
+      "O": {
+        "A": 1.36,
+        "H": 7.5,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 3.25,
+        "H": 2.3,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 4,
+        "H": 1.95,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Lille OSC",
+      "O": {
+        "A": 2.3,
+        "H": 3.1,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 4.33,
+        "H": 1.85,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 4,
+        "H": 1.95,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3.1,
+        "H": 2.37,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Amiens SC",
+      "O": {
+        "A": 3.1,
+        "H": 2.4,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Angers SCO",
+      "O": {
+        "A": 3.3,
+        "H": 2.37,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 2.7,
+        "H": 2.8,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Lille OSC",
+      "O": {
+        "A": 3.9,
+        "H": 2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 3.2,
+        "H": 2.3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 3.4,
+        "H": 2.25,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 9,
+        "H": 1.33,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 3.75,
+        "H": 2,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 8.5,
+        "H": 1.33,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 9.5,
+        "H": 1.3,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "SM Caen",
+      "O": {
+        "A": 3.75,
+        "H": 2.1,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 2.14,
+        "H": 3.3,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "FC Nantes",
+      "O": {
+        "A": 4,
+        "H": 2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 26,
+        "H": 1.08,
+        "D": 11
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 3.5,
+        "H": 2.25,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 2.7,
+        "H": 2.7,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 3.6,
+        "H": 2.14,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "OGC Nice",
+      "O": {
+        "A": 2.04,
+        "H": 3.5,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 3.75,
+        "H": 2.14,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 2.7,
+        "H": 2.62,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Amiens SC",
+      "O": {
+        "A": 2.5,
+        "H": 3,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Angers SCO",
+      "O": {
+        "A": 1.95,
+        "H": 3.8,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 3.2,
+        "H": 2.37,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Lille OSC",
+      "O": {
+        "A": 7.5,
+        "H": 1.5,
+        "D": 4
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 5,
+        "H": 1.66,
+        "D": 4
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 2.7,
+        "H": 2.8,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 3.25,
+        "H": 2.3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 1.44,
+        "H": 6,
+        "D": 5
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 5.75,
+        "H": 1.7,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 15,
+        "H": 1.16,
+        "D": 8
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.2,
+        "H": 3.5,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 3.4,
+        "H": 2.14,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 7,
+        "H": 1.44,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "OGC Nice",
+      "O": {
+        "A": 5.25,
+        "H": 1.72,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 2.87,
+        "H": 2.5,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 4.33,
+        "H": 1.85,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 2.5,
+        "H": 3,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "FC Nantes",
+      "O": {
+        "A": 4.5,
+        "H": 1.83,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 4.2,
+        "H": 1.95,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Lille OSC",
+      "O": {
+        "A": 5,
+        "H": 1.72,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Angers SCO",
+      "O": {
+        "A": 2.6,
+        "H": 3,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 1.66,
+        "H": 5,
+        "D": 4
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 3.25,
+        "H": 2.3,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 4.75,
+        "H": 1.8,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3.6,
+        "H": 2.14,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 4.5,
+        "H": 1.85,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 11,
+        "H": 1.33,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 1.25,
+        "H": 11,
+        "D": 6.5
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 3.6,
+        "H": 2.14,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 5.75,
+        "H": 1.57,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.3,
+        "H": 3.25,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 2.54,
+        "H": 2.87,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "FC Nantes",
+      "O": {
+        "A": 4.2,
+        "H": 2,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 15,
+        "H": 1.14,
+        "D": 9
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 4.2,
+        "H": 2,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 3.6,
+        "H": 2.1,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Amiens SC",
+      "O": {
+        "A": 1.75,
+        "H": 4.6,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 3.6,
+        "H": 2.3,
+        "D": 3
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "OGC Nice",
+      "O": {
+        "A": 3,
+        "H": 2.6,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 3.75,
+        "H": 2.04,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Angers SCO",
+      "O": {
+        "A": 5,
+        "H": 1.72,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 2.75,
+        "H": 2.7,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Lille OSC",
+      "O": {
+        "A": 2.6,
+        "H": 2.75,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 2.8,
+        "H": 2.54,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 4.2,
+        "H": 1.9,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 1.28,
+        "H": 10,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 7.5,
+        "H": 1.4,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 5,
+        "H": 1.7,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3.75,
+        "H": 2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Amiens SC",
+      "O": {
+        "A": 2.45,
+        "H": 2.9,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 3.75,
+        "H": 2.1,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "OGC Nice",
+      "O": {
+        "A": 4.2,
+        "H": 2,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 3.1,
+        "H": 2.5,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.75,
+        "H": 2.8,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 3.4,
+        "H": 2.25,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 6.5,
+        "H": 1.53,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "FC Nantes",
+      "O": {
+        "A": 2.35,
+        "H": 3.1,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 4.5,
+        "H": 1.95,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 1.33,
+        "H": 8,
+        "D": 5.75
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 4.2,
+        "H": 2,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 6.5,
+        "H": 1.57,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Lille OSC",
+      "O": {
+        "A": 5,
+        "H": 1.8,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 5.25,
+        "H": 1.75,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 3.5,
+        "H": 2.25,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 7,
+        "H": 1.44,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "OGC Nice",
+      "O": {
+        "A": 3.5,
+        "H": 2.25,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 3.2,
+        "H": 2.5,
+        "D": 3
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "SM Caen",
+      "O": {
+        "A": 3.1,
+        "H": 2.5,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Angers SCO",
+      "O": {
+        "A": 2.04,
+        "H": 3.75,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Lille OSC",
+      "O": {
+        "A": 5.5,
+        "H": 1.72,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 4.33,
+        "H": 1.9,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 2.25,
+        "H": 3.3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 15,
+        "H": 1.14,
+        "D": 9
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 4.75,
+        "H": 1.8,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 4.5,
+        "H": 1.83,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 6,
+        "H": 1.53,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 3.1,
+        "H": 2.37,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 6,
+        "H": 1.61,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Amiens SC",
+      "O": {
+        "A": 2.4,
+        "H": 3.2,
+        "D": 3
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "FC Nantes",
+      "O": {
+        "A": 2.9,
+        "H": 2.6,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.1,
+        "H": 3.8,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 7.5,
+        "H": 1.45,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Amiens SC",
+      "O": {
+        "A": 1.16,
+        "H": 17,
+        "D": 7.5
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 2.5,
+        "H": 2.87,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "OGC Nice",
+      "O": {
+        "A": 3.6,
+        "H": 2.2,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 2.3,
+        "H": 3.25,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 6,
+        "H": 1.57,
+        "D": 4
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "FC Nantes",
+      "O": {
+        "A": 2.8,
+        "H": 2.55,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3,
+        "H": 2.5,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Angers SCO",
+      "O": {
+        "A": 3,
+        "H": 2.5,
+        "D": 3
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 2.55,
+        "H": 2.87,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 3.3,
+        "H": 2.3,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 3.1,
+        "H": 2.37,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 3.1,
+        "H": 2.25,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 1.66,
+        "H": 5.25,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Lille OSC",
+      "O": {
+        "A": 5.75,
+        "H": 1.65,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 4,
+        "H": 1.9,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 3.8,
+        "H": 1.95,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 26,
+        "H": 1.1,
+        "D": 10
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 3.7,
+        "H": 2.25,
+        "D": 3
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Angers SCO",
+      "O": {
+        "A": 3.1,
+        "H": 2.45,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 5.75,
+        "H": 1.66,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "SM Caen",
+      "O": {
+        "A": 1.85,
+        "H": 4.33,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 3.8,
+        "H": 2.05,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 2.25,
+        "H": 3.1,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 3.8,
+        "H": 2.05,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 3.2,
+        "H": 2.3,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 2.37,
+        "H": 2.9,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 3.1,
+        "H": 2.5,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "OGC Nice",
+      "O": {
+        "A": 3.75,
+        "H": 2.1,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 3.1,
+        "H": 2.4,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Amiens SC",
+      "O": {
+        "A": 1.53,
+        "H": 6.5,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 5.5,
+        "H": 1.72,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 12,
+        "H": 1.22,
+        "D": 6.5
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3.5,
+        "H": 2.2,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "FC Nantes",
+      "O": {
+        "A": 2.75,
+        "H": 2.75,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Lille OSC",
+      "O": {
+        "A": 4.75,
+        "H": 1.8,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Angers SCO",
+      "O": {
+        "A": 4,
+        "H": 2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 5.25,
+        "H": 1.72,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 2.7,
+        "H": 2.7,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 6.5,
+        "H": 1.6,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 1.85,
+        "H": 3.8,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 2.9,
+        "H": 2.6,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 3.4,
+        "H": 2.25,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 1.85,
+        "H": 4.33,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Amiens SC",
+      "O": {
+        "A": 4,
+        "H": 2.1,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 11,
+        "H": 1.25,
+        "D": 6.5
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 4,
+        "H": 2.05,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 2.2,
+        "H": 3.4,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 3.1,
+        "H": 2.45,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "FC Nantes",
+      "O": {
+        "A": 4.2,
+        "H": 1.9,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "OGC Nice",
+      "O": {
+        "A": 1.7,
+        "H": 4.75,
+        "D": 4
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 3.4,
+        "H": 2.15,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 2.8,
+        "H": 2.75,
+        "D": 3
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.5,
+        "H": 3,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 4,
+        "H": 1.95,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 10,
+        "H": 1.3,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 4.5,
+        "H": 1.75,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Angers SCO",
+      "O": {
+        "A": 3.3,
+        "H": 2.4,
+        "D": 3
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 9,
+        "H": 1.4,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 4.5,
+        "H": 1.8,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 4.75,
+        "H": 1.83,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.3,
+        "H": 3.5,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Lille OSC",
+      "O": {
+        "A": 4.75,
+        "H": 1.85,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 3.1,
+        "H": 2.5,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 1.6,
+        "H": 5.25,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 4.33,
+        "H": 1.9,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 12,
+        "H": 1.25,
+        "D": 6
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 2.15,
+        "H": 3.5,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 2.7,
+        "H": 2.75,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Amiens SC",
+      "O": {
+        "A": 3,
+        "H": 2.7,
+        "D": 2.9
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 3,
+        "H": 2.5,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 11,
+        "H": 1.25,
+        "D": 6.5
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 2.1,
+        "H": 3.4,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 3.5,
+        "H": 2.2,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "FC Nantes",
+      "O": {
+        "A": 4.2,
+        "H": 1.95,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 2.45,
+        "H": 2.9,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 4.5,
+        "H": 1.85,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Angers SCO",
+      "O": {
+        "A": 2.25,
+        "H": 3.3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "SM Caen",
+      "O": {
+        "A": 1.22,
+        "H": 12,
+        "D": 6
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 5.25,
+        "H": 1.75,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 2.8,
+        "H": 2.8,
+        "D": 3
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Lille OSC",
+      "O": {
+        "A": 7.5,
+        "H": 1.53,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 10,
+        "H": 1.28,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 4.5,
+        "H": 1.75,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "OGC Nice",
+      "O": {
+        "A": 3.6,
+        "H": 2.3,
+        "D": 2.9
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 3.3,
+        "H": 2.5,
+        "D": 2.9
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Amiens SC",
+      "O": {
+        "A": 3.1,
+        "H": 2.45,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 2.45,
+        "H": 3.1,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 5.25,
+        "H": 1.61,
+        "D": 4
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 1.75,
+        "H": 4.75,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 6,
+        "H": 1.5,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 4,
+        "H": 2.1,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 6.5,
+        "H": 1.61,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 3,
+        "H": 2.45,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3.5,
+        "H": 2.15,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 1.2,
+        "H": 13,
+        "D": 7
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Lille OSC",
+      "O": {
+        "A": 3.8,
+        "H": 2.1,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "OGC Nice",
+      "O": {
+        "A": 4,
+        "H": 2.05,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Angers SCO",
+      "O": {
+        "A": 4,
+        "H": 2.1,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.2,
+        "H": 3.7,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 4,
+        "H": 2.1,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 3.2,
+        "H": 2.37,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 2.9,
+        "H": 2.62,
+        "D": 3
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 8.5,
+        "H": 1.4,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 9.5,
+        "H": 1.28,
+        "D": 6
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 4,
+        "H": 2.15,
+        "D": 3
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 1.9,
+        "H": 4,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 7.5,
+        "H": 1.53,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Amiens SC",
+      "O": {
+        "A": 3.1,
+        "H": 2.5,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 3.2,
+        "H": 2.4,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 9.5,
+        "H": 1.36,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "FC Nantes",
+      "O": {
+        "A": 2.55,
+        "H": 3,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 1.25,
+        "H": 10,
+        "D": 6.5
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 4.75,
+        "H": 1.75,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 5.25,
+        "H": 1.75,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 2.9,
+        "H": 2.62,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 2.1,
+        "H": 3.6,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Amiens SC",
+      "O": {
+        "A": 2.55,
+        "H": 3,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Angers SCO",
+      "O": {
+        "A": 2.7,
+        "H": 2.7,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 2.05,
+        "H": 3.75,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 11,
+        "H": 1.22,
+        "D": 7
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 5.5,
+        "H": 1.65,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "OGC Nice",
+      "O": {
+        "A": 3,
+        "H": 2.62,
+        "D": 3
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 21,
+        "H": 1.1,
+        "D": 11
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 2.62,
+        "H": 2.9,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3.2,
+        "H": 2.4,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 2.7,
+        "H": 2.7,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 3.4,
+        "H": 2.3,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "FC Nantes",
+      "O": {
+        "A": 1.83,
+        "H": 3.75,
+        "D": 4
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.55,
+        "H": 3.1,
+        "D": 3
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 5.5,
+        "H": 1.57,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 4,
+        "H": 1.9,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 4.2,
+        "H": 2,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Lille OSC",
+      "O": {
+        "A": 1.72,
+        "H": 4.33,
+        "D": 4
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 4.75,
+        "H": 1.85,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 4.5,
+        "H": 1.8,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 5.25,
+        "H": 1.72,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "FC Nantes",
+      "O": {
+        "A": 1.7,
+        "H": 4.5,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 2.5,
+        "H": 2.87,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 10,
+        "H": 1.3,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 1.9,
+        "H": 4,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "OGC Nice",
+      "O": {
+        "A": 5,
+        "H": 1.83,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 3.4,
+        "H": 2.15,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 3,
+        "H": 2.6,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "FC Nantes",
+      "O": {
+        "A": 4.33,
+        "H": 1.95,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 6.5,
+        "H": 1.5,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 3.1,
+        "H": 2.5,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 2.15,
+        "H": 3.75,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 1.7,
+        "H": 5.25,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Amiens SC",
+      "O": {
+        "A": 3.75,
+        "H": 2.1,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Angers SCO",
+      "O": {
+        "A": 2.9,
+        "H": 2.5,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.62,
+        "H": 2.8,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Lille OSC",
+      "O": {
+        "A": 6.5,
+        "H": 1.5,
+        "D": 4
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 7.5,
+        "H": 1.5,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "OGC Nice",
+      "O": {
+        "A": 4,
+        "H": 2,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 6.5,
+        "H": 1.5,
+        "D": 4
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 1.83,
+        "H": 4.33,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 2.15,
+        "H": 3.5,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 2,
+        "H": 3.8,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 3.5,
+        "H": 2.25,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 4.5,
+        "H": 1.9,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 11,
+        "H": 1.25,
+        "D": 6
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 4,
+        "H": 1.95,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 5,
+        "H": 1.66,
+        "D": 4
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 2.87,
+        "H": 2.4,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 5,
+        "H": 1.72,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "FC Nantes",
+      "O": {
+        "A": 4.2,
+        "H": 1.9,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3.25,
+        "H": 2.3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 4.75,
+        "H": 1.75,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Amiens SC",
+      "O": {
+        "A": 3.3,
+        "H": 2.3,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Angers SCO",
+      "O": {
+        "A": 1.53,
+        "H": 6,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "SM Caen",
+      "O": {
+        "A": 3.1,
+        "H": 2.4,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 3.6,
+        "H": 2.05,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "OGC Nice",
+      "O": {
+        "A": 3.1,
+        "H": 2.5,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 2.05,
+        "H": 3.4,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Lille OSC",
+      "O": {
+        "A": 8,
+        "H": 1.4,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 2.2,
+        "H": 3,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 4,
+        "H": 1.95,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 3.3,
+        "H": 2.37,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 2.5,
+        "H": 2.8,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Lille OSC",
+      "O": {
+        "A": 7,
+        "H": 1.53,
+        "D": 4
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 13,
+        "H": 1.2,
+        "D": 7
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 6,
+        "H": 1.61,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 4.33,
+        "H": 1.8,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 10,
+        "H": 1.3,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 6,
+        "H": 1.57,
+        "D": 4
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 3.25,
+        "H": 2.3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 2.2,
+        "H": 3.4,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Amiens SC",
+      "O": {
+        "A": 6.5,
+        "H": 1.53,
+        "D": 4
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Angers SCO",
+      "O": {
+        "A": 2.62,
+        "H": 2.62,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "SM Caen",
+      "O": {
+        "A": 5.25,
+        "H": 1.72,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 6,
+        "H": 1.5,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 3.75,
+        "H": 1.85,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "FC Nantes",
+      "O": {
+        "A": 5.5,
+        "H": 1.65,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "OGC Nice",
+      "O": {
+        "A": 2.25,
+        "H": 3.1,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 2,
+        "H": 3.4,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 1.45,
+        "H": 6.5,
+        "D": 5
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 2.5,
+        "H": 2.62,
+        "D": 3.6
+      }
+    }
+  ],
+  "BW": [
+    {
+      "A": "Toulouse FC",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 8.75,
+        "H": 1.4,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Angers SCO",
+      "O": {
+        "A": 3.4,
+        "H": 2.3,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Lille OSC",
+      "O": {
+        "A": 2.95,
+        "H": 2.55,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 5.5,
+        "H": 1.7,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "FC Nantes",
+      "O": {
+        "A": 2.4,
+        "H": 3.1,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "OGC Nice",
+      "O": {
+        "A": 4.5,
+        "H": 1.83,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 4.6,
+        "H": 1.85,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 5,
+        "H": 1.7,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 12,
+        "H": 1.22,
+        "D": 6.75
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 23,
+        "H": 1.11,
+        "D": 9.75
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 1.7,
+        "H": 5,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Amiens SC",
+      "O": {
+        "A": 2.55,
+        "H": 3.1,
+        "D": 2.95
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.75,
+        "H": 2.75,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 2.85,
+        "H": 2.65,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 1.22,
+        "H": 12.5,
+        "D": 6.5
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 6,
+        "H": 1.53,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 4.6,
+        "H": 1.87,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 1.75,
+        "H": 4.6,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 2.65,
+        "H": 2.7,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 2.9,
+        "H": 2.6,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 10.5,
+        "H": 1.28,
+        "D": 5.75
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Amiens SC",
+      "O": {
+        "A": 2.85,
+        "H": 2.7,
+        "D": 3
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 3.2,
+        "H": 2.4,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "FC Nantes",
+      "O": {
+        "A": 4.5,
+        "H": 1.95,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "OGC Nice",
+      "O": {
+        "A": 4.2,
+        "H": 1.87,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 29,
+        "H": 1.08,
+        "D": 11.5
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3.2,
+        "H": 2.3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 2.45,
+        "H": 2.95,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Lille OSC",
+      "O": {
+        "A": 3.9,
+        "H": 1.95,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 6.5,
+        "H": 1.5,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 8.75,
+        "H": 1.34,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Angers SCO",
+      "O": {
+        "A": 2.85,
+        "H": 2.5,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 4.33,
+        "H": 1.9,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 3.75,
+        "H": 2.05,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 1.19,
+        "H": 12.5,
+        "D": 7.5
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 3,
+        "H": 2.65,
+        "D": 2.95
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 3.5,
+        "H": 2.25,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 2.55,
+        "H": 2.7,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 3.7,
+        "H": 2.1,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 6,
+        "H": 1.62,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "OGC Nice",
+      "O": {
+        "A": 2.95,
+        "H": 2.6,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 11,
+        "H": 1.25,
+        "D": 6.25
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Amiens SC",
+      "O": {
+        "A": 2.3,
+        "H": 3.4,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "SM Caen",
+      "O": {
+        "A": 1.65,
+        "H": 5.5,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 3.6,
+        "H": 2.15,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 4.5,
+        "H": 1.9,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 2.5,
+        "H": 2.8,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 4.5,
+        "H": 1.85,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 8.75,
+        "H": 1.33,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "FC Nantes",
+      "O": {
+        "A": 4.25,
+        "H": 1.95,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 4.6,
+        "H": 1.75,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Angers SCO",
+      "O": {
+        "A": 3.5,
+        "H": 2.2,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Lille OSC",
+      "O": {
+        "A": 4.6,
+        "H": 1.83,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 3.5,
+        "H": 2.25,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 3.5,
+        "H": 2.2,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 6,
+        "H": 1.65,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 4.75,
+        "H": 1.8,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 3,
+        "H": 2.5,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 3.25,
+        "H": 2.1,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 1.36,
+        "H": 8,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 4.75,
+        "H": 1.75,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "FC Nantes",
+      "O": {
+        "A": 3.2,
+        "H": 2.4,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3.1,
+        "H": 2.45,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Amiens SC",
+      "O": {
+        "A": 2.35,
+        "H": 3.2,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 3.1,
+        "H": 2.5,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.7,
+        "H": 2.9,
+        "D": 3
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 1.6,
+        "H": 5.5,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 7.5,
+        "H": 1.42,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 3.9,
+        "H": 1.95,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 19.5,
+        "H": 1.14,
+        "D": 8.25
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 3.7,
+        "H": 2.05,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Angers SCO",
+      "O": {
+        "A": 3.8,
+        "H": 2.15,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "SM Caen",
+      "O": {
+        "A": 3.75,
+        "H": 2.05,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 9,
+        "H": 1.33,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "OGC Nice",
+      "O": {
+        "A": 1.33,
+        "H": 8.75,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 3.2,
+        "H": 2.4,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 4.1,
+        "H": 1.91,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Lille OSC",
+      "O": {
+        "A": 2.35,
+        "H": 2.95,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 4.5,
+        "H": 1.87,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 4.1,
+        "H": 1.95,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3.1,
+        "H": 2.4,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Amiens SC",
+      "O": {
+        "A": 3,
+        "H": 2.45,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Angers SCO",
+      "O": {
+        "A": 3.2,
+        "H": 2.35,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 2.85,
+        "H": 2.7,
+        "D": 3
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Lille OSC",
+      "O": {
+        "A": 3.9,
+        "H": 2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 3.25,
+        "H": 2.3,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 3.6,
+        "H": 2.15,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 9.75,
+        "H": 1.3,
+        "D": 5.75
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 3.5,
+        "H": 2.15,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 7.5,
+        "H": 1.34,
+        "D": 6
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 8.5,
+        "H": 1.35,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "SM Caen",
+      "O": {
+        "A": 3.8,
+        "H": 2.1,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 2.2,
+        "H": 3.3,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "FC Nantes",
+      "O": {
+        "A": 4,
+        "H": 2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 26,
+        "H": 1.09,
+        "D": 11
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 3.75,
+        "H": 2.2,
+        "D": 3
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 2.65,
+        "H": 2.7,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 3.8,
+        "H": 2.1,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "OGC Nice",
+      "O": {
+        "A": 2.15,
+        "H": 3.4,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 3.4,
+        "H": 2.25,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 2.65,
+        "H": 2.7,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Amiens SC",
+      "O": {
+        "A": 2.6,
+        "H": 3,
+        "D": 3
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Angers SCO",
+      "O": {
+        "A": 1.87,
+        "H": 4,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 3.3,
+        "H": 2.3,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Lille OSC",
+      "O": {
+        "A": 7.5,
+        "H": 1.48,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 5,
+        "H": 1.7,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 2.8,
+        "H": 2.75,
+        "D": 3
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 3.3,
+        "H": 2.25,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 1.48,
+        "H": 6,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 5.75,
+        "H": 1.72,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 14.5,
+        "H": 1.17,
+        "D": 7.75
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.25,
+        "H": 3.4,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 3.25,
+        "H": 2.25,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 7.5,
+        "H": 1.42,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "OGC Nice",
+      "O": {
+        "A": 5.25,
+        "H": 1.72,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 2.75,
+        "H": 2.65,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 4,
+        "H": 1.91,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 2.45,
+        "H": 2.95,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "FC Nantes",
+      "O": {
+        "A": 4.75,
+        "H": 1.78,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 3.9,
+        "H": 2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Lille OSC",
+      "O": {
+        "A": 5,
+        "H": 1.75,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Angers SCO",
+      "O": {
+        "A": 2.6,
+        "H": 2.9,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 1.65,
+        "H": 5.25,
+        "D": 4
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 3,
+        "H": 2.45,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 4.5,
+        "H": 1.83,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3.7,
+        "H": 2.15,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 4.6,
+        "H": 1.83,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 9.25,
+        "H": 1.35,
+        "D": 5
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 1.22,
+        "H": 11.5,
+        "D": 7
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 3.7,
+        "H": 2.15,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 5.25,
+        "H": 1.6,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.4,
+        "H": 3.1,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 2.5,
+        "H": 2.8,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "FC Nantes",
+      "O": {
+        "A": 4.33,
+        "H": 1.95,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 17.5,
+        "H": 1.14,
+        "D": 8.75
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 4.4,
+        "H": 1.95,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 3.6,
+        "H": 2.1,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Amiens SC",
+      "O": {
+        "A": 1.8,
+        "H": 4.75,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 3.5,
+        "H": 2.3,
+        "D": 3
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "OGC Nice",
+      "O": {
+        "A": 2.75,
+        "H": 2.7,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 3.9,
+        "H": 2.05,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Angers SCO",
+      "O": {
+        "A": 5,
+        "H": 1.78,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 2.7,
+        "H": 2.8,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Lille OSC",
+      "O": {
+        "A": 2.45,
+        "H": 2.85,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 2.8,
+        "H": 2.7,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 4,
+        "H": 2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 1.3,
+        "H": 9.25,
+        "D": 5.75
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 8.25,
+        "H": 1.4,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 5,
+        "H": 1.75,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3.75,
+        "H": 2.1,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Amiens SC",
+      "O": {
+        "A": 2.55,
+        "H": 2.95,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 3.7,
+        "H": 2.15,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "OGC Nice",
+      "O": {
+        "A": 4.25,
+        "H": 2.05,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 3,
+        "H": 2.6,
+        "D": 3
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.75,
+        "H": 2.75,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 3.3,
+        "H": 2.3,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 5.5,
+        "H": 1.55,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "FC Nantes",
+      "O": {
+        "A": 2.4,
+        "H": 3.1,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 4.5,
+        "H": 1.95,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 1.33,
+        "H": 8.5,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 4.2,
+        "H": 2,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 6.5,
+        "H": 1.55,
+        "D": 4
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Lille OSC",
+      "O": {
+        "A": 5.25,
+        "H": 1.78,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 5,
+        "H": 1.75,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 3.5,
+        "H": 2.25,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 6.5,
+        "H": 1.48,
+        "D": 4.6
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "OGC Nice",
+      "O": {
+        "A": 3.4,
+        "H": 2.25,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 2.95,
+        "H": 2.5,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "SM Caen",
+      "O": {
+        "A": 3.2,
+        "H": 2.45,
+        "D": 3
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Angers SCO",
+      "O": {
+        "A": 2.15,
+        "H": 3.4,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Lille OSC",
+      "O": {
+        "A": 5,
+        "H": 1.7,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 4.2,
+        "H": 1.95,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 2.25,
+        "H": 3.3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 21,
+        "H": 1.12,
+        "D": 9
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 5.5,
+        "H": 1.72,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 4.6,
+        "H": 1.83,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 6.75,
+        "H": 1.5,
+        "D": 4.25
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 3.2,
+        "H": 2.4,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 5.25,
+        "H": 1.65,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Amiens SC",
+      "O": {
+        "A": 2.6,
+        "H": 3.1,
+        "D": 2.95
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "FC Nantes",
+      "O": {
+        "A": 3,
+        "H": 2.55,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.15,
+        "H": 3.7,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 6.5,
+        "H": 1.48,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Amiens SC",
+      "O": {
+        "A": 1.16,
+        "H": 17.5,
+        "D": 7.5
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 2.55,
+        "H": 2.9,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "OGC Nice",
+      "O": {
+        "A": 3.9,
+        "H": 2.15,
+        "D": 3
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 2.25,
+        "H": 3.3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 5.25,
+        "H": 1.6,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "FC Nantes",
+      "O": {
+        "A": 2.85,
+        "H": 2.55,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3.1,
+        "H": 2.45,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Angers SCO",
+      "O": {
+        "A": 3,
+        "H": 2.6,
+        "D": 3
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 2.6,
+        "H": 2.9,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 3.3,
+        "H": 2.25,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 3.25,
+        "H": 2.35,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 3,
+        "H": 2.3,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 1.7,
+        "H": 5,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Lille OSC",
+      "O": {
+        "A": 5.75,
+        "H": 1.67,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 3.9,
+        "H": 1.95,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 3.9,
+        "H": 2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 29,
+        "H": 1.08,
+        "D": 11
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 3.5,
+        "H": 2.25,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Angers SCO",
+      "O": {
+        "A": 3.1,
+        "H": 2.5,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 5.5,
+        "H": 1.67,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "SM Caen",
+      "O": {
+        "A": 1.83,
+        "H": 4.33,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 3.8,
+        "H": 2.1,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 2.2,
+        "H": 3.1,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 3.9,
+        "H": 2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 3.1,
+        "H": 2.4,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 2.35,
+        "H": 3,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 3.1,
+        "H": 2.55,
+        "D": 2.95
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "OGC Nice",
+      "O": {
+        "A": 4,
+        "H": 2.1,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 3.2,
+        "H": 2.4,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Amiens SC",
+      "O": {
+        "A": 1.57,
+        "H": 5.75,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 6,
+        "H": 1.67,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 12,
+        "H": 1.22,
+        "D": 6.75
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3.4,
+        "H": 2.25,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "FC Nantes",
+      "O": {
+        "A": 2.7,
+        "H": 2.75,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Lille OSC",
+      "O": {
+        "A": 4.75,
+        "H": 1.83,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Angers SCO",
+      "O": {
+        "A": 4.1,
+        "H": 1.95,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 5,
+        "H": 1.72,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 2.75,
+        "H": 2.65,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 6.25,
+        "H": 1.6,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 1.85,
+        "H": 3.8,
+        "D": 4
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 2.85,
+        "H": 2.65,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 3.5,
+        "H": 2.2,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 1.91,
+        "H": 4.1,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Amiens SC",
+      "O": {
+        "A": 4.1,
+        "H": 2.05,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 11.5,
+        "H": 1.25,
+        "D": 6.25
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 4.2,
+        "H": 2,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 2.2,
+        "H": 3.4,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 3.1,
+        "H": 2.45,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "FC Nantes",
+      "O": {
+        "A": 3.9,
+        "H": 2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "OGC Nice",
+      "O": {
+        "A": 1.72,
+        "H": 4.4,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 3.6,
+        "H": 2.1,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 2.9,
+        "H": 2.75,
+        "D": 2.95
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.55,
+        "H": 3,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 3.9,
+        "H": 2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 10,
+        "H": 1.28,
+        "D": 6
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 4.5,
+        "H": 1.75,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Angers SCO",
+      "O": {
+        "A": 3.25,
+        "H": 2.45,
+        "D": 3
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 8,
+        "H": 1.45,
+        "D": 4.25
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 4.4,
+        "H": 1.83,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 4.5,
+        "H": 1.9,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.4,
+        "H": 3.3,
+        "D": 3
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Lille OSC",
+      "O": {
+        "A": 4.5,
+        "H": 1.9,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 3.2,
+        "H": 2.4,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 1.62,
+        "H": 5.25,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 4.25,
+        "H": 1.9,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 11.5,
+        "H": 1.25,
+        "D": 6
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 2.2,
+        "H": 3.25,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 2.7,
+        "H": 2.8,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Amiens SC",
+      "O": {
+        "A": 2.85,
+        "H": 2.7,
+        "D": 3
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 3.1,
+        "H": 2.5,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 12.5,
+        "H": 1.22,
+        "D": 6.75
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 2.2,
+        "H": 3.25,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 3.6,
+        "H": 2.2,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "FC Nantes",
+      "O": {
+        "A": 4.1,
+        "H": 2,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 2.5,
+        "H": 2.95,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 4.6,
+        "H": 1.85,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Angers SCO",
+      "O": {
+        "A": 2.3,
+        "H": 3.3,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "SM Caen",
+      "O": {
+        "A": 1.28,
+        "H": 10,
+        "D": 6
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 5.25,
+        "H": 1.8,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 2.8,
+        "H": 2.8,
+        "D": 2.95
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Lille OSC",
+      "O": {
+        "A": 6.75,
+        "H": 1.55,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 10,
+        "H": 1.3,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 4.4,
+        "H": 1.8,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "OGC Nice",
+      "O": {
+        "A": 3.4,
+        "H": 2.4,
+        "D": 2.95
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 3.2,
+        "H": 2.45,
+        "D": 3
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Amiens SC",
+      "O": {
+        "A": 2.95,
+        "H": 2.5,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 2.55,
+        "H": 3.1,
+        "D": 3
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 5.5,
+        "H": 1.67,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 1.8,
+        "H": 4.5,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 6,
+        "H": 1.55,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 3.9,
+        "H": 2.1,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 6.75,
+        "H": 1.57,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 3.1,
+        "H": 2.35,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3.6,
+        "H": 2.15,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 1.19,
+        "H": 13,
+        "D": 7.5
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Lille OSC",
+      "O": {
+        "A": 3.8,
+        "H": 2.05,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "OGC Nice",
+      "O": {
+        "A": 3.8,
+        "H": 2.15,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Angers SCO",
+      "O": {
+        "A": 3.9,
+        "H": 2.1,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.2,
+        "H": 3.5,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 3.6,
+        "H": 2.2,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 3.2,
+        "H": 2.35,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 2.95,
+        "H": 2.7,
+        "D": 2.9
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 6.5,
+        "H": 1.48,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 9.5,
+        "H": 1.28,
+        "D": 6.25
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 3.6,
+        "H": 2.2,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 1.95,
+        "H": 3.7,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 7.25,
+        "H": 1.53,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Amiens SC",
+      "O": {
+        "A": 2.95,
+        "H": 2.7,
+        "D": 2.95
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 3.1,
+        "H": 2.55,
+        "D": 3
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 8.25,
+        "H": 1.35,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "FC Nantes",
+      "O": {
+        "A": 2.65,
+        "H": 3,
+        "D": 2.95
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 1.26,
+        "H": 11,
+        "D": 6
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 4.4,
+        "H": 1.78,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 5,
+        "H": 1.8,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 3,
+        "H": 2.65,
+        "D": 2.95
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 2.2,
+        "H": 3.4,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Amiens SC",
+      "O": {
+        "A": 2.55,
+        "H": 2.95,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Angers SCO",
+      "O": {
+        "A": 2.7,
+        "H": 2.7,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 2.15,
+        "H": 3.6,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 12,
+        "H": 1.22,
+        "D": 6.75
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 5,
+        "H": 1.7,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "OGC Nice",
+      "O": {
+        "A": 2.9,
+        "H": 2.6,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 18.5,
+        "H": 1.12,
+        "D": 9.5
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 2.6,
+        "H": 3,
+        "D": 3
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3.1,
+        "H": 2.45,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 2.6,
+        "H": 2.75,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 3.2,
+        "H": 2.4,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "FC Nantes",
+      "O": {
+        "A": 1.83,
+        "H": 4.2,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.5,
+        "H": 3.1,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 5.5,
+        "H": 1.57,
+        "D": 4.25
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 4.4,
+        "H": 1.91,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 4.1,
+        "H": 2,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Lille OSC",
+      "O": {
+        "A": 1.78,
+        "H": 4.25,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 4.5,
+        "H": 1.9,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 4.6,
+        "H": 1.85,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 5.25,
+        "H": 1.75,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "FC Nantes",
+      "O": {
+        "A": 1.7,
+        "H": 4.5,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 2.6,
+        "H": 2.8,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 10,
+        "H": 1.3,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 1.87,
+        "H": 4.33,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "OGC Nice",
+      "O": {
+        "A": 5.25,
+        "H": 1.8,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 3.75,
+        "H": 2.1,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 2.9,
+        "H": 2.55,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "FC Nantes",
+      "O": {
+        "A": 4.4,
+        "H": 1.95,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 5.75,
+        "H": 1.53,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 3.1,
+        "H": 2.55,
+        "D": 3
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 2.15,
+        "H": 3.5,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 1.67,
+        "H": 5,
+        "D": 4
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Amiens SC",
+      "O": {
+        "A": 3.8,
+        "H": 2.1,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Angers SCO",
+      "O": {
+        "A": 2.9,
+        "H": 2.5,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.7,
+        "H": 2.75,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Lille OSC",
+      "O": {
+        "A": 6.75,
+        "H": 1.53,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 7,
+        "H": 1.5,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "OGC Nice",
+      "O": {
+        "A": 4.1,
+        "H": 2,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 6.5,
+        "H": 1.53,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 1.91,
+        "H": 3.8,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 2.25,
+        "H": 3.1,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 2,
+        "H": 3.75,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 3.2,
+        "H": 2.4,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 4.5,
+        "H": 1.87,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 13,
+        "H": 1.22,
+        "D": 6.5
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 4.25,
+        "H": 1.95,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 4.75,
+        "H": 1.7,
+        "D": 4
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 2.9,
+        "H": 2.4,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 5,
+        "H": 1.75,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "FC Nantes",
+      "O": {
+        "A": 4.4,
+        "H": 1.9,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3.2,
+        "H": 2.3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 4.75,
+        "H": 1.75,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Amiens SC",
+      "O": {
+        "A": 3.4,
+        "H": 2.35,
+        "D": 3
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Angers SCO",
+      "O": {
+        "A": 1.53,
+        "H": 5.75,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "SM Caen",
+      "O": {
+        "A": 3.2,
+        "H": 2.45,
+        "D": 3
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 3.9,
+        "H": 2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "OGC Nice",
+      "O": {
+        "A": 3.1,
+        "H": 2.45,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 2.1,
+        "H": 3.4,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Lille OSC",
+      "O": {
+        "A": 8.5,
+        "H": 1.42,
+        "D": 4.4
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 2.2,
+        "H": 3,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 3.9,
+        "H": 1.91,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 3.3,
+        "H": 2.3,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 2.6,
+        "H": 2.65,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Lille OSC",
+      "O": {
+        "A": 6,
+        "H": 1.57,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 13,
+        "H": 1.2,
+        "D": 7
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 5.75,
+        "H": 1.62,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 4.2,
+        "H": 1.83,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 8.75,
+        "H": 1.3,
+        "D": 6
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 5.25,
+        "H": 1.6,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 3.1,
+        "H": 2.3,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 2.25,
+        "H": 3.25,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Amiens SC",
+      "O": {
+        "A": 6.75,
+        "H": 1.53,
+        "D": 4
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Angers SCO",
+      "O": {
+        "A": 2.6,
+        "H": 2.55,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "SM Caen",
+      "O": {
+        "A": 5,
+        "H": 1.75,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 6.25,
+        "H": 1.5,
+        "D": 4.4
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 4,
+        "H": 1.83,
+        "D": 4
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "FC Nantes",
+      "O": {
+        "A": 4.75,
+        "H": 1.67,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "OGC Nice",
+      "O": {
+        "A": 2.2,
+        "H": 3.25,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 2.05,
+        "H": 3.2,
+        "D": 4
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 1.42,
+        "H": 6.5,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 2.5,
+        "H": 2.7,
+        "D": 3.6
+      }
+    }
+  ],
+  "IW": [
+    {
+      "A": "Toulouse FC",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 7,
+        "H": 1.45,
+        "D": 4
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Angers SCO",
+      "O": {
+        "A": 3.2,
+        "H": 2.2,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Lille OSC",
+      "O": {
+        "A": 2.9,
+        "H": 2.4,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 4.65,
+        "H": 1.75,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "FC Nantes",
+      "O": {
+        "A": 2.3,
+        "H": 3.1,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "OGC Nice",
+      "O": {
+        "A": 4.1,
+        "H": 1.85,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 4.35,
+        "H": 1.8,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 4.65,
+        "H": 1.75,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 10,
+        "H": 1.25,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 16,
+        "H": 1.12,
+        "D": 8.5
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 1.7,
+        "H": 4.9,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Amiens SC",
+      "O": {
+        "A": 2.6,
+        "H": 2.85,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "SM Caen",
+      "O": {
+        "A": 3,
+        "H": 2.5,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 2.7,
+        "H": 2.7,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 1.22,
+        "H": 13,
+        "D": 6.5
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 7.2,
+        "H": 1.45,
+        "D": 4.4
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 4.5,
+        "H": 1.85,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 1.7,
+        "H": 4.9,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 2.6,
+        "H": 2.85,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3,
+        "H": 2.5,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 8.8,
+        "H": 1.33,
+        "D": 5.3
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Amiens SC",
+      "O": {
+        "A": 2.9,
+        "H": 2.6,
+        "D": 3.05
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 3.1,
+        "H": 2.4,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "FC Nantes",
+      "O": {
+        "A": 4,
+        "H": 2,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "OGC Nice",
+      "O": {
+        "A": 4.3,
+        "H": 1.9,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 27,
+        "H": 1.07,
+        "D": 12
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3.5,
+        "H": 2.2,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 2.45,
+        "H": 2.9,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Lille OSC",
+      "O": {
+        "A": 3.6,
+        "H": 2.1,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 6.7,
+        "H": 1.5,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 7.2,
+        "H": 1.45,
+        "D": 4.4
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Angers SCO",
+      "O": {
+        "A": 2.95,
+        "H": 2.5,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 4,
+        "H": 2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 3.4,
+        "H": 2.2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 1.22,
+        "H": 12.5,
+        "D": 6.5
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 2.8,
+        "H": 2.6,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 3.7,
+        "H": 2.1,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 2.7,
+        "H": 2.6,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 3.5,
+        "H": 2.15,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 5.4,
+        "H": 1.65,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "OGC Nice",
+      "O": {
+        "A": 2.85,
+        "H": 2.65,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 11,
+        "H": 1.25,
+        "D": 6.1
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Amiens SC",
+      "O": {
+        "A": 2.35,
+        "H": 3.3,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "SM Caen",
+      "O": {
+        "A": 1.67,
+        "H": 5.2,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 3.55,
+        "H": 2.1,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 4.4,
+        "H": 1.9,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 2.45,
+        "H": 2.85,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 4.45,
+        "H": 1.8,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 9.1,
+        "H": 1.3,
+        "D": 5.7
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "FC Nantes",
+      "O": {
+        "A": 4.2,
+        "H": 1.93,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 5.5,
+        "H": 1.6,
+        "D": 4
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Angers SCO",
+      "O": {
+        "A": 3.55,
+        "H": 2.15,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Lille OSC",
+      "O": {
+        "A": 4.35,
+        "H": 1.87,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 3.55,
+        "H": 2.3,
+        "D": 3
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 3.55,
+        "H": 2.1,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 5.5,
+        "H": 1.67,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 5,
+        "H": 1.8,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 3.1,
+        "H": 2.4,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 3.45,
+        "H": 2,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 1.42,
+        "H": 6.8,
+        "D": 5
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 4.7,
+        "H": 1.8,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "FC Nantes",
+      "O": {
+        "A": 3.25,
+        "H": 2.3,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 2.9,
+        "H": 2.6,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Amiens SC",
+      "O": {
+        "A": 2.35,
+        "H": 3.2,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 3,
+        "H": 2.45,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.6,
+        "H": 3,
+        "D": 3
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 1.67,
+        "H": 5.3,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 7,
+        "H": 1.45,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 3.9,
+        "H": 1.93,
+        "D": 3.65
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 20,
+        "H": 1.12,
+        "D": 9
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 3.5,
+        "H": 2.1,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Angers SCO",
+      "O": {
+        "A": 3.8,
+        "H": 2.1,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "SM Caen",
+      "O": {
+        "A": 3.8,
+        "H": 2.1,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 8,
+        "H": 1.35,
+        "D": 5.3
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "OGC Nice",
+      "O": {
+        "A": 1.35,
+        "H": 8,
+        "D": 5.3
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 3.2,
+        "H": 2.35,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 4.05,
+        "H": 1.95,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Lille OSC",
+      "O": {
+        "A": 2.4,
+        "H": 2.95,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 4.5,
+        "H": 1.9,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 3.8,
+        "H": 2.05,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3.15,
+        "H": 2.35,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Amiens SC",
+      "O": {
+        "A": 3,
+        "H": 2.45,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Angers SCO",
+      "O": {
+        "A": 3.3,
+        "H": 2.3,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 2.8,
+        "H": 2.75,
+        "D": 3.05
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Lille OSC",
+      "O": {
+        "A": 3.85,
+        "H": 1.97,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 3.25,
+        "H": 2.25,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 3.35,
+        "H": 2.3,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 7.5,
+        "H": 1.4,
+        "D": 4.8
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 3.4,
+        "H": 2.2,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 8,
+        "H": 1.35,
+        "D": 5.3
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 8,
+        "H": 1.37,
+        "D": 5
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "SM Caen",
+      "O": {
+        "A": 3.65,
+        "H": 2.15,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 2.2,
+        "H": 3.25,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "FC Nantes",
+      "O": {
+        "A": 4,
+        "H": 2,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 28,
+        "H": 1.1,
+        "D": 9.1
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 3.65,
+        "H": 2.25,
+        "D": 3
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 2.7,
+        "H": 2.55,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 4,
+        "H": 2.1,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "OGC Nice",
+      "O": {
+        "A": 2.1,
+        "H": 3.3,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 3.45,
+        "H": 2.2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 2.7,
+        "H": 2.65,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Amiens SC",
+      "O": {
+        "A": 2.55,
+        "H": 3,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Angers SCO",
+      "O": {
+        "A": 1.95,
+        "H": 3.85,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 3.3,
+        "H": 2.25,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Lille OSC",
+      "O": {
+        "A": 7.1,
+        "H": 1.5,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 4.75,
+        "H": 1.7,
+        "D": 4
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 2.7,
+        "H": 2.85,
+        "D": 3
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 3.25,
+        "H": 2.3,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 1.47,
+        "H": 5.9,
+        "D": 4.95
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 5.2,
+        "H": 1.7,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 11,
+        "H": 1.25,
+        "D": 6.1
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.5,
+        "H": 2.95,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 3.3,
+        "H": 2.2,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 6.2,
+        "H": 1.55,
+        "D": 4
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "OGC Nice",
+      "O": {
+        "A": 4.95,
+        "H": 1.75,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 2.65,
+        "H": 2.65,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 3.7,
+        "H": 2.05,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 2.5,
+        "H": 2.95,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "FC Nantes",
+      "O": {
+        "A": 4.55,
+        "H": 1.85,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 3.8,
+        "H": 2.05,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Lille OSC",
+      "O": {
+        "A": 4.5,
+        "H": 1.8,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Angers SCO",
+      "O": {
+        "A": 2.65,
+        "H": 2.9,
+        "D": 3.05
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 1.67,
+        "H": 5.1,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 2.95,
+        "H": 2.45,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 4.1,
+        "H": 1.9,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3.6,
+        "H": 2.2,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 4.7,
+        "H": 1.8,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 8,
+        "H": 1.35,
+        "D": 5.3
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 1.22,
+        "H": 11.5,
+        "D": 7
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 3.65,
+        "H": 2.1,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 5.4,
+        "H": 1.65,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.35,
+        "H": 3.2,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 2.55,
+        "H": 2.8,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "FC Nantes",
+      "O": {
+        "A": 4.15,
+        "H": 1.95,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 17,
+        "H": 1.15,
+        "D": 8
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 4.2,
+        "H": 2,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 3.6,
+        "H": 2.1,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Amiens SC",
+      "O": {
+        "A": 1.8,
+        "H": 4.5,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 3.6,
+        "H": 2.25,
+        "D": 3.05
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "OGC Nice",
+      "O": {
+        "A": 2.85,
+        "H": 2.65,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 4,
+        "H": 2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Angers SCO",
+      "O": {
+        "A": 4.4,
+        "H": 1.85,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 2.4,
+        "H": 3.1,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Lille OSC",
+      "O": {
+        "A": 2.55,
+        "H": 2.7,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 2.7,
+        "H": 2.7,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 3.8,
+        "H": 2.05,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 1.3,
+        "H": 9.3,
+        "D": 5.7
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 7.6,
+        "H": 1.4,
+        "D": 4.8
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 4.5,
+        "H": 1.8,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3.7,
+        "H": 2.05,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Amiens SC",
+      "O": {
+        "A": 2.55,
+        "H": 2.85,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 3.65,
+        "H": 2.15,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "OGC Nice",
+      "O": {
+        "A": 3.95,
+        "H": 2.05,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 2.95,
+        "H": 2.55,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.65,
+        "H": 2.75,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 3.45,
+        "H": 2.2,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 5.7,
+        "H": 1.6,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "FC Nantes",
+      "O": {
+        "A": 2.35,
+        "H": 3.1,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 4.35,
+        "H": 1.9,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 1.33,
+        "H": 8.7,
+        "D": 5.4
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 4,
+        "H": 2.05,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 6.3,
+        "H": 1.53,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Lille OSC",
+      "O": {
+        "A": 5.2,
+        "H": 1.75,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 5,
+        "H": 1.75,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 3.55,
+        "H": 2.25,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 6.5,
+        "H": 1.5,
+        "D": 4.3
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "OGC Nice",
+      "O": {
+        "A": 3.4,
+        "H": 2.25,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 3,
+        "H": 2.45,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "SM Caen",
+      "O": {
+        "A": 3.15,
+        "H": 2.45,
+        "D": 3.05
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Angers SCO",
+      "O": {
+        "A": 2.1,
+        "H": 3.55,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Lille OSC",
+      "O": {
+        "A": 5.2,
+        "H": 1.67,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 4.25,
+        "H": 1.93,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 2.2,
+        "H": 3.4,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 20,
+        "H": 1.12,
+        "D": 9
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 5.6,
+        "H": 1.73,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 4.5,
+        "H": 1.8,
+        "D": 3.65
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 6.1,
+        "H": 1.5,
+        "D": 4.45
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 3.1,
+        "H": 2.4,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 5.9,
+        "H": 1.63,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Amiens SC",
+      "O": {
+        "A": 2.55,
+        "H": 3.1,
+        "D": 3
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "FC Nantes",
+      "O": {
+        "A": 2.95,
+        "H": 2.6,
+        "D": 3.05
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.15,
+        "H": 3.7,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 6.5,
+        "H": 1.5,
+        "D": 4.3
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Amiens SC",
+      "O": {
+        "A": 1.2,
+        "H": 14,
+        "D": 6.8
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 2.6,
+        "H": 2.85,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "OGC Nice",
+      "O": {
+        "A": 3.7,
+        "H": 2.15,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 2.3,
+        "H": 3.3,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 5.4,
+        "H": 1.57,
+        "D": 4.25
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "FC Nantes",
+      "O": {
+        "A": 2.8,
+        "H": 2.6,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3.05,
+        "H": 2.5,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Angers SCO",
+      "O": {
+        "A": 3.05,
+        "H": 2.6,
+        "D": 3
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 2.55,
+        "H": 2.95,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 3.3,
+        "H": 2.3,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 3.15,
+        "H": 2.35,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 3.05,
+        "H": 2.3,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 1.75,
+        "H": 4.7,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Lille OSC",
+      "O": {
+        "A": 5.6,
+        "H": 1.67,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 3.95,
+        "H": 1.97,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 3.8,
+        "H": 1.97,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 28,
+        "H": 1.1,
+        "D": 9.1
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 3.75,
+        "H": 2.15,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Angers SCO",
+      "O": {
+        "A": 3.1,
+        "H": 2.5,
+        "D": 3.05
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 5.2,
+        "H": 1.7,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "SM Caen",
+      "O": {
+        "A": 1.83,
+        "H": 4.35,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 3.85,
+        "H": 2.1,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 2.25,
+        "H": 3.05,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 3.9,
+        "H": 2,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 3,
+        "H": 2.4,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 2.35,
+        "H": 3,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 3.1,
+        "H": 2.5,
+        "D": 3.05
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "OGC Nice",
+      "O": {
+        "A": 3.65,
+        "H": 2.15,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 3.15,
+        "H": 2.4,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Amiens SC",
+      "O": {
+        "A": 1.57,
+        "H": 5.8,
+        "D": 4.25
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 5.7,
+        "H": 1.67,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 11,
+        "H": 1.23,
+        "D": 6.6
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3.35,
+        "H": 2.25,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "FC Nantes",
+      "O": {
+        "A": 2.7,
+        "H": 2.75,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Lille OSC",
+      "O": {
+        "A": 4.65,
+        "H": 1.85,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Angers SCO",
+      "O": {
+        "A": 3.7,
+        "H": 2.05,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 4.5,
+        "H": 1.8,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 2.75,
+        "H": 2.75,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 6,
+        "H": 1.6,
+        "D": 3.85
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 1.85,
+        "H": 4,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 2.9,
+        "H": 2.55,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 3.2,
+        "H": 2.35,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 2,
+        "H": 3.8,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Amiens SC",
+      "O": {
+        "A": 3.95,
+        "H": 2.05,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 10,
+        "H": 1.25,
+        "D": 6.5
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 4.15,
+        "H": 2,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 2.2,
+        "H": 3.35,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 3.1,
+        "H": 2.4,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "FC Nantes",
+      "O": {
+        "A": 4,
+        "H": 1.97,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "OGC Nice",
+      "O": {
+        "A": 1.7,
+        "H": 4.7,
+        "D": 3.95
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 3.6,
+        "H": 2.1,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 2.85,
+        "H": 2.7,
+        "D": 3
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.5,
+        "H": 3.1,
+        "D": 3.05
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 3.85,
+        "H": 2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 9.6,
+        "H": 1.3,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 4.4,
+        "H": 1.85,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Angers SCO",
+      "O": {
+        "A": 3.3,
+        "H": 2.4,
+        "D": 3
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 7.2,
+        "H": 1.45,
+        "D": 4.4
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 4.4,
+        "H": 1.85,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 4.4,
+        "H": 1.85,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.35,
+        "H": 3.4,
+        "D": 3
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Lille OSC",
+      "O": {
+        "A": 4.6,
+        "H": 1.87,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 3.25,
+        "H": 2.4,
+        "D": 3.05
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 1.63,
+        "H": 4.9,
+        "D": 4.3
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 4.35,
+        "H": 1.9,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 10.5,
+        "H": 1.28,
+        "D": 5.7
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 2.25,
+        "H": 3.25,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 2.65,
+        "H": 2.8,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Amiens SC",
+      "O": {
+        "A": 2.95,
+        "H": 2.7,
+        "D": 2.95
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 3,
+        "H": 2.55,
+        "D": 3.05
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 10.5,
+        "H": 1.25,
+        "D": 6.5
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 2.2,
+        "H": 3.15,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 3.55,
+        "H": 2.3,
+        "D": 3
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "FC Nantes",
+      "O": {
+        "A": 4.1,
+        "H": 2,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 2.5,
+        "H": 2.85,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 4.65,
+        "H": 1.85,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Angers SCO",
+      "O": {
+        "A": 2.25,
+        "H": 3.3,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "SM Caen",
+      "O": {
+        "A": 1.27,
+        "H": 10.5,
+        "D": 6
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 5.3,
+        "H": 1.77,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 2.75,
+        "H": 2.8,
+        "D": 3
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Lille OSC",
+      "O": {
+        "A": 6.4,
+        "H": 1.53,
+        "D": 4.15
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 9.1,
+        "H": 1.31,
+        "D": 5.6
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 4.3,
+        "H": 1.83,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "OGC Nice",
+      "O": {
+        "A": 3.45,
+        "H": 2.35,
+        "D": 3
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 3.15,
+        "H": 2.55,
+        "D": 2.9
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Amiens SC",
+      "O": {
+        "A": 3,
+        "H": 2.5,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 2.55,
+        "H": 3,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 5.2,
+        "H": 1.67,
+        "D": 3.85
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 1.8,
+        "H": 4.35,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 6.2,
+        "H": 1.55,
+        "D": 4.15
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 3.95,
+        "H": 2.1,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 6.2,
+        "H": 1.6,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 3.05,
+        "H": 2.4,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3.55,
+        "H": 2.25,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 1.2,
+        "H": 13,
+        "D": 7
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Lille OSC",
+      "O": {
+        "A": 3.75,
+        "H": 2.05,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "OGC Nice",
+      "O": {
+        "A": 3.7,
+        "H": 2.15,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Angers SCO",
+      "O": {
+        "A": 4,
+        "H": 2.05,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.25,
+        "H": 3.5,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 3.7,
+        "H": 2.15,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 3.15,
+        "H": 2.35,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 2.95,
+        "H": 2.65,
+        "D": 3.05
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 6.8,
+        "H": 1.47,
+        "D": 4.4
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 10,
+        "H": 1.27,
+        "D": 6
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 3.7,
+        "H": 2.2,
+        "D": 3.05
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 2,
+        "H": 3.6,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 7,
+        "H": 1.5,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Amiens SC",
+      "O": {
+        "A": 2.95,
+        "H": 2.65,
+        "D": 2.95
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 3,
+        "H": 2.55,
+        "D": 3
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 7.6,
+        "H": 1.4,
+        "D": 4.8
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "FC Nantes",
+      "O": {
+        "A": 2.65,
+        "H": 2.95,
+        "D": 3
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 1.25,
+        "H": 11,
+        "D": 6.1
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 4.45,
+        "H": 1.77,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 4.85,
+        "H": 1.8,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 2.75,
+        "H": 2.75,
+        "D": 3.05
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 2.15,
+        "H": 3.55,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Amiens SC",
+      "O": {
+        "A": 2.55,
+        "H": 2.95,
+        "D": 3.05
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Angers SCO",
+      "O": {
+        "A": 2.75,
+        "H": 2.75,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 2.15,
+        "H": 3.65,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 15,
+        "H": 1.2,
+        "D": 6.5
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 5.1,
+        "H": 1.7,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "OGC Nice",
+      "O": {
+        "A": 2.9,
+        "H": 2.7,
+        "D": 2.95
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 20,
+        "H": 1.12,
+        "D": 9
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 2.55,
+        "H": 3,
+        "D": 3
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3.1,
+        "H": 2.5,
+        "D": 3.05
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 2.6,
+        "H": 2.7,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 3.25,
+        "H": 2.4,
+        "D": 3.05
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "FC Nantes",
+      "O": {
+        "A": 1.8,
+        "H": 4.3,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.7,
+        "H": 2.85,
+        "D": 3
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 5.3,
+        "H": 1.57,
+        "D": 4.3
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 4.05,
+        "H": 1.95,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 3.5,
+        "H": 2.15,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Lille OSC",
+      "O": {
+        "A": 1.77,
+        "H": 4.35,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 4.6,
+        "H": 1.87,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 4.25,
+        "H": 1.9,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 4.9,
+        "H": 1.75,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "FC Nantes",
+      "O": {
+        "A": 1.7,
+        "H": 4.4,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 2.65,
+        "H": 2.65,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 9.6,
+        "H": 1.3,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 1.9,
+        "H": 4.25,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "OGC Nice",
+      "O": {
+        "A": 5.2,
+        "H": 1.8,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 3.55,
+        "H": 2.15,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 2.7,
+        "H": 2.7,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "FC Nantes",
+      "O": {
+        "A": 4.2,
+        "H": 2.05,
+        "D": 3.05
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 5.4,
+        "H": 1.53,
+        "D": 4.7
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 2.7,
+        "H": 2.7,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 2.2,
+        "H": 3.45,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 1.67,
+        "H": 4.9,
+        "D": 4.05
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Amiens SC",
+      "O": {
+        "A": 3.65,
+        "H": 2.1,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Angers SCO",
+      "O": {
+        "A": 2.95,
+        "H": 2.6,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "SM Caen",
+      "O": {
+        "A": 2.7,
+        "H": 2.8,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Lille OSC",
+      "O": {
+        "A": 6.3,
+        "H": 1.5,
+        "D": 4.3
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 6.5,
+        "H": 1.53,
+        "D": 4.15
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "OGC Nice",
+      "O": {
+        "A": 4,
+        "H": 2.1,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 6.3,
+        "H": 1.5,
+        "D": 4.35
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 1.9,
+        "H": 3.85,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 2.25,
+        "H": 3.15,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 1.97,
+        "H": 3.8,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 3.25,
+        "H": 2.35,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 4.6,
+        "H": 1.87,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 10.5,
+        "H": 1.25,
+        "D": 6.4
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 3.9,
+        "H": 1.97,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 4.65,
+        "H": 1.67,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 2.9,
+        "H": 2.4,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 4.9,
+        "H": 1.75,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "FC Nantes",
+      "O": {
+        "A": 4.2,
+        "H": 1.9,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 3.2,
+        "H": 2.25,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 4.6,
+        "H": 1.73,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Amiens SC",
+      "O": {
+        "A": 3.4,
+        "H": 2.3,
+        "D": 3.05
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Angers SCO",
+      "O": {
+        "A": 1.55,
+        "H": 5.3,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "SM Caen",
+      "O": {
+        "A": 3.2,
+        "H": 2.5,
+        "D": 3
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 3.85,
+        "H": 2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "OGC Nice",
+      "O": {
+        "A": 2.95,
+        "H": 2.5,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 2.05,
+        "H": 3.45,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "Lille OSC",
+      "O": {
+        "A": 7,
+        "H": 1.43,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 2.2,
+        "H": 3,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 3.85,
+        "H": 1.95,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Stade de Reims",
+      "H": "Girondins de Bordeaux",
+      "O": {
+        "A": 3.25,
+        "H": 2.3,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Nîmes Olympique",
+      "H": "En Avant de Guingamp",
+      "O": {
+        "A": 2.55,
+        "H": 2.65,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Angers SCO",
+      "H": "Lille OSC",
+      "O": {
+        "A": 6,
+        "H": 1.55,
+        "D": 4.15
+      }
+    },
+    {
+      "A": "SM Caen",
+      "H": "Olympique Lyonnais",
+      "O": {
+        "A": 12.5,
+        "H": 1.21,
+        "D": 6.9
+      }
+    },
+    {
+      "A": "Amiens SC",
+      "H": "AS Monaco FC",
+      "O": {
+        "A": 5.5,
+        "H": 1.65,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "FC Nantes",
+      "H": "Montpellier HSC",
+      "O": {
+        "A": 4.2,
+        "H": 1.83,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Dijon FCO",
+      "H": "Paris Saint-Germain",
+      "O": {
+        "A": 8.8,
+        "H": 1.3,
+        "D": 6
+      }
+    },
+    {
+      "A": "OGC Nice",
+      "H": "AS Saint-Étienne",
+      "O": {
+        "A": 5.5,
+        "H": 1.6,
+        "D": 4.15
+      }
+    },
+    {
+      "A": "Stade Rennais F.C.",
+      "H": "RC Strasbourg Alsace",
+      "O": {
+        "A": 3.05,
+        "H": 2.3,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "Olympique de Marseille",
+      "H": "Toulouse FC",
+      "O": {
+        "A": 2.2,
+        "H": 3.25,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "En Avant de Guingamp",
+      "H": "Amiens SC",
+      "O": {
+        "A": 6.2,
+        "H": 1.57,
+        "D": 4
+      }
+    },
+    {
+      "A": "AS Saint-Étienne",
+      "H": "Angers SCO",
+      "O": {
+        "A": 2.6,
+        "H": 2.55,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Girondins de Bordeaux",
+      "H": "SM Caen",
+      "O": {
+        "A": 5,
+        "H": 1.77,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "Toulouse FC",
+      "H": "Dijon FCO",
+      "O": {
+        "A": 5.8,
+        "H": 1.53,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Montpellier HSC",
+      "H": "Olympique de Marseille",
+      "O": {
+        "A": 3.85,
+        "H": 1.85,
+        "D": 3.95
+      }
+    },
+    {
+      "A": "RC Strasbourg Alsace",
+      "H": "FC Nantes",
+      "O": {
+        "A": 4.6,
+        "H": 1.7,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "AS Monaco FC",
+      "H": "OGC Nice",
+      "O": {
+        "A": 2.2,
+        "H": 3.25,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Olympique Lyonnais",
+      "H": "Nîmes Olympique",
+      "O": {
+        "A": 2.05,
+        "H": 3.1,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Paris Saint-Germain",
+      "H": "Stade de Reims",
+      "O": {
+        "A": 1.48,
+        "H": 5.6,
+        "D": 5
+      }
+    },
+    {
+      "A": "Lille OSC",
+      "H": "Stade Rennais F.C.",
+      "O": {
+        "A": 2.5,
+        "H": 2.6,
+        "D": 3.7
+      }
+    }
+  ]
+}
