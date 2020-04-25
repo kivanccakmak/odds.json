@@ -1,0 +1,6056 @@
+{
+  "B365": [
+    {
+      "A": "Hertha BSC",
+      "H": "Bayern München",
+      "O": {
+        "A": 15,
+        "H": 1.14,
+        "D": 8
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 13,
+        "H": 1.2,
+        "D": 7
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 3.4,
+        "H": 2.25,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 12,
+        "H": 1.25,
+        "D": 6
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 4.75,
+        "H": 1.75,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 4,
+        "H": 1.95,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 3.75,
+        "H": 2,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 3,
+        "H": 2.25,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "Union Berlin",
+      "O": {
+        "A": 1.7,
+        "H": 5,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 1.44,
+        "H": 6.5,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 3.3,
+        "H": 2.2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 1.7,
+        "H": 4.75,
+        "D": 4
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 4.2,
+        "H": 1.85,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 2.4,
+        "H": 2.9,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 2.9,
+        "H": 2.37,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 1.36,
+        "H": 9,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 6,
+        "H": 1.5,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 2.9,
+        "H": 2.4,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 2.05,
+        "H": 3.2,
+        "D": 4
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "Bayern München",
+      "O": {
+        "A": 26,
+        "H": 1.08,
+        "D": 11
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 3,
+        "H": 2.37,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 5.25,
+        "H": 1.53,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 3.4,
+        "H": 2.1,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 6,
+        "H": 1.44,
+        "D": 5
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "Union Berlin",
+      "O": {
+        "A": 1.28,
+        "H": 10,
+        "D": 5.75
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 4.5,
+        "H": 1.72,
+        "D": 4
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 4.75,
+        "H": 1.66,
+        "D": 4
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 2.25,
+        "H": 3.1,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 2.05,
+        "H": 3.5,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 4,
+        "H": 1.8,
+        "D": 4
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 2.7,
+        "H": 2.5,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 3.1,
+        "H": 2.3,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "Union Berlin",
+      "O": {
+        "A": 2.4,
+        "H": 2.87,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 1.85,
+        "H": 3.8,
+        "D": 4
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 4.5,
+        "H": 1.7,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 2.25,
+        "H": 3.1,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 5,
+        "H": 1.61,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "Bayern München",
+      "O": {
+        "A": 21,
+        "H": 1.11,
+        "D": 10
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 3.8,
+        "H": 1.9,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 4.75,
+        "H": 1.7,
+        "D": 4
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 7.5,
+        "H": 1.36,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 1.72,
+        "H": 4.2,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 5,
+        "H": 1.66,
+        "D": 4
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 1.75,
+        "H": 4.33,
+        "D": 4
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 3.75,
+        "H": 1.95,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "Union Berlin",
+      "O": {
+        "A": 2.3,
+        "H": 3,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 1.6,
+        "H": 5,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 2.75,
+        "H": 2.5,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 2.37,
+        "H": 2.9,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 1.14,
+        "H": 15,
+        "D": 10
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 6,
+        "H": 1.53,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 11,
+        "H": 1.25,
+        "D": 6.5
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 2.87,
+        "H": 2.37,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 3.3,
+        "H": 2.15,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 4.75,
+        "H": 1.65,
+        "D": 4
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "Bayern München",
+      "O": {
+        "A": 26,
+        "H": 1.11,
+        "D": 9
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 1.57,
+        "H": 5.75,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 3.1,
+        "H": 2.25,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 2.8,
+        "H": 2.5,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 5.5,
+        "H": 1.57,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 6.5,
+        "H": 1.5,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 5,
+        "H": 1.66,
+        "D": 4
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 3.4,
+        "H": 2.1,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 2.3,
+        "H": 2.75,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 1.16,
+        "H": 15,
+        "D": 8
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 2.62,
+        "H": 2.55,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 5.75,
+        "H": 1.53,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "Union Berlin",
+      "O": {
+        "A": 2.7,
+        "H": 2.5,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 3.2,
+        "H": 2.1,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 6.5,
+        "H": 1.44,
+        "D": 5
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 4.33,
+        "H": 1.65,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 2.55,
+        "H": 2.75,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 2.62,
+        "H": 2.5,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "Bayern München",
+      "O": {
+        "A": 19,
+        "H": 1.09,
+        "D": 12
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 1.85,
+        "H": 4,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 3.6,
+        "H": 2.05,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 2.7,
+        "H": 2.37,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 2.2,
+        "H": 3.1,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 5.5,
+        "H": 1.57,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 5.5,
+        "H": 1.57,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 3.75,
+        "H": 1.83,
+        "D": 4
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 7,
+        "H": 1.4,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 6.5,
+        "H": 1.5,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 1.4,
+        "H": 6.5,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 3.5,
+        "H": 1.95,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 8,
+        "H": 1.33,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 3.8,
+        "H": 1.85,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "Union Berlin",
+      "O": {
+        "A": 2.5,
+        "H": 2.87,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 2.5,
+        "H": 2.8,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 1.85,
+        "H": 4,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 2.7,
+        "H": 2.5,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 1.8,
+        "H": 4.2,
+        "D": 4
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 3.5,
+        "H": 2.15,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 2.5,
+        "H": 2.62,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 7,
+        "H": 1.5,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "Bayern München",
+      "O": {
+        "A": 5.5,
+        "H": 1.53,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 4.33,
+        "H": 1.72,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 2.37,
+        "H": 2.87,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 2.5,
+        "H": 2.7,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 15,
+        "H": 1.14,
+        "D": 9
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 3.6,
+        "H": 2,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 1.18,
+        "H": 13,
+        "D": 8
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 6.5,
+        "H": 1.45,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "Union Berlin",
+      "O": {
+        "A": 2.05,
+        "H": 3.6,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 2.8,
+        "H": 2.45,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 7.5,
+        "H": 1.33,
+        "D": 5.75
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 2.62,
+        "H": 2.62,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 4.75,
+        "H": 1.65,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 4.75,
+        "H": 1.66,
+        "D": 4
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 3.5,
+        "H": 1.95,
+        "D": 4
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 1.8,
+        "H": 4,
+        "D": 4
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 5,
+        "H": 1.7,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 1.36,
+        "H": 6.5,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "Bayern München",
+      "O": {
+        "A": 8.5,
+        "H": 1.28,
+        "D": 6
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 6,
+        "H": 1.53,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 3,
+        "H": 2.15,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 2.37,
+        "H": 2.8,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 4.2,
+        "H": 1.8,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 3.1,
+        "H": 2.2,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 8.5,
+        "H": 1.33,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 2.4,
+        "H": 2.9,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 1.57,
+        "H": 5.25,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 6.5,
+        "H": 1.44,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 3.75,
+        "H": 1.95,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "Union Berlin",
+      "O": {
+        "A": 3.3,
+        "H": 2.15,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 5.75,
+        "H": 1.53,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 4.2,
+        "H": 1.8,
+        "D": 4
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "Bayern München",
+      "O": {
+        "A": 15,
+        "H": 1.14,
+        "D": 9
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 1.8,
+        "H": 4.2,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 3.6,
+        "H": 2,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 1.6,
+        "H": 5,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 2.37,
+        "H": 2.8,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 1.44,
+        "H": 7,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 2.6,
+        "H": 2.7,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 3.6,
+        "H": 1.9,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 4.2,
+        "H": 1.75,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 4.2,
+        "H": 1.75,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 3.2,
+        "H": 2.1,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "Union Berlin",
+      "O": {
+        "A": 2.9,
+        "H": 2.37,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 6.5,
+        "H": 1.5,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 4.75,
+        "H": 1.75,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 1.22,
+        "H": 10,
+        "D": 7.5
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 7.5,
+        "H": 1.33,
+        "D": 6
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 3.1,
+        "H": 2.3,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 1.9,
+        "H": 3.6,
+        "D": 4
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "Bayern München",
+      "O": {
+        "A": 17,
+        "H": 1.14,
+        "D": 8.5
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 3.4,
+        "H": 2.05,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 1.83,
+        "H": 3.8,
+        "D": 4
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 11,
+        "H": 1.25,
+        "D": 6.5
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 5.5,
+        "H": 1.65,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 2.2,
+        "H": 3.1,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 2.62,
+        "H": 2.75,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 2,
+        "H": 3.4,
+        "D": 4
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 2.55,
+        "H": 2.62,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 1.65,
+        "H": 4.75,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 2.55,
+        "H": 2.75,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 2.5,
+        "H": 2.75,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 2.8,
+        "H": 2.4,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 3.25,
+        "H": 2.2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 11,
+        "H": 1.25,
+        "D": 6
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 1.3,
+        "H": 10,
+        "D": 5.75
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 1.6,
+        "H": 5,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 9,
+        "H": 1.28,
+        "D": 6
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 1.75,
+        "H": 4,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 4.2,
+        "H": 1.75,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 6.5,
+        "H": 1.5,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "Union Berlin",
+      "O": {
+        "A": 3.4,
+        "H": 2.05,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 4.33,
+        "H": 1.8,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "Bayern München",
+      "O": {
+        "A": 13,
+        "H": 1.16,
+        "D": 8.5
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 2.8,
+        "H": 2.37,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 7,
+        "H": 1.36,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 2.6,
+        "H": 2.7,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 3.4,
+        "H": 2.05,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 11,
+        "H": 1.22,
+        "D": 6.5
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 2.05,
+        "H": 3.5,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 2.1,
+        "H": 3.2,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 1.2,
+        "H": 12,
+        "D": 7.5
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 5.75,
+        "H": 1.5,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 3.5,
+        "H": 2.05,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 1.85,
+        "H": 3.8,
+        "D": 4
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 3.8,
+        "H": 1.9,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 2.62,
+        "H": 2.5,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 3.75,
+        "H": 2,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 6.5,
+        "H": 1.5,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 3.6,
+        "H": 2.05,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 5.75,
+        "H": 1.53,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 2.1,
+        "H": 3.1,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "Bayern München",
+      "O": {
+        "A": 6.5,
+        "H": 1.4,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 6.5,
+        "H": 1.4,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 3.6,
+        "H": 2,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 2.87,
+        "H": 2.37,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 2.45,
+        "H": 2.75,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 10,
+        "H": 1.2,
+        "D": 7
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "Union Berlin",
+      "O": {
+        "A": 1.9,
+        "H": 4,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 1.8,
+        "H": 4.2,
+        "D": 4
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 1.2,
+        "H": 12,
+        "D": 7.5
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 2.5,
+        "H": 2.8,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "Bayern München",
+      "O": {
+        "A": 34,
+        "H": 1.05,
+        "D": 13
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 4,
+        "H": 1.9,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 2.87,
+        "H": 2.4,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 5.25,
+        "H": 1.61,
+        "D": 4
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 1.4,
+        "H": 6.5,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 1.75,
+        "H": 4,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 6,
+        "H": 1.5,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 4.75,
+        "H": 1.72,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 4,
+        "H": 1.9,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 3,
+        "H": 2.37,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 2.05,
+        "H": 3.4,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 13,
+        "H": 1.2,
+        "D": 7
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 1.36,
+        "H": 7,
+        "D": 5.75
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 4,
+        "H": 1.83,
+        "D": 4
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 3.1,
+        "H": 2.2,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "Union Berlin",
+      "O": {
+        "A": 2.7,
+        "H": 2.62,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 6.5,
+        "H": 1.44,
+        "D": 5
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 2.1,
+        "H": 3,
+        "D": 4
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 3.1,
+        "H": 2.3,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 3.4,
+        "H": 2.1,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 5,
+        "H": 1.65,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 3.2,
+        "H": 2.2,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 1.9,
+        "H": 3.8,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 2.15,
+        "H": 3.1,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "Bayern München",
+      "O": {
+        "A": 21,
+        "H": 1.11,
+        "D": 10
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 3.8,
+        "H": 1.9,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 4.2,
+        "H": 1.72,
+        "D": 4
+      }
+    }
+  ],
+  "BW": [
+    {
+      "A": "Hertha BSC",
+      "H": "Bayern München",
+      "O": {
+        "A": 16,
+        "H": 1.18,
+        "D": 7
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 12.5,
+        "H": 1.22,
+        "D": 6.5
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 3.4,
+        "H": 2.2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 10,
+        "H": 1.3,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 4.4,
+        "H": 1.75,
+        "D": 4
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 4,
+        "H": 1.91,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 3.5,
+        "H": 2.1,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 2.95,
+        "H": 2.35,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "Union Berlin",
+      "O": {
+        "A": 1.72,
+        "H": 4.4,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 1.42,
+        "H": 6.5,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 3.2,
+        "H": 2.2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 1.72,
+        "H": 4.25,
+        "D": 4
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 3.75,
+        "H": 1.85,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 2.35,
+        "H": 2.85,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 2.75,
+        "H": 2.35,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 1.36,
+        "H": 7.75,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 6,
+        "H": 1.45,
+        "D": 4.6
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 2.7,
+        "H": 2.4,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 2.1,
+        "H": 3.2,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "Bayern München",
+      "O": {
+        "A": 26,
+        "H": 1.09,
+        "D": 10.5
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 2.8,
+        "H": 2.45,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 5,
+        "H": 1.55,
+        "D": 5
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 3.5,
+        "H": 2.1,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 6.75,
+        "H": 1.42,
+        "D": 5
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "Union Berlin",
+      "O": {
+        "A": 1.3,
+        "H": 9.75,
+        "D": 5.75
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 5,
+        "H": 1.65,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 4.75,
+        "H": 1.7,
+        "D": 4
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 2.3,
+        "H": 2.95,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 2,
+        "H": 3.5,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 4.25,
+        "H": 1.75,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 2.7,
+        "H": 2.6,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 2.9,
+        "H": 2.4,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "Union Berlin",
+      "O": {
+        "A": 2.4,
+        "H": 2.9,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 1.85,
+        "H": 3.75,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 4.5,
+        "H": 1.7,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 2.2,
+        "H": 3,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 5.25,
+        "H": 1.65,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "Bayern München",
+      "O": {
+        "A": 19.5,
+        "H": 1.13,
+        "D": 9
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 4,
+        "H": 1.87,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 4.75,
+        "H": 1.7,
+        "D": 4
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 8,
+        "H": 1.36,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 1.72,
+        "H": 4.33,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 5,
+        "H": 1.67,
+        "D": 4
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 1.7,
+        "H": 4.4,
+        "D": 4.25
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 3.5,
+        "H": 1.95,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "Union Berlin",
+      "O": {
+        "A": 2.3,
+        "H": 3,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 1.6,
+        "H": 5,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 2.8,
+        "H": 2.45,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 2.45,
+        "H": 2.8,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 1.15,
+        "H": 17,
+        "D": 8.25
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 6,
+        "H": 1.55,
+        "D": 4.25
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 10.5,
+        "H": 1.26,
+        "D": 6.25
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 2.9,
+        "H": 2.4,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 3.25,
+        "H": 2.15,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 4.75,
+        "H": 1.67,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "Bayern München",
+      "O": {
+        "A": 18.5,
+        "H": 1.12,
+        "D": 10
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 1.57,
+        "H": 5.25,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 2.85,
+        "H": 2.3,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 2.65,
+        "H": 2.55,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 5.25,
+        "H": 1.62,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 6,
+        "H": 1.53,
+        "D": 4.4
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 5.25,
+        "H": 1.65,
+        "D": 4
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 3.2,
+        "H": 2.15,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 2.3,
+        "H": 2.85,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 1.17,
+        "H": 16,
+        "D": 7.75
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 2.75,
+        "H": 2.45,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 6,
+        "H": 1.55,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "Union Berlin",
+      "O": {
+        "A": 2.8,
+        "H": 2.4,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 3.4,
+        "H": 2.05,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 6.25,
+        "H": 1.45,
+        "D": 5
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 4.6,
+        "H": 1.67,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 2.55,
+        "H": 2.65,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 2.7,
+        "H": 2.55,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "Bayern München",
+      "O": {
+        "A": 16.5,
+        "H": 1.11,
+        "D": 11
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 1.8,
+        "H": 4.25,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 3.5,
+        "H": 2.1,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 2.8,
+        "H": 2.35,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 2.3,
+        "H": 3.1,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 5.25,
+        "H": 1.6,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 5.25,
+        "H": 1.6,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 3.75,
+        "H": 1.95,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 6.5,
+        "H": 1.45,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 6.5,
+        "H": 1.5,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 1.42,
+        "H": 7,
+        "D": 5
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 3.4,
+        "H": 2,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 8.25,
+        "H": 1.36,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 3.7,
+        "H": 1.95,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "Union Berlin",
+      "O": {
+        "A": 2.5,
+        "H": 2.8,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 2.45,
+        "H": 2.7,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 1.91,
+        "H": 3.9,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 2.6,
+        "H": 2.6,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 1.8,
+        "H": 4.2,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 3.4,
+        "H": 2.2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 2.5,
+        "H": 2.6,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 6.75,
+        "H": 1.5,
+        "D": 4.25
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "Bayern München",
+      "O": {
+        "A": 5,
+        "H": 1.57,
+        "D": 4.6
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 4.5,
+        "H": 1.72,
+        "D": 4
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 2.4,
+        "H": 2.9,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 2.45,
+        "H": 2.75,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 16.5,
+        "H": 1.15,
+        "D": 8.5
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 3.6,
+        "H": 2,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 1.18,
+        "H": 14.5,
+        "D": 7.5
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 6.5,
+        "H": 1.5,
+        "D": 4.4
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "Union Berlin",
+      "O": {
+        "A": 2.1,
+        "H": 3.4,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 2.75,
+        "H": 2.45,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 8.75,
+        "H": 1.33,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 2.65,
+        "H": 2.55,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 5,
+        "H": 1.65,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 5,
+        "H": 1.67,
+        "D": 4
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 3.7,
+        "H": 1.95,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 1.78,
+        "H": 4.4,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 4.75,
+        "H": 1.67,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 1.36,
+        "H": 8,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "Bayern München",
+      "O": {
+        "A": 9,
+        "H": 1.3,
+        "D": 5.75
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 5.5,
+        "H": 1.57,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 3.2,
+        "H": 2.15,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 2.35,
+        "H": 2.8,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 4.2,
+        "H": 1.8,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 2.9,
+        "H": 2.35,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 9.5,
+        "H": 1.3,
+        "D": 5.75
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 2.45,
+        "H": 2.8,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 1.55,
+        "H": 5.25,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 6.5,
+        "H": 1.42,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 4,
+        "H": 1.91,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "Union Berlin",
+      "O": {
+        "A": 3.3,
+        "H": 2.2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 5.75,
+        "H": 1.5,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 4,
+        "H": 1.85,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "Bayern München",
+      "O": {
+        "A": 17.5,
+        "H": 1.14,
+        "D": 8.5
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 1.85,
+        "H": 4,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 3.5,
+        "H": 2.05,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 1.62,
+        "H": 5.25,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 2.4,
+        "H": 2.85,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 1.45,
+        "H": 6.25,
+        "D": 5
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 2.65,
+        "H": 2.6,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 3.6,
+        "H": 2,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 4.1,
+        "H": 1.8,
+        "D": 4
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 4.5,
+        "H": 1.72,
+        "D": 4
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 3.25,
+        "H": 2.1,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "Union Berlin",
+      "O": {
+        "A": 2.9,
+        "H": 2.35,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 6,
+        "H": 1.57,
+        "D": 4
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 4.75,
+        "H": 1.7,
+        "D": 4
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 1.25,
+        "H": 10.5,
+        "D": 6.5
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 9,
+        "H": 1.3,
+        "D": 6
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 3.1,
+        "H": 2.35,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 1.87,
+        "H": 3.8,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "Bayern München",
+      "O": {
+        "A": 17,
+        "H": 1.14,
+        "D": 8.5
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 3.25,
+        "H": 2.1,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 1.8,
+        "H": 4.1,
+        "D": 4
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 10,
+        "H": 1.26,
+        "D": 6.25
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 5,
+        "H": 1.65,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 2.25,
+        "H": 3,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 2.7,
+        "H": 2.7,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 1.87,
+        "H": 3.75,
+        "D": 4
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 2.6,
+        "H": 2.65,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 1.65,
+        "H": 4.5,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 2.5,
+        "H": 2.7,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 2.4,
+        "H": 2.65,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 2.75,
+        "H": 2.35,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 3.2,
+        "H": 2.15,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 9,
+        "H": 1.28,
+        "D": 5.75
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 1.3,
+        "H": 8.5,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 1.55,
+        "H": 5,
+        "D": 4.4
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 9.5,
+        "H": 1.28,
+        "D": 6
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 1.78,
+        "H": 4.1,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 4.25,
+        "H": 1.75,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 5.75,
+        "H": 1.53,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "Union Berlin",
+      "O": {
+        "A": 3.4,
+        "H": 2.15,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 4.5,
+        "H": 1.78,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "Bayern München",
+      "O": {
+        "A": 14,
+        "H": 1.19,
+        "D": 7.25
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 2.75,
+        "H": 2.4,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 7,
+        "H": 1.4,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 2.6,
+        "H": 2.75,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 3.3,
+        "H": 2.1,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 10.5,
+        "H": 1.25,
+        "D": 6.5
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 2.1,
+        "H": 3.3,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 2.15,
+        "H": 3.1,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 1.2,
+        "H": 12,
+        "D": 7.5
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 5.75,
+        "H": 1.53,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 3.3,
+        "H": 2.05,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 1.87,
+        "H": 3.8,
+        "D": 4
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 3.9,
+        "H": 1.9,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 2.65,
+        "H": 2.55,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 3.5,
+        "H": 2.05,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 5.75,
+        "H": 1.53,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 3.6,
+        "H": 2.05,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 5.75,
+        "H": 1.57,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 2.2,
+        "H": 3.1,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "Bayern München",
+      "O": {
+        "A": 6.5,
+        "H": 1.42,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 6.5,
+        "H": 1.42,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 3.5,
+        "H": 2.05,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 2.75,
+        "H": 2.5,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 2.5,
+        "H": 2.75,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 10,
+        "H": 1.28,
+        "D": 6
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "Union Berlin",
+      "O": {
+        "A": 1.87,
+        "H": 3.9,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 1.85,
+        "H": 4,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 1.2,
+        "H": 12,
+        "D": 7.25
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 2.4,
+        "H": 2.95,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "Bayern München",
+      "O": {
+        "A": 29,
+        "H": 1.06,
+        "D": 14
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 3.9,
+        "H": 1.91,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 2.95,
+        "H": 2.35,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 5.25,
+        "H": 1.62,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 1.42,
+        "H": 6.5,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 1.8,
+        "H": 4.2,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 7,
+        "H": 1.45,
+        "D": 4.6
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 4.5,
+        "H": 1.78,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 4.1,
+        "H": 1.91,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 3,
+        "H": 2.4,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 2,
+        "H": 3.6,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 12.5,
+        "H": 1.22,
+        "D": 6.75
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 1.4,
+        "H": 6.5,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 4.2,
+        "H": 1.8,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 3.1,
+        "H": 2.25,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "Union Berlin",
+      "O": {
+        "A": 2.65,
+        "H": 2.75,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 6.5,
+        "H": 1.48,
+        "D": 4.6
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 2.05,
+        "H": 3.3,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 2.95,
+        "H": 2.35,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 3.25,
+        "H": 2.2,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 4.75,
+        "H": 1.65,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 3.25,
+        "H": 2.25,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 1.9,
+        "H": 3.9,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 2.1,
+        "H": 3.2,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "Bayern München",
+      "O": {
+        "A": 21,
+        "H": 1.11,
+        "D": 10
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 3.75,
+        "H": 1.91,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 4.4,
+        "H": 1.72,
+        "D": 4.1
+      }
+    }
+  ],
+  "IW": [
+    {
+      "A": "Hertha BSC",
+      "H": "Bayern München",
+      "O": {
+        "A": 11,
+        "H": 1.25,
+        "D": 6.1
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 11,
+        "H": 1.25,
+        "D": 6.1
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 3.35,
+        "H": 2.15,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 10.5,
+        "H": 1.27,
+        "D": 5.8
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 4.7,
+        "H": 1.7,
+        "D": 4
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 3.85,
+        "H": 1.9,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 3.65,
+        "H": 2.05,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 2.9,
+        "H": 2.3,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "Union Berlin",
+      "O": {
+        "A": 1.7,
+        "H": 4.65,
+        "D": 4
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 1.5,
+        "H": 6.5,
+        "D": 4.3
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 3.25,
+        "H": 2.2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 1.7,
+        "H": 4.35,
+        "D": 4.25
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 3.75,
+        "H": 1.87,
+        "D": 4
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 2.45,
+        "H": 2.85,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 2.7,
+        "H": 2.6,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 1.5,
+        "H": 6.5,
+        "D": 4.3
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 5.9,
+        "H": 1.5,
+        "D": 4.7
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 2.75,
+        "H": 2.5,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 2.1,
+        "H": 3.4,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "Bayern München",
+      "O": {
+        "A": 20,
+        "H": 1.12,
+        "D": 9
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 2.8,
+        "H": 2.45,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 5,
+        "H": 1.57,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 3.45,
+        "H": 2.1,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 6.5,
+        "H": 1.45,
+        "D": 4.8
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "Union Berlin",
+      "O": {
+        "A": 1.3,
+        "H": 9.1,
+        "D": 5.7
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 4.55,
+        "H": 1.7,
+        "D": 4.15
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 4.5,
+        "H": 1.7,
+        "D": 4.15
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 2.3,
+        "H": 3.05,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 2.1,
+        "H": 3.4,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 4.2,
+        "H": 1.75,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 2.6,
+        "H": 2.6,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 2.9,
+        "H": 2.4,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "Union Berlin",
+      "O": {
+        "A": 2.5,
+        "H": 2.75,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 2,
+        "H": 3.5,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 4.7,
+        "H": 1.7,
+        "D": 4
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 2.2,
+        "H": 3.2,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 4.9,
+        "H": 1.67,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "Bayern München",
+      "O": {
+        "A": 18.5,
+        "H": 1.12,
+        "D": 9.3
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 3.7,
+        "H": 2,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 4.1,
+        "H": 1.8,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 8,
+        "H": 1.35,
+        "D": 5.3
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 1.75,
+        "H": 4.2,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 4.55,
+        "H": 1.67,
+        "D": 4.15
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 1.75,
+        "H": 4.2,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 3.6,
+        "H": 1.93,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "Union Berlin",
+      "O": {
+        "A": 2.3,
+        "H": 3,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 1.63,
+        "H": 4.55,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 2.6,
+        "H": 2.6,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 2.35,
+        "H": 2.9,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 1.15,
+        "H": 15.5,
+        "D": 9
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 5.3,
+        "H": 1.57,
+        "D": 4.45
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 10,
+        "H": 1.27,
+        "D": 6
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 2.75,
+        "H": 2.45,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 3.2,
+        "H": 2.1,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 4.4,
+        "H": 1.8,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "Bayern München",
+      "O": {
+        "A": 20,
+        "H": 1.11,
+        "D": 10
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 1.65,
+        "H": 4.8,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 2.6,
+        "H": 2.5,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 2.6,
+        "H": 2.6,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 5.3,
+        "H": 1.6,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 5.5,
+        "H": 1.55,
+        "D": 4.55
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 5,
+        "H": 1.67,
+        "D": 3.95
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 3,
+        "H": 2.2,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 2.4,
+        "H": 2.8,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 1.2,
+        "H": 13,
+        "D": 7
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 2.65,
+        "H": 2.6,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 5.6,
+        "H": 1.57,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "Union Berlin",
+      "O": {
+        "A": 2.75,
+        "H": 2.6,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 3.15,
+        "H": 2.15,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 5.6,
+        "H": 1.57,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 4.3,
+        "H": 1.75,
+        "D": 4
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 2.5,
+        "H": 2.7,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 2.7,
+        "H": 2.6,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "Bayern München",
+      "O": {
+        "A": 20,
+        "H": 1.12,
+        "D": 9
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 1.9,
+        "H": 3.9,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 3.35,
+        "H": 2.1,
+        "D": 3.65
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 2.7,
+        "H": 2.35,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 2.25,
+        "H": 3.05,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 4.9,
+        "H": 1.63,
+        "D": 4.3
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 5.5,
+        "H": 1.6,
+        "D": 4.15
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 3.75,
+        "H": 1.9,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 6.5,
+        "H": 1.45,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 5.9,
+        "H": 1.55,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 1.5,
+        "H": 6,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 3.5,
+        "H": 1.97,
+        "D": 3.85
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 8,
+        "H": 1.37,
+        "D": 5
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 3.4,
+        "H": 2.1,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "Union Berlin",
+      "O": {
+        "A": 2.55,
+        "H": 2.8,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 2.45,
+        "H": 2.7,
+        "D": 3.65
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 1.95,
+        "H": 3.7,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 2.6,
+        "H": 2.6,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 1.85,
+        "H": 4,
+        "D": 3.85
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 3.3,
+        "H": 2.2,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 2.7,
+        "H": 2.5,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 6.1,
+        "H": 1.53,
+        "D": 4.3
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "Bayern München",
+      "O": {
+        "A": 4.4,
+        "H": 1.7,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 4.4,
+        "H": 1.73,
+        "D": 4.15
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 2.3,
+        "H": 3,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 2.5,
+        "H": 2.7,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 14,
+        "H": 1.17,
+        "D": 8
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 3.55,
+        "H": 2,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 1.22,
+        "H": 12.5,
+        "D": 6.5
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 6,
+        "H": 1.5,
+        "D": 4.55
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "Union Berlin",
+      "O": {
+        "A": 2.1,
+        "H": 3.35,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 2.75,
+        "H": 2.45,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 8,
+        "H": 1.35,
+        "D": 5.3
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 2.6,
+        "H": 2.6,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 4.7,
+        "H": 1.67,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 5,
+        "H": 1.7,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 3.6,
+        "H": 2,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 1.85,
+        "H": 4.1,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 4.65,
+        "H": 1.7,
+        "D": 3.95
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 1.37,
+        "H": 7.5,
+        "D": 5.3
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "Bayern München",
+      "O": {
+        "A": 8.7,
+        "H": 1.3,
+        "D": 6
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 5.5,
+        "H": 1.57,
+        "D": 4.4
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 3.15,
+        "H": 2.2,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 2.4,
+        "H": 2.8,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 4,
+        "H": 1.85,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 3,
+        "H": 2.25,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 9.6,
+        "H": 1.3,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 2.45,
+        "H": 2.9,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 1.65,
+        "H": 4.6,
+        "D": 4.3
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 5.9,
+        "H": 1.5,
+        "D": 4.6
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 3.8,
+        "H": 1.95,
+        "D": 3.65
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "Union Berlin",
+      "O": {
+        "A": 3.3,
+        "H": 2.15,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 5.3,
+        "H": 1.55,
+        "D": 4.7
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 4.05,
+        "H": 1.85,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "Bayern München",
+      "O": {
+        "A": 15.5,
+        "H": 1.15,
+        "D": 8.2
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 1.83,
+        "H": 4.05,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 3.6,
+        "H": 2,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 1.65,
+        "H": 4.8,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 2.4,
+        "H": 2.8,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 1.45,
+        "H": 6.6,
+        "D": 4.7
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 2.65,
+        "H": 2.6,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 3.6,
+        "H": 1.95,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 3.9,
+        "H": 1.85,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 4.6,
+        "H": 1.7,
+        "D": 4
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 3,
+        "H": 2.2,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "Union Berlin",
+      "O": {
+        "A": 2.85,
+        "H": 2.45,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 5.3,
+        "H": 1.6,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 4.2,
+        "H": 1.8,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 1.25,
+        "H": 11,
+        "D": 6.1
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 8.3,
+        "H": 1.33,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 3.05,
+        "H": 2.35,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 1.85,
+        "H": 4,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "Bayern München",
+      "O": {
+        "A": 12,
+        "H": 1.2,
+        "D": 7.4
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 3.6,
+        "H": 2,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 1.9,
+        "H": 3.65,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 8.5,
+        "H": 1.3,
+        "D": 6
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 5,
+        "H": 1.7,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 2.35,
+        "H": 2.9,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 2.6,
+        "H": 2.75,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 2.2,
+        "H": 3.05,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 2.55,
+        "H": 2.65,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 1.67,
+        "H": 4.6,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 2.7,
+        "H": 2.6,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 2.5,
+        "H": 2.7,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 2.8,
+        "H": 2.35,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 3.05,
+        "H": 2.3,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 8.5,
+        "H": 1.33,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 1.4,
+        "H": 7.2,
+        "D": 5
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 1.7,
+        "H": 4.4,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 9,
+        "H": 1.3,
+        "D": 5.8
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 1.77,
+        "H": 4,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 4.2,
+        "H": 1.8,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 5.6,
+        "H": 1.55,
+        "D": 4.4
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "Union Berlin",
+      "O": {
+        "A": 3.45,
+        "H": 2.1,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 4.5,
+        "H": 1.8,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "Bayern München",
+      "O": {
+        "A": 11,
+        "H": 1.25,
+        "D": 6.1
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 2.75,
+        "H": 2.4,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 7.2,
+        "H": 1.4,
+        "D": 5
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 2.6,
+        "H": 2.75,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 3.35,
+        "H": 2.05,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 10,
+        "H": 1.27,
+        "D": 6
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 2.05,
+        "H": 3.35,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 2.1,
+        "H": 3.25,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 1.2,
+        "H": 13,
+        "D": 7
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 4.9,
+        "H": 1.6,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 3.45,
+        "H": 2.05,
+        "D": 3.65
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 2,
+        "H": 3.45,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 3.9,
+        "H": 1.9,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 2.65,
+        "H": 2.55,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 3.45,
+        "H": 2.05,
+        "D": 3.65
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 5.8,
+        "H": 1.5,
+        "D": 4.55
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 3.45,
+        "H": 2.1,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 5.9,
+        "H": 1.55,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 2.2,
+        "H": 3.05,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "Bayern München",
+      "O": {
+        "A": 6.5,
+        "H": 1.45,
+        "D": 4.8
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 6.5,
+        "H": 1.45,
+        "D": 4.8
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 3.5,
+        "H": 2.05,
+        "D": 3.65
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 2.8,
+        "H": 2.45,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 2.5,
+        "H": 2.7,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 8.5,
+        "H": 1.3,
+        "D": 6
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "Union Berlin",
+      "O": {
+        "A": 1.95,
+        "H": 3.75,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 1.85,
+        "H": 4,
+        "D": 3.85
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 1.25,
+        "H": 11,
+        "D": 6.1
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 2.45,
+        "H": 2.8,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "Bayern München",
+      "O": {
+        "A": 25,
+        "H": 1.07,
+        "D": 13
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 3.7,
+        "H": 2,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 2.9,
+        "H": 2.4,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 4.75,
+        "H": 1.65,
+        "D": 4.3
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "Werder Bremen",
+      "O": {
+        "A": 1.45,
+        "H": 6,
+        "D": 5
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 1.8,
+        "H": 4.15,
+        "D": 3.95
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 6.1,
+        "H": 1.48,
+        "D": 4.7
+      }
+    },
+    {
+      "A": "1. FSV Mainz 05",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 4.3,
+        "H": 1.8,
+        "D": 3.85
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "Eintracht Frankfurt",
+      "O": {
+        "A": 3.9,
+        "H": 1.9,
+        "D": 3.65
+      }
+    },
+    {
+      "A": "Hertha BSC",
+      "H": "Fortuna Düsseldorf",
+      "O": {
+        "A": 3,
+        "H": 2.4,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Bor. Mönchengladbach",
+      "H": "FC Augsburg",
+      "O": {
+        "A": 2,
+        "H": 3.45,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "SC Freiburg",
+      "H": "Borussia Dortmund",
+      "O": {
+        "A": 11,
+        "H": 1.25,
+        "D": 6.1
+      }
+    },
+    {
+      "A": "Bayern München",
+      "H": "TSG 1899 Hoffenheim",
+      "O": {
+        "A": 1.4,
+        "H": 6.5,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "SC Paderborn 07",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 3.75,
+        "H": 1.9,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "FC Schalke 04",
+      "H": "1. FC Köln",
+      "O": {
+        "A": 3.2,
+        "H": 2.2,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "VfL Wolfsburg",
+      "H": "Union Berlin",
+      "O": {
+        "A": 2.75,
+        "H": 2.65,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Bayer 04 Leverkusen",
+      "H": "RB Leipzig",
+      "O": {
+        "A": 5.7,
+        "H": 1.5,
+        "D": 4.85
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "SC Paderborn 07",
+      "O": {
+        "A": 2.1,
+        "H": 3.15,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Union Berlin",
+      "H": "SC Freiburg",
+      "O": {
+        "A": 3.05,
+        "H": 2.3,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Werder Bremen",
+      "H": "Hertha BSC",
+      "O": {
+        "A": 3.35,
+        "H": 2.15,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "Eintracht Frankfurt",
+      "H": "Bayer 04 Leverkusen",
+      "O": {
+        "A": 4.7,
+        "H": 1.67,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "TSG 1899 Hoffenheim",
+      "H": "FC Schalke 04",
+      "O": {
+        "A": 3,
+        "H": 2.25,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "RB Leipzig",
+      "H": "VfL Wolfsburg",
+      "O": {
+        "A": 1.93,
+        "H": 3.75,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Borussia Dortmund",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 2.2,
+        "H": 3,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "FC Augsburg",
+      "H": "Bayern München",
+      "O": {
+        "A": 20,
+        "H": 1.12,
+        "D": 9
+      }
+    },
+    {
+      "A": "Fortuna Düsseldorf",
+      "H": "1. FSV Mainz 05",
+      "O": {
+        "A": 3.85,
+        "H": 1.87,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "1. FC Köln",
+      "H": "Bor. Mönchengladbach",
+      "O": {
+        "A": 4.05,
+        "H": 1.8,
+        "D": 4.05
+      }
+    }
+  ]
+}
