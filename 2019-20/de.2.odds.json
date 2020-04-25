@@ -1,0 +1,6083 @@
+{
+  "B365": [
+    {
+      "A": "Hannover 96",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 4.33,
+        "H": 1.75,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.37,
+        "H": 3,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 3.5,
+        "H": 2,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 2.9,
+        "H": 2.4,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 5.25,
+        "H": 1.7,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 3.3,
+        "H": 2.2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 3,
+        "H": 2.3,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 3,
+        "H": 2.37,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 3.25,
+        "H": 2.15,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 2.4,
+        "H": 2.8,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 3.75,
+        "H": 2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 3.6,
+        "H": 2,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 3.3,
+        "H": 2.1,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "Hannover 96",
+      "O": {
+        "A": 3.6,
+        "H": 1.95,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 2,
+        "H": 3.5,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 2.7,
+        "H": 2.5,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 3.3,
+        "H": 2.2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 2.8,
+        "H": 2.45,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 7.5,
+        "H": 1.45,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 2.7,
+        "H": 2.6,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 5.5,
+        "H": 1.66,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 8,
+        "H": 1.45,
+        "D": 4
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 2.37,
+        "H": 2.87,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.7,
+        "H": 2.62,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 2.8,
+        "H": 2.4,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 3.4,
+        "H": 2.05,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 2.87,
+        "H": 2.45,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 2.87,
+        "H": 2.4,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 1.72,
+        "H": 4.33,
+        "D": 4
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 3.75,
+        "H": 2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "Hannover 96",
+      "O": {
+        "A": 4.33,
+        "H": 1.75,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 2.55,
+        "H": 2.7,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 3.2,
+        "H": 2.15,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 2.2,
+        "H": 3.3,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 3.25,
+        "H": 2.1,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 2.25,
+        "H": 3,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 3.5,
+        "H": 2.1,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 4.2,
+        "H": 1.85,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 5,
+        "H": 1.65,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 3.75,
+        "H": 2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 3,
+        "H": 2.3,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 4.75,
+        "H": 1.7,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 4.75,
+        "H": 1.61,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 3.1,
+        "H": 2.3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 6,
+        "H": 1.5,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 3.75,
+        "H": 1.9,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 2.75,
+        "H": 2.4,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "Hannover 96",
+      "O": {
+        "A": 3,
+        "H": 2.25,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 2.9,
+        "H": 2.25,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 1.95,
+        "H": 3.5,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 3.1,
+        "H": 2.15,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 2.4,
+        "H": 2.8,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 2.6,
+        "H": 2.6,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 1.83,
+        "H": 3.75,
+        "D": 4
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 3.75,
+        "H": 1.85,
+        "D": 4
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 3.3,
+        "H": 2.1,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 4,
+        "H": 1.95,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 3.75,
+        "H": 2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 6,
+        "H": 1.5,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 1.9,
+        "H": 4,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.9,
+        "H": 2.3,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 8,
+        "H": 1.4,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 3.2,
+        "H": 2.2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 2.4,
+        "H": 2.8,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 2.2,
+        "H": 3,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 3.5,
+        "H": 1.95,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 3.2,
+        "H": 2.2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 1.85,
+        "H": 3.6,
+        "D": 4
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 2.7,
+        "H": 2.37,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 2.87,
+        "H": 2.2,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 2.8,
+        "H": 2.4,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "Hannover 96",
+      "O": {
+        "A": 3.1,
+        "H": 2.2,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 2.8,
+        "H": 2.4,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 7.5,
+        "H": 1.33,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.7,
+        "H": 2.4,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 7,
+        "H": 1.4,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 3.5,
+        "H": 2,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 3.1,
+        "H": 2.15,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 3.5,
+        "H": 1.95,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 3.5,
+        "H": 2,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 2.3,
+        "H": 2.87,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 2.45,
+        "H": 2.7,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 3,
+        "H": 2.2,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 2.9,
+        "H": 2.2,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 3.75,
+        "H": 1.95,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 2.2,
+        "H": 2.9,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 3.6,
+        "H": 2,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "Hannover 96",
+      "O": {
+        "A": 4.5,
+        "H": 1.75,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 4.5,
+        "H": 1.61,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 2.37,
+        "H": 2.62,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 3.2,
+        "H": 2.2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 3.6,
+        "H": 1.9,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.05,
+        "H": 3.6,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 3.6,
+        "H": 2,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 2.5,
+        "H": 2.8,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 3.3,
+        "H": 2.15,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 3.75,
+        "H": 1.9,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 3.2,
+        "H": 2.25,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 4.1,
+        "H": 1.83,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "Hannover 96",
+      "O": {
+        "A": 3.8,
+        "H": 1.9,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 3.2,
+        "H": 2.15,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 3,
+        "H": 2.4,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 3.4,
+        "H": 2.1,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 3.5,
+        "H": 2.05,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 4,
+        "H": 1.85,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 7,
+        "H": 1.45,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 1.6,
+        "H": 5.75,
+        "D": 4
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 2.55,
+        "H": 2.62,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 3.5,
+        "H": 2,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 4,
+        "H": 1.85,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 2,
+        "H": 3.75,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 1.8,
+        "H": 4.5,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 3.1,
+        "H": 2.25,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 3.1,
+        "H": 2.3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 3,
+        "H": 2.4,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 2.3,
+        "H": 2.75,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 3.75,
+        "H": 2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 4,
+        "H": 1.9,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 2.55,
+        "H": 2.7,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 5,
+        "H": 1.66,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 8,
+        "H": 1.33,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 2,
+        "H": 3.4,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 2.5,
+        "H": 2.7,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 2.87,
+        "H": 2.37,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 6,
+        "H": 1.5,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "Hannover 96",
+      "O": {
+        "A": 3.75,
+        "H": 1.9,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 3.1,
+        "H": 2.15,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 1.65,
+        "H": 5.25,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 3.6,
+        "H": 1.85,
+        "D": 4
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.05,
+        "H": 3.6,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 5.25,
+        "H": 1.65,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 2.7,
+        "H": 2.5,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 1.95,
+        "H": 3.6,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 3.4,
+        "H": 2.05,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 1.95,
+        "H": 3.6,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 5,
+        "H": 1.6,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 5.75,
+        "H": 1.55,
+        "D": 4
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 2.7,
+        "H": 2.5,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "Hannover 96",
+      "O": {
+        "A": 4.5,
+        "H": 1.72,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 4.33,
+        "H": 1.75,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.62,
+        "H": 2.55,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 2.75,
+        "H": 2.37,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 2.45,
+        "H": 2.8,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 4.75,
+        "H": 1.66,
+        "D": 4
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 2.7,
+        "H": 2.45,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 2.62,
+        "H": 2.62,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 2.3,
+        "H": 2.8,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 3.5,
+        "H": 2,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 4,
+        "H": 1.8,
+        "D": 4
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 2.87,
+        "H": 2.3,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 3.6,
+        "H": 2,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 1.9,
+        "H": 3.75,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 1.75,
+        "H": 4.75,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 4.2,
+        "H": 1.75,
+        "D": 4
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 4.75,
+        "H": 1.61,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 1.75,
+        "H": 4.5,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 2.7,
+        "H": 2.6,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "Hannover 96",
+      "O": {
+        "A": 2.1,
+        "H": 3.25,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 2.2,
+        "H": 3.2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 3.1,
+        "H": 2.2,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 3.4,
+        "H": 2.1,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 2.7,
+        "H": 2.5,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 4.5,
+        "H": 1.72,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 2.8,
+        "H": 2.4,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 2.62,
+        "H": 2.62,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 2.8,
+        "H": 2.5,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 5.75,
+        "H": 1.55,
+        "D": 4
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.7,
+        "H": 2.5,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 4.2,
+        "H": 1.8,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 3,
+        "H": 2.37,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 6,
+        "H": 1.5,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 1.95,
+        "H": 3.75,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 3.4,
+        "H": 2.05,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "Hannover 96",
+      "O": {
+        "A": 5.75,
+        "H": 1.55,
+        "D": 4
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 2.25,
+        "H": 3,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 1.9,
+        "H": 4,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 3.1,
+        "H": 2.25,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 4.5,
+        "H": 1.7,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 3.5,
+        "H": 2.1,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 2,
+        "H": 3.6,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 3.25,
+        "H": 2.2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 3,
+        "H": 2.37,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 11,
+        "H": 1.28,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 2.87,
+        "H": 2.37,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 9,
+        "H": 1.33,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 4.75,
+        "H": 1.66,
+        "D": 4
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 2.75,
+        "H": 2.55,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 2.3,
+        "H": 2.9,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 4,
+        "H": 1.9,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 3,
+        "H": 2.2,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 4.2,
+        "H": 1.83,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 2.15,
+        "H": 3.3,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "Hannover 96",
+      "O": {
+        "A": 1.75,
+        "H": 4.5,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 3.6,
+        "H": 2,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 3,
+        "H": 2.37,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 2.2,
+        "H": 3.3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 2.8,
+        "H": 2.37,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 1.83,
+        "H": 4.2,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 3.6,
+        "H": 2,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 2.75,
+        "H": 2.45,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.75,
+        "H": 2.45,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 7,
+        "H": 1.44,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 3.8,
+        "H": 1.9,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 8.5,
+        "H": 1.33,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 4,
+        "H": 1.85,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 4,
+        "H": 1.85,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 3.8,
+        "H": 1.9,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 2.55,
+        "H": 2.75,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 3.8,
+        "H": 1.9,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 3.1,
+        "H": 2.37,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 1.65,
+        "H": 4.33,
+        "D": 4
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 1.75,
+        "H": 4.33,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 5.5,
+        "H": 1.53,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 3.3,
+        "H": 2.15,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 3.6,
+        "H": 2,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "Hannover 96",
+      "O": {
+        "A": 2.8,
+        "H": 2.3,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 3,
+        "H": 2.37,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 3.5,
+        "H": 2,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 3.4,
+        "H": 2.15,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 7.5,
+        "H": 1.4,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 3.8,
+        "H": 1.95,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.9,
+        "H": 2.5,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 4.33,
+        "H": 1.83,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 2.9,
+        "H": 2.4,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 4.33,
+        "H": 1.75,
+        "D": 3.8
+      }
+    }
+  ],
+  "BW": [
+    {
+      "A": "Hannover 96",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 4.5,
+        "H": 1.72,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.5,
+        "H": 2.75,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 3.5,
+        "H": 2,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 2.75,
+        "H": 2.55,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 5,
+        "H": 1.72,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 3.3,
+        "H": 2.15,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 2.9,
+        "H": 2.35,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 2.75,
+        "H": 2.4,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 3.1,
+        "H": 2.25,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 2.55,
+        "H": 2.65,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 3.6,
+        "H": 2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 3.4,
+        "H": 2.1,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 3.6,
+        "H": 2.05,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "Hannover 96",
+      "O": {
+        "A": 3.9,
+        "H": 1.87,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 2.1,
+        "H": 3.4,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 2.85,
+        "H": 2.4,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 3.5,
+        "H": 2.1,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 2.75,
+        "H": 2.4,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 6.25,
+        "H": 1.5,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 2.65,
+        "H": 2.65,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 4.75,
+        "H": 1.72,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 6.5,
+        "H": 1.48,
+        "D": 4.4
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 2.4,
+        "H": 2.9,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.6,
+        "H": 2.7,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 2.75,
+        "H": 2.55,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 3.5,
+        "H": 2.05,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 2.9,
+        "H": 2.4,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 3,
+        "H": 2.3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 1.72,
+        "H": 4.4,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 3.7,
+        "H": 2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "Hannover 96",
+      "O": {
+        "A": 4.33,
+        "H": 1.75,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 2.4,
+        "H": 2.8,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 3.3,
+        "H": 2.1,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 2.2,
+        "H": 3.1,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 3.25,
+        "H": 2.15,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 2.35,
+        "H": 2.9,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 3.3,
+        "H": 2.15,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 3.9,
+        "H": 1.95,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 4.5,
+        "H": 1.7,
+        "D": 4
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 3.5,
+        "H": 2.05,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 2.8,
+        "H": 2.45,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 4.5,
+        "H": 1.75,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 5,
+        "H": 1.62,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 3,
+        "H": 2.35,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 6.25,
+        "H": 1.5,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 3.8,
+        "H": 1.95,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 2.75,
+        "H": 2.55,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "Hannover 96",
+      "O": {
+        "A": 2.95,
+        "H": 2.35,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 2.8,
+        "H": 2.4,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 2,
+        "H": 3.4,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 3.1,
+        "H": 2.25,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 2.5,
+        "H": 2.8,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 2.65,
+        "H": 2.65,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 1.83,
+        "H": 3.75,
+        "D": 4
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 4,
+        "H": 1.8,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 2.95,
+        "H": 2.2,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 3.8,
+        "H": 1.95,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 3.7,
+        "H": 2.05,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 6.25,
+        "H": 1.5,
+        "D": 4.2
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 1.9,
+        "H": 3.7,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.95,
+        "H": 2.25,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 7.25,
+        "H": 1.42,
+        "D": 4.6
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 3.2,
+        "H": 2.15,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 2.5,
+        "H": 2.7,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 2.3,
+        "H": 2.8,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 3.7,
+        "H": 2,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 3.1,
+        "H": 2.25,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 1.9,
+        "H": 3.7,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 2.7,
+        "H": 2.5,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 2.8,
+        "H": 2.35,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 2.9,
+        "H": 2.35,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "Hannover 96",
+      "O": {
+        "A": 2.95,
+        "H": 2.3,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 2.75,
+        "H": 2.5,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 8,
+        "H": 1.33,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.65,
+        "H": 2.55,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 7.25,
+        "H": 1.4,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 3.6,
+        "H": 2,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 3.4,
+        "H": 2.1,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 3.6,
+        "H": 1.9,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 3.5,
+        "H": 2,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 2.5,
+        "H": 2.65,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 2.4,
+        "H": 2.8,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 3,
+        "H": 2.3,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 3.1,
+        "H": 2.2,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 3.9,
+        "H": 1.91,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 2.3,
+        "H": 2.95,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 3.7,
+        "H": 2,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "Hannover 96",
+      "O": {
+        "A": 4.5,
+        "H": 1.75,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 5,
+        "H": 1.65,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 2.4,
+        "H": 2.8,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 3.4,
+        "H": 2.2,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 3.5,
+        "H": 2,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.15,
+        "H": 3.4,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 3.7,
+        "H": 2,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 2.6,
+        "H": 2.65,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 3.3,
+        "H": 2.1,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 3.75,
+        "H": 1.95,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 3.2,
+        "H": 2.3,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 3.9,
+        "H": 1.9,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "Hannover 96",
+      "O": {
+        "A": 3.9,
+        "H": 1.95,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 3.3,
+        "H": 2.1,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 2.95,
+        "H": 2.4,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 3.6,
+        "H": 2.05,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 3.3,
+        "H": 2.1,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 3.8,
+        "H": 1.85,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 6,
+        "H": 1.5,
+        "D": 4.33
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 1.65,
+        "H": 4.75,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 2.55,
+        "H": 2.75,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 3.3,
+        "H": 2.05,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 3.7,
+        "H": 1.95,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 2,
+        "H": 3.6,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 1.87,
+        "H": 3.9,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 3.25,
+        "H": 2.25,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 3.1,
+        "H": 2.25,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 2.75,
+        "H": 2.6,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 2.3,
+        "H": 2.95,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 3.5,
+        "H": 2.15,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 3.7,
+        "H": 1.95,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 2.7,
+        "H": 2.5,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 4.75,
+        "H": 1.67,
+        "D": 4
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 8.25,
+        "H": 1.34,
+        "D": 5.25
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 2.15,
+        "H": 3.2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 2.5,
+        "H": 2.85,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 2.75,
+        "H": 2.5,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 5.75,
+        "H": 1.53,
+        "D": 4.25
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "Hannover 96",
+      "O": {
+        "A": 3.8,
+        "H": 1.91,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 3,
+        "H": 2.25,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 1.67,
+        "H": 5,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 3.6,
+        "H": 1.91,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.15,
+        "H": 3.3,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 5,
+        "H": 1.7,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 2.8,
+        "H": 2.5,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 2.05,
+        "H": 3.4,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 3.4,
+        "H": 2.05,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 2,
+        "H": 3.7,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 5,
+        "H": 1.65,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 6,
+        "H": 1.55,
+        "D": 4
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 2.7,
+        "H": 2.45,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "Hannover 96",
+      "O": {
+        "A": 4.2,
+        "H": 1.8,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 4.25,
+        "H": 1.8,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.7,
+        "H": 2.55,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 2.95,
+        "H": 2.4,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 2.45,
+        "H": 2.9,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 4.75,
+        "H": 1.72,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 2.9,
+        "H": 2.45,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 2.55,
+        "H": 2.6,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 2.35,
+        "H": 2.85,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 3.5,
+        "H": 2.05,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 4.4,
+        "H": 1.8,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 2.75,
+        "H": 2.4,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 4,
+        "H": 1.95,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 1.9,
+        "H": 4,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 1.83,
+        "H": 4.1,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 4.25,
+        "H": 1.75,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 4.75,
+        "H": 1.67,
+        "D": 4
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 1.8,
+        "H": 4.4,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 2.85,
+        "H": 2.4,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "Hannover 96",
+      "O": {
+        "A": 2.15,
+        "H": 3.25,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 2.3,
+        "H": 3.1,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 3.25,
+        "H": 2.15,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 3.6,
+        "H": 2.1,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 2.7,
+        "H": 2.5,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 4.33,
+        "H": 1.78,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 2.8,
+        "H": 2.45,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 2.55,
+        "H": 2.6,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 2.85,
+        "H": 2.5,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 5.25,
+        "H": 1.6,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.7,
+        "H": 2.6,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 4.1,
+        "H": 1.85,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 3,
+        "H": 2.45,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 6,
+        "H": 1.53,
+        "D": 4.25
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 1.91,
+        "H": 3.8,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 3.3,
+        "H": 2.1,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "Hannover 96",
+      "O": {
+        "A": 5,
+        "H": 1.7,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 2.45,
+        "H": 2.75,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 1.95,
+        "H": 3.7,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 3.2,
+        "H": 2.3,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 4.75,
+        "H": 1.75,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 3.5,
+        "H": 2.1,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 2,
+        "H": 3.7,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 3.25,
+        "H": 2.25,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 3.2,
+        "H": 2.35,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 9.5,
+        "H": 1.3,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 3,
+        "H": 2.4,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 8.75,
+        "H": 1.36,
+        "D": 4.75
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 5,
+        "H": 1.7,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 2.8,
+        "H": 2.65,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 2.5,
+        "H": 2.85,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 3.75,
+        "H": 1.91,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 3,
+        "H": 2.35,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 4.25,
+        "H": 1.85,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 2.15,
+        "H": 3.4,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "Hannover 96",
+      "O": {
+        "A": 1.83,
+        "H": 4,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 3.5,
+        "H": 2.1,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 3,
+        "H": 2.5,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 2.3,
+        "H": 3.1,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 3,
+        "H": 2.4,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 1.91,
+        "H": 3.8,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 3.5,
+        "H": 2.1,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 2.7,
+        "H": 2.6,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.85,
+        "H": 2.55,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 7.25,
+        "H": 1.42,
+        "D": 4.6
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 3.8,
+        "H": 1.91,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 8.5,
+        "H": 1.35,
+        "D": 5
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 4.1,
+        "H": 1.85,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 4.33,
+        "H": 1.87,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 4,
+        "H": 2,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 2.6,
+        "H": 2.8,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 3.8,
+        "H": 1.95,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 2.95,
+        "H": 2.45,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 1.67,
+        "H": 4.75,
+        "D": 4
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 1.75,
+        "H": 4.33,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 6,
+        "H": 1.53,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 3.2,
+        "H": 2.2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 3.6,
+        "H": 2.05,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "Hannover 96",
+      "O": {
+        "A": 2.7,
+        "H": 2.55,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 3,
+        "H": 2.45,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 3.7,
+        "H": 2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 3.1,
+        "H": 2.35,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 7.75,
+        "H": 1.4,
+        "D": 4.6
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 3.9,
+        "H": 2,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.95,
+        "H": 2.5,
+        "D": 3.1
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 4.2,
+        "H": 1.87,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 3,
+        "H": 2.4,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 4.25,
+        "H": 1.83,
+        "D": 3.6
+      }
+    }
+  ],
+  "IW": [
+    {
+      "A": "Hannover 96",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 4.3,
+        "H": 1.8,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.4,
+        "H": 2.85,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 3.35,
+        "H": 2.05,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 2.8,
+        "H": 2.5,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 4.8,
+        "H": 1.73,
+        "D": 3.65
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 3.3,
+        "H": 2.15,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 2.85,
+        "H": 2.3,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 2.9,
+        "H": 2.35,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 3.1,
+        "H": 2.2,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 2.6,
+        "H": 2.6,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 3.4,
+        "H": 2.1,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 3.25,
+        "H": 2.15,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 3.4,
+        "H": 2.1,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "Hannover 96",
+      "O": {
+        "A": 3.65,
+        "H": 1.95,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 2.1,
+        "H": 3.45,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 2.7,
+        "H": 2.45,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 3.35,
+        "H": 2.2,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 2.7,
+        "H": 2.5,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 6.3,
+        "H": 1.47,
+        "D": 4.4
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 2.7,
+        "H": 2.65,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 4.75,
+        "H": 1.7,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 6.1,
+        "H": 1.48,
+        "D": 4.45
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 2.35,
+        "H": 2.85,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.55,
+        "H": 2.7,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 2.65,
+        "H": 2.55,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 3.2,
+        "H": 2.1,
+        "D": 3.65
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 2.9,
+        "H": 2.4,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 2.85,
+        "H": 2.4,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 1.77,
+        "H": 4.15,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 3.35,
+        "H": 2.05,
+        "D": 3.65
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "Hannover 96",
+      "O": {
+        "A": 4.35,
+        "H": 1.75,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 2.45,
+        "H": 2.65,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 3.3,
+        "H": 2.1,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 2.2,
+        "H": 3.15,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 3.3,
+        "H": 2.15,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 2.3,
+        "H": 2.85,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 3.3,
+        "H": 2.1,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 3.95,
+        "H": 1.9,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 4.5,
+        "H": 1.7,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 3.45,
+        "H": 2.05,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 2.8,
+        "H": 2.35,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 4.45,
+        "H": 1.73,
+        "D": 3.85
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 4.6,
+        "H": 1.65,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 2.95,
+        "H": 2.35,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 5.7,
+        "H": 1.5,
+        "D": 4.4
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 3.6,
+        "H": 1.93,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 2.7,
+        "H": 2.45,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "Hannover 96",
+      "O": {
+        "A": 2.9,
+        "H": 2.3,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 2.7,
+        "H": 2.35,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 2,
+        "H": 3.4,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 3,
+        "H": 2.2,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 2.4,
+        "H": 2.9,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 2.6,
+        "H": 2.6,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 1.8,
+        "H": 4.1,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 3.8,
+        "H": 1.9,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 3,
+        "H": 2.15,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 3.7,
+        "H": 2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 3.5,
+        "H": 2,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 5.3,
+        "H": 1.55,
+        "D": 4.3
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 2,
+        "H": 3.45,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.9,
+        "H": 2.25,
+        "D": 3.65
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 6,
+        "H": 1.5,
+        "D": 4.3
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 3.25,
+        "H": 2.1,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 2.4,
+        "H": 2.65,
+        "D": 3.65
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 2.25,
+        "H": 2.9,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 3.55,
+        "H": 1.97,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 3.05,
+        "H": 2.2,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 1.85,
+        "H": 3.7,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 2.7,
+        "H": 2.4,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 2.75,
+        "H": 2.35,
+        "D": 3.65
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 2.85,
+        "H": 2.35,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "Hannover 96",
+      "O": {
+        "A": 3,
+        "H": 2.25,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 2.75,
+        "H": 2.5,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 8.6,
+        "H": 1.3,
+        "D": 5.5
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.75,
+        "H": 2.45,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 6.5,
+        "H": 1.45,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 3.15,
+        "H": 2.2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 3.1,
+        "H": 2.15,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 3.3,
+        "H": 1.97,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 3.4,
+        "H": 2.05,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 2.4,
+        "H": 2.75,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 2.5,
+        "H": 2.65,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 2.95,
+        "H": 2.3,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 2.9,
+        "H": 2.3,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 3.75,
+        "H": 1.95,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 2.3,
+        "H": 2.85,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 3.55,
+        "H": 2,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "Hannover 96",
+      "O": {
+        "A": 4.35,
+        "H": 1.8,
+        "D": 3.65
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 4.55,
+        "H": 1.67,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 2.35,
+        "H": 2.9,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 3.15,
+        "H": 2.2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 3.5,
+        "H": 1.93,
+        "D": 3.85
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.1,
+        "H": 3.25,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 3.5,
+        "H": 2,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 2.5,
+        "H": 2.7,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 3.1,
+        "H": 2.2,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 3.65,
+        "H": 1.9,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 3.1,
+        "H": 2.25,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 3.8,
+        "H": 1.87,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "Hannover 96",
+      "O": {
+        "A": 3.75,
+        "H": 1.97,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 3.15,
+        "H": 2.2,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 2.8,
+        "H": 2.45,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 3.4,
+        "H": 2.1,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 3.25,
+        "H": 2.15,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 3.8,
+        "H": 1.83,
+        "D": 4
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 6.1,
+        "H": 1.47,
+        "D": 4.5
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 1.65,
+        "H": 4.7,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 2.5,
+        "H": 2.65,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 3.35,
+        "H": 2.05,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 3.7,
+        "H": 1.9,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 2,
+        "H": 3.45,
+        "D": 3.65
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 1.85,
+        "H": 3.9,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 3.1,
+        "H": 2.3,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 2.9,
+        "H": 2.35,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 2.8,
+        "H": 2.5,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 2.35,
+        "H": 2.9,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 3.35,
+        "H": 2.1,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 3.7,
+        "H": 2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 2.55,
+        "H": 2.65,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 4.65,
+        "H": 1.7,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 8.3,
+        "H": 1.33,
+        "D": 5.1
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 2.1,
+        "H": 3.3,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 2.5,
+        "H": 2.7,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 2.75,
+        "H": 2.45,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 5.3,
+        "H": 1.55,
+        "D": 4.3
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "Hannover 96",
+      "O": {
+        "A": 3.95,
+        "H": 1.87,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 3,
+        "H": 2.2,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 1.7,
+        "H": 4.7,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 3.75,
+        "H": 1.87,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.05,
+        "H": 3.25,
+        "D": 3.65
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 4.55,
+        "H": 1.7,
+        "D": 4
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 2.75,
+        "H": 2.5,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 2.05,
+        "H": 3.4,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 3.5,
+        "H": 2,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 2,
+        "H": 3.65,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 5,
+        "H": 1.63,
+        "D": 4
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 5.8,
+        "H": 1.55,
+        "D": 4
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 2.65,
+        "H": 2.55,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "Hannover 96",
+      "O": {
+        "A": 4.4,
+        "H": 1.8,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 4,
+        "H": 1.83,
+        "D": 3.75
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.65,
+        "H": 2.6,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 2.85,
+        "H": 2.35,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 2.5,
+        "H": 2.75,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 4.6,
+        "H": 1.7,
+        "D": 3.95
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 2.7,
+        "H": 2.5,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 2.55,
+        "H": 2.55,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 2.4,
+        "H": 2.8,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 3.5,
+        "H": 2,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 4.1,
+        "H": 1.83,
+        "D": 3.65
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 2.8,
+        "H": 2.35,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 3.65,
+        "H": 2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 1.93,
+        "H": 3.85,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 1.8,
+        "H": 4.2,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 4.2,
+        "H": 1.8,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 4.4,
+        "H": 1.75,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 1.9,
+        "H": 3.9,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 2.65,
+        "H": 2.55,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "Hannover 96",
+      "O": {
+        "A": 2.05,
+        "H": 3.35,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 2.25,
+        "H": 3.1,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 3.2,
+        "H": 2.1,
+        "D": 3.65
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 3.45,
+        "H": 2.1,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 2.65,
+        "H": 2.5,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 4.4,
+        "H": 1.75,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 2.75,
+        "H": 2.5,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 2.5,
+        "H": 2.7,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 2.7,
+        "H": 2.55,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 5.3,
+        "H": 1.57,
+        "D": 4.1
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.65,
+        "H": 2.55,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 4.05,
+        "H": 1.85,
+        "D": 3.65
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 3,
+        "H": 2.4,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 5.6,
+        "H": 1.55,
+        "D": 4.25
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 2,
+        "H": 3.7,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 3.15,
+        "H": 2.2,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "Hannover 96",
+      "O": {
+        "A": 5,
+        "H": 1.63,
+        "D": 4
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 2.3,
+        "H": 2.95,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 1.97,
+        "H": 3.65,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 3.2,
+        "H": 2.25,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 4.45,
+        "H": 1.77,
+        "D": 3.65
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 3.4,
+        "H": 2.15,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 1.97,
+        "H": 3.6,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 3.2,
+        "H": 2.3,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 3.05,
+        "H": 2.35,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 9,
+        "H": 1.3,
+        "D": 5.4
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 2.9,
+        "H": 2.4,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 7,
+        "H": 1.4,
+        "D": 4.8
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 4.6,
+        "H": 1.7,
+        "D": 3.9
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 2.65,
+        "H": 2.65,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 2.35,
+        "H": 2.9,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 3.65,
+        "H": 1.95,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 3.15,
+        "H": 2.3,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 4.2,
+        "H": 1.85,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 2.2,
+        "H": 3.3,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "Hannover 96",
+      "O": {
+        "A": 1.85,
+        "H": 3.9,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 3.3,
+        "H": 2.15,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 2.9,
+        "H": 2.45,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 2.25,
+        "H": 3.05,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 2.9,
+        "H": 2.4,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 1.9,
+        "H": 3.7,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 3.6,
+        "H": 2.05,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "SV Wehen Wiesbaden",
+      "O": {
+        "A": 2.65,
+        "H": 2.55,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.7,
+        "H": 2.55,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 6.7,
+        "H": 1.45,
+        "D": 4.45
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 3.8,
+        "H": 1.93,
+        "D": 3.55
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 7.9,
+        "H": 1.35,
+        "D": 5.2
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 4.1,
+        "H": 1.85,
+        "D": 3.6
+      }
+    },
+    {
+      "A": "SV Darmstadt 98",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 4.05,
+        "H": 1.9,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 3.75,
+        "H": 2,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "1. FC Nürnberg",
+      "H": "Karlsruher SC",
+      "O": {
+        "A": 2.55,
+        "H": 2.75,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Dynamo Dresden",
+      "H": "SSV Jahn Regensburg",
+      "O": {
+        "A": 3.4,
+        "H": 2.05,
+        "D": 3.5
+      }
+    },
+    {
+      "A": "1. FC Heidenheim",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 3,
+        "H": 2.4,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "Hamburger SV",
+      "H": "FC Erzgebirge Aue",
+      "O": {
+        "A": 1.7,
+        "H": 4.5,
+        "D": 3.85
+      }
+    },
+    {
+      "A": "VfB Stuttgart",
+      "H": "SpVgg Greuther Fürth",
+      "O": {
+        "A": 1.8,
+        "H": 4.1,
+        "D": 3.8
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "Arminia Bielefeld",
+      "O": {
+        "A": 5.7,
+        "H": 1.53,
+        "D": 4.25
+      }
+    },
+    {
+      "A": "SV Sandhausen",
+      "H": "VfL Bochum",
+      "O": {
+        "A": 3.1,
+        "H": 2.2,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "VfL Osnabrück",
+      "H": "FC St. Pauli",
+      "O": {
+        "A": 3.6,
+        "H": 2,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "Holstein Kiel",
+      "H": "Hannover 96",
+      "O": {
+        "A": 2.8,
+        "H": 2.35,
+        "D": 3.45
+      }
+    },
+    {
+      "A": "Hannover 96",
+      "H": "1. FC Nürnberg",
+      "O": {
+        "A": 2.85,
+        "H": 2.45,
+        "D": 3.25
+      }
+    },
+    {
+      "A": "SV Wehen Wiesbaden",
+      "H": "VfL Osnabrück",
+      "O": {
+        "A": 3.75,
+        "H": 1.97,
+        "D": 3.4
+      }
+    },
+    {
+      "A": "VfL Bochum",
+      "H": "SV Darmstadt 98",
+      "O": {
+        "A": 3.2,
+        "H": 2.25,
+        "D": 3.3
+      }
+    },
+    {
+      "A": "SSV Jahn Regensburg",
+      "H": "Hamburger SV",
+      "O": {
+        "A": 6.4,
+        "H": 1.45,
+        "D": 4.65
+      }
+    },
+    {
+      "A": "Karlsruher SC",
+      "H": "1. FC Heidenheim",
+      "O": {
+        "A": 3.7,
+        "H": 2,
+        "D": 3.35
+      }
+    },
+    {
+      "A": "FC Erzgebirge Aue",
+      "H": "Dynamo Dresden",
+      "O": {
+        "A": 2.85,
+        "H": 2.55,
+        "D": 3.15
+      }
+    },
+    {
+      "A": "SpVgg Greuther Fürth",
+      "H": "Holstein Kiel",
+      "O": {
+        "A": 3.95,
+        "H": 1.85,
+        "D": 3.7
+      }
+    },
+    {
+      "A": "FC St. Pauli",
+      "H": "SV Sandhausen",
+      "O": {
+        "A": 2.9,
+        "H": 2.45,
+        "D": 3.2
+      }
+    },
+    {
+      "A": "Arminia Bielefeld",
+      "H": "VfB Stuttgart",
+      "O": {
+        "A": 4,
+        "H": 1.83,
+        "D": 3.7
+      }
+    }
+  ]
+}
